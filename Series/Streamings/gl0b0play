@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+        <channel>
+		<name>Origem</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/pQvqGK6KQDILL7SJrhMQsRvJfLB.jpg</fanart>
+		<genre>Suspense, Terror</genre>
+		<date>20.02.2022</date>
+		<studio>GLOBOPLAY</studio>
+		<info>Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.</info>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20from</externallink>
+	</channel>
+	<channel>
+		<name>Spartacus</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xyHrlFr8W9bGysDsYQRRfD3cdoR.jpg</fanart>
+		<date>22.01.2010</date>
+		<genre>Drama</genre>
+		<info>Traído pelos romanos, forçado à escravidão e renascido como gladiador. A clássica história do mais famoso rebelde da república volta à vida, nessa nova série de ação e visual impactante, Spartacus: Blood and Sand (Sangue e Areia). Tirado de sua terra natal e arrancado do convívio da mulher que ama, Spartacus é condenado a viver no mundo brutal da arena, onde o sangue e a morte são os principais entretenimento do povo. Mas nem todas as batalhas são lutadas sobre a areia. Traições, corrupção e a abundância de prazeres sensuais vão constantemente testar Spartacus. Para sobreviver, ele deve ser mais do que um homem; mais do que gladiador; ele deve ser uma lenda.</info>
+		<studio>GLOBO PLAY</studio>
+		<items>
+			<item>
+				<title>Spartacus  - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34c1b9e9e5903f158f6855c504016b033c748fda</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/6TGfjey8hUzovbchHWaS8iNMTF6.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Spartacus - 2ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19f1a663d0fa4f8ff114e5eb3ea9f4ed0f2aacbd</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/x2K55OIAHZsiiiVsAyL2TWB1PNP.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Spartacus  - 3ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e163872f0b286e3505e1bb2d0d09be0422d211bd</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/8tI3cyuWKbZHZLzOhyjFP9sUkRn.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Spartacus  - 4ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c78aeb209e9d1a4baef4d56ee3d7b80db3241a5</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>Gangues de Londres</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6dTwjHpged17xJFC2ESf338fX5l.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xTwCCkpz4UAGmrUGtz7MW7OWBrC.jpg</fanart>
+		<date>23.04.2020</date>
+		<genre>Crime, Drama</genre>
+		<info>O drama é ambientado na Londres contemporânea, à medida que é dilacerado pelas lutas de poder envolvendo várias gangues internacionais. A série começa quando o chefe de uma gangue criminosa é assassinado e o vácuo de poder ameaça a frágil paz entre as outras organizações do submundo.</info>
+		<studio>GLOBOPLAY</studio>
+		<items>
+			<item>
+				<title>Gangues de Londres: 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:746a1111f66fc7744f37b763c63d8b57c88fc2c5$nome=Gangues de Londres T01 E01</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f812f8fef3d03a9e84cd05a9557a92989e6a93c$nome=Gangues de Londres T01 E02</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b94baef14e03d320e9f534115a1ec572860abec7$nome=Gangues de Londres T01 E03</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7633f7e49c8ebcfa3d39ed9e8fab8c9b55f409df$nome=Gangues de Londres T01 E04</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33ffd965fbdc48dc12aba499bc22df58093cc474$nome=Gangues de Londres T01 E05</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fa7c9b462af6acc038208aa552458f92d571e40$nome=Gangues de Londres T01 E06</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f884fed3e2eff29351fa80f706c8ff7cd55a4c4f$nome=Gangues de Londres T01 E07</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35673a7a701ad5fa4cf965bb33648b59ebecf1bf$nome=Gangues de Londres T01 E08</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea8b72e099c9ef18c2a670ab186ff69ca6960178$nome=Gangues de Londres T01 E09</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6dTwjHpged17xJFC2ESf338fX5l.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>Gangues de Londres: 2ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d495fd58c304cffd449e3ce2eb4dc96597b3607$nome=Gangs of London S02 1080P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:165c21e1594c9d896ec4423d004fedd372625316$nome=Gangs of London S02 2160P</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6dTwjHpged17xJFC2ESf338fX5l.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+		<name>The Good Doctor</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xXRsKNJHTOGrs5wfYAxkbM2RiyT.jpg</fanart>
+		<date>25.09.2017</date>
+		<genre>Drama</genre>
+		<info>Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.</info>
+		<studio>GLOBOPLAY</studio>
+		<items>
+			<item>
+				<title>T01 : The Good Doctor - Completo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55fda2c8f931808e902ff9668a649b542cc45642</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/hiNyjUSTFrbMv3Sc0CxNW2o39az.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>T02 : The Good Doctor - Completo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9aa1ce40ad1c2c5419c1fb4041a3c7b26f82a642$nome=The Good Doctor T02 - 720P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8fff126bdb3c15eb6c47c013a163768800fb907$nome=The Good Doctor T02 - 1080P</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/sIq4SFloM0JSeRNAQVqb5g5zAng.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>T03 : The Good Doctor - Completo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf8bbf97dfe009108a741d5871038a93d5184de9$nome=The Good Doctor T03 E01-10</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b18a1003f06b97721c8ce5e22fa9d59f23ddb96f$nome=The Good Doctor T03 E11-18</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b86054029cfab94c944ec44ad37d93df08bd4fd$nome=The Good Doctor T03 E19-20</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/8QFssOwaWZ3eB60cGwDpfrZBscv.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>T04 : The Good Doctor - Completo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e4221e1275d2f55718b3d5a52515fa33f361e8$nome=The Good Doctor T04 E01-12</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73e02081edb1b1d06cf7c739a30db6e054609941$nome=The Good Doctor T04 E13-20</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/jtLB7xJKcbekmOYkb5NZditBsgk.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>T05 : The Good Doctor - Completo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5457e6164696bfcfaaa9f5e646495894bd96733f$nome=The Good Doctor T05 E01-07</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4209eba452f8eb6013a1f0a0c43d993449e54dfd$nome=The Good Doctor T05 E08-18</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/jtLB7xJKcbekmOYkb5NZditBsgk.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>T06 : The Good Doctor - Completo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6df1f06ab6930308fd1e1575814dc10036e4c24e$nome=The Good Doctor T05 E01-09</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e908148fbc638f2e913e9854f388daea9650331d$nome=The Good Doctor T05 E10-22</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/jtLB7xJKcbekmOYkb5NZditBsgk.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+		<name>O Ato</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/1yhQGQH7pfKdIY2xJSYNdp8ReD6.jpg</fanart>
+		<date>20.03.2019</date>
+		<genre>Drama, Crime</genre>
+		<info>O relacionamento entre Dee Dee Blanchard e sua filha Gypsy, que acreditou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato.</info>
+		<studio>GLOBOPLAY</studio>
+		<items>
+			<item>
+				<title>O Ato - 1° Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2274e8736d96421570d30b0f9a27ec11b07ae081</link>
+				<thumbnail>https://br.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg</thumbnail>
+				<genre>Drama, Crime</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		
+		   <channel>
+		<name>Os 12 Macacos</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ipqgTWtVgaY4V12bbAvuwV2dvBO.jpg</fanart>
+		<date>16.01.2015</date>
+		<genre>Sci-Fi & Fantasy, Drama</genre>
+		<info>Em um mundo pós-apocalíptico, a humanidade é forçada a viver nos subterrâneos depois que um vírus mortal é liberado. James Cole, um condenado, é enviado ao passado com o objetivo de reunir informações sobre o vírus para que os cientistas possam erradicá-lo.</info>
+		<studio>GLOBOPLAY</studio>
+		<items>
+			<item>
+				<title>12 Macacos - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9ea6d7d442f76434ebdc4f222799314007851a9</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg</thumbnail>
+			</item>
+			<item>
+				<title>[COLOR yellow]2ª Temporada[/COLOR] [Legendada]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E01</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4636d473bb39c2c8218903ad5626bd5c449fde68</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E02</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a7542fc90b715990a211567aab6bf8843c0b44b</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bebf43835448730823bda779646ec30f30ff165</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8e20dd74d5a4bb3e6653eca048fe7099afe38e0</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e8e014fc68a3d8c045b56aa4b4e9c1b37a670a1</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78f4ed033aa77ca7acdefed18806835857c08ef1</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:315a91c279b679e00a88d0bd5cf3f39b6ad7d7f2</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b7cd8612a2efe37ccae5f3dc2709ea6a224916</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E09</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40edf36562f3a3bbfc2a589d9559a685599377bf</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E010</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:790bbeaa54e36267b7c09daf852b9fc299b2cb77</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E011</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:693db19115130d80906eddd20e0c83e0fcb3c276</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E012</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8634b557f2345284a2b399909c44be633c1403d5</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T02 E013</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1882d985db39651959dbae6675f595fe2a8f48c4</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos - 3ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:821c35272aebcdad68000a0a6ced7dd524653771</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
+			</item>
+			<item>
+				<title>[COLOR yellow][B]12 Macacos - 4ª Temporada[/B][/COLOR] [B]Legendada[/B]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E01</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:820922983ecdb640169e1947e69fe587a7d4331b</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E02</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:371d563837cedd932d3b73fad6f86673b3dd9057</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e29b0eeae3ac05c86817e14cfa93dc6aac107b2</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f9d088cef6e47aee3d1a89e229de1fd4d988df5</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12742736a45f2439e98bcc871e83d4774b22bbf3</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84128dc487d43311a2e79401f73fbc2defb2b663</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:263a564dbccd9a73ddfc1aee124eecb379bb468e</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a96bbefe3a1e5a4e8b189416da2d2ab1405e9d9</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E09</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b8e172a05bf2110bcd40211c55f00e88faa0219</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E010</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:122caa212ef09568fcbefb2c6143f47d1e82af22</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+			<item>
+				<title>12 Macacos T04 E011</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f834687992807b374c718d0df3b22a129cc2186</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ozeyktTsXDszE8bKyc3owNjownI.jpg</thumbnail>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+	<name>A Mão do Eurico</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8fwWjlsZB0nFH7yJxpyRgcPZg9.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/ziQfPZSeTuj4jaDvr89342eNOim.jpg</fanart>
+	<date>13.11.2023</date>
+	<genre>Documentário</genre>
+	<info>Nenhum cartola foi mais amado e odiado do que ele. Eurico Miranda colecionou títulos, muitas críticas e se tornou o dirigente mais polêmico da história do futebol brasileiro.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>A Mão do Eurico - Minissérie</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05d10e2d41d036cafd8656352a3565454c96fdc3</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8fwWjlsZB0nFH7yJxpyRgcPZg9.jpg</thumbnail>
+			<genre>Documentário</genre>
+		</item>
+		</items>
+		</channel>
+		-----------------------------------------------
+		<channel>
+	<name>As Aventuras de José & Durval</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGeXTTz0BFlK2FYyiCNyEGsrZcZ.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/nj6E5MDnrxqsa6powMnXbwK6pDN.jpg</fanart>
+	<genre>Drama</genre>
+	<date>18.08.2023</date>
+	<studio>GLOBOPLAY</studio>
+	<info>A trajetória dos irmãos Chitãozinho e Xororó, do nascimento no interior do Paraná até a consagração como uma das maiores duplas da música sertaneja.</info>
+	<items>
+		<item>
+			<title>As Aventuras de José & Durval - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fdd8b4d8de0d07eb70b6ce0b11a998db5d101e1$nome=EP 01-3</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3185edcfcbf7bfc43555b6ac048ae93825f3dd41$nome=EP 04</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d42d65fee770de8f25481a8c5043ac6fb40f131$nome=EP 05</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d5fb5c6636adacd5007f9d4a5009889241eb590$nome=EP 06</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32a333f2de2988f9d5ad72e10547da5b7478aea0$nome=EP 07</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/nj6E5MDnrxqsa6powMnXbwK6pDN.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Xuxa, O Documentário</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v0766HNvljZ4PY6ghG57h2hva6x.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/qXiVzw1Oc3jM0QgCyjFUSqHxljh.jpg</fanart>
+	<genre>Documentario</genre>
+	<date>13/07/2023</date>
+	<studio>GLOBOPLAY</studio>
+	<info>A trajetória de Maria da Graça Xuxa Meneghel e como ela conquistou o Brasil e se consagrou a Rainha dos Baixinhos.</info>
+	<items>
+		<item>
+			<title>Xuxa, O Documentário T01 E01</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e2e1d651b91bfdb7a02c19c48dec07f270a8147</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/qXiVzw1Oc3jM0QgCyjFUSqHxljh.jpg</thumbnail>
+			<genre>Biografia | Documentário</genre>
+		</item>
+		<item>
+			<title>Xuxa, O Documentário T01 E02</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e983e91db52ffbbbc2c38c03010937b8a37a15</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/qXiVzw1Oc3jM0QgCyjFUSqHxljh.jpg</thumbnail>
+			<genre>Biografia | Documentário</genre>
+		</item>
+		<item>
+			<title>Xuxa, O Documentário T01 E03</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd8ddbd021246c90b1508d47133a14c929fcb4fe</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/qXiVzw1Oc3jM0QgCyjFUSqHxljh.jpg</thumbnail>
+			<genre>Biografia | Documentário</genre>
+		</item>
+		<item>
+			<title>Xuxa, O Documentário T01 E04</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4048eeab343c3fb57c92841c1cd7aa222ec5f3d</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/qXiVzw1Oc3jM0QgCyjFUSqHxljh.jpg</thumbnail>
+			<genre>Biografia | Documentário</genre>
+		</item>
+		<item>
+			<title>Xuxa, O Documentário T01 E05</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4048eeab343c3fb57c92841c1cd7aa222ec5f3d</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/qXiVzw1Oc3jM0QgCyjFUSqHxljh.jpg</thumbnail>
+			<genre>Biografia | Documentário</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Day of the Dead</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iBeWa2Ds2uCjTOlMikiBqETsS2X.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/vQi00V5qQ5gEJiql9GjWWzDKwdu.jpg</fanart>
+	<genre>Action & Adventure, Sci-Fi & Fantasy</genre>
+	<date>03.10.2021</date>
+	<studio>GLOBOPLAY</studio>
+	<info>"[I]Eles estão vindo para você.[/I]"
+
+Um grupo de seis estranhos vai-se unir para tentar sobreviver às primeiras 24 horas desta invasão assustadora de zombies</info>
+	<items>
+		<item>
+			<title>Day of the Dead - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62c3ce8d5396b595e956582b15414a81151b9153</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/vQi00V5qQ5gEJiql9GjWWzDKwdu.jpg</thumbnail>
+			<genre>Ação | Ficção | Terror</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Travessia</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/jANJGWIKavzyREXUMCHiXFzitDO.jpg</fanart>
+	<genre>Soap, Drama</genre>
+	<date>10.10.2022</date>
+	<studio>GLOBOPLAY</studio>
+	<info>Brisa é uma maranhense que tem sua imagem ligada a uma deep fake. Ela começa a ser perseguida por populares e precisa fugir para o Rio de Janeiro. Brisa também parte para o sudeste em busca do marido, Ari, que a abandona junto com o filho no Maranhão. De caráter duvidoso, o rapaz se apaixona e vai atrás da rica Chiara. No Rio de Janeiro, a moça pretende recomeçar a sua vida. Ela quer provar sua inocência e reaver a guarda do filho, que ficou no Nordeste com sua sogra, Núbia. Para tentar se desvincular do crime, a mocinha conta com a ajuda de Otto. Trata-se de um hacker habilidoso que pretende acabar com o crime.</info>
+	<items>
+		<item>
+			<title>Travessia - T01 E01</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ebc8b2e10aa93db8cd4980ea46132e08dcc2ae8</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+			<genre>Soap, Drama</genre>
+		</item>
+	<item>
+		<title>Travessia - T01 E02</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52b196d858a02ae676d46e2113bf2470f9d2be19</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E03</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b622b54216045c2d56e22754e9dd5b228855591</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E04</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15d218b683a6033b9087b9c2badce7b40e1101d3</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E05</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef44dda035d93b57b4acf04feb13fc7ee4779f14</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E06</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34d79f2403cfd73304188270c7988195adbd32b1</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E07</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9326368f88f2a9625ecbff4345a576021f7d0e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E08</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9326368f88f2a9625ecbff4345a576021f7d0e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E09</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea48da8247a6dd02a310afe04fbb1e655c64cfc</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E10</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344c689a16b4d75aeef17805d310cd5f1b8fec96</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E11</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3ad4197d5eee89a5fd6ceddaf1afc87bdc058ea</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E12</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f92d15581e303069a0e76e5e961724c9c00274d</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E13</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c15435fa3dd549d51eda6bcf3a51d1d76763dd74</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E14</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a80b3cc49570402e708766ef7fc075815b08d6f0</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E15</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37a51a024ff3f8b27cf41f7dad6e062c743930d7</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E16</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d09a6e98e44249b3e8339969457d264c2d9c4e4</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E17</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26ad5368d6bc099bc522feed60c51fa2ba369f33</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E18</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c34b5203d0eedd49d577f078ce8f2b0d7722ab06</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E19</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29cd8a5d24f96d9fc10eaa4bf1b4f62804f57a65</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E20</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e260d900ff992f78e9ba42eea3b7a57236d241e3</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E21</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52b196d858a02ae676d46e2113bf2470f9d2be19</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E22</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e8d42709d884a659808d0e3f37bb292bee0fa9b</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E23</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3c2c879758130ed1a45c5571b3317e899b814fe</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E24</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:211d97c73ef4e8a9dd71fd8b947918f0636e5a09</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E25</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4737f750073990960cd6e97ed87427ec507f490</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E26</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd35f994cbe4a53e75b716852443ba063664958b</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E27</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54d4488ef8a395a8b80516d51d6b3e37cee8311a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E28</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5831e584de82e554da34da18d7aea6f83aaaac7f</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E29</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10b8e9d26f3c3cf7919fd84fe449bf7b0018079e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E30</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d05545ea51de5740dc08a95367920bb142a0c708</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E31</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b9d3ed38e2f1e6db766ffd6e009eb041e8bed57</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E32</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c53662b0f2deb5a6c4c9eba7b8459018dee181ef</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E33</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bea990608b11eafcaeb330ed44dc642bb4ae4f5f</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E34</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4800608bc64959d86a16225d6049f7511d384b9</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E35</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d943261e94dd73afcae9f4d7b75a490b4c79822d</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E36</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9139ab1b2596ed211418e21f116cb64ecff948f</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E37</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3735bec72101995a0132992b7270824d0ff5e112</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E38</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf1219579ca7908066496c0961e34a4f927b0d0d</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E39</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4a2157f72cf350b54cb3b08944326391baaeb7f</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E40</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6837d1e56bc94468a82961acd751ed97c65db27a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E41</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96a4d5f40ddf8eb8abc7065be9c346adf1717936</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E42</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff4d63fce66480703d16dc50fdc88d8a587586ef</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E43</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56dc1c4ab4d3cbf88e18040871b2cd1bf5be914c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E44</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:515b20f212e2fdbd2ebaccb084f1d4112d88154a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E45</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3471093d037848cd98bc26425d0ce3975775ec2</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E46</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f256a32cffa716c4b9e78f6061361adc593e7b67</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E47</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1bfc87d72a1497bef8e9eb83268b3c967b8bc2</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E48</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d92608163019f8d41515bce2bd5e4dc4fbdb372f</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E49</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9950a0d07cd70b1c1008ed3120ec237a92c2108b</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E50</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e54cc18f07e75dfb844a04ef262766783897d790</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E51</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56e3193a84175dbc34ae0e378e38981f5a32a5ef</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E52-53</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ddb251363c591097fa88774fc8212abe1c1e90e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E54</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08d67ea90396e461804e64242cfa3acc0f9c91b4</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E55</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1b9d1d5aec705c9261cbbe77651486da68f9158</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E56</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ff4f9b3fcc0a7e4cff4c45128ef08435c20321c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E57</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e277ef6fa016b9aa9ea9be88c9abe859df4c4866</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E58</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:396a92d22abda635ff149162f4e122025ec62011</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E59</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dcdd1ab7535214ba8bce2d13ff9607ba09c12cf</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E60</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:333f4e6abc217a94846563f8dff2bb49c7871bce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E61</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b7e9430ec912a1bee76561bc7241ae8b0b16d7</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E62</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b13a75c9f86d231d9223c6ad81c04ba520705a4b</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+	<item>
+		<title>Travessia - T01 E63 (breve)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+		<genre>Soap, Drama</genre>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Vale Tudo com Tim Maia : Minissérie </name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5oHRA6RMf3rjlxFchdgC0halhmL.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/v09qvLAJ60QcnNcXzJUbbdjLThr.jpg</fanart>
+	<genre>Docmentario</genre>
+	<date>28.09.2022</date>
+	<studio>GLOBOPLAY</studio>
+	<info>A série traz o próprio Tim Maia narrando sua história, a partir de entrevistas raras, muitas delas inéditas, shows exclusivos e filmagens caseiras.</info>
+	<items>
+		<item>
+			<title>Vale Tudo com Tim Maia : Minissérie</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f652e76787de302dd4bb3171546931a251de26e9</link>
+			<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkun1lIun9CKmpuWkySNvimMOxEASW73k3nALnMkUJqsenX4RxYTC3Pje4yc5RXq-pNPPubMKMxsUkrIxMn5qt_5Otsh5XhZKf0Nj9GegNxHTo06Aq5aMxZumhbZWRveHJgmKCOmATscfl4XSDWO5iwdQUdZ1eFj27VWc4izniAtKMR46njlkjYmCamQ/s370/Vale-Tudo-com-Tim-Maia-2022.jpg</thumbnail>
+			<genre>Documentário</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>O Caso Celso Daniel</name>
+	<rate>7.3</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rDdyrafaDi4zhhqNRABY6bivDhK.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/kkNre5n1w6ade4a5aBA8PbqXjkg.jpg</fanart>
+	<genre>Documentário, Crime</genre>
+	<date>22.01.2022</date>
+	<studio>GLOBOPLAY</studio>
+	<info>Em janeiro de 2002, num domingo, o corpo de Celso Daniel é encontrado em um terreno baldio de Itapecerica da Serra. Sete tiros, um na boca. Celso era prefeito de Santo André, e um dos principais nomes do PT em franca ascensão. Vinte anos depois do brutal assassinato, finalmente o Brasil vai saber de todas as hipóteses do crime - e as conclusões da polícia, do Ministério Público e da própria família. Celso Daniel vai finalmente descansar em paz.</info>
+	<items>
+		<item>
+			<title>O Caso Celso Daniel - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b59e24cfeac0a577595a8fd9b0119fc53b5f4dd2</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rDdyrafaDi4zhhqNRABY6bivDhK.jpg</thumbnail>
+			<genre>Documentário, Crime</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Mar do Sertão</name>
+	<rate>8.1</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/o8zk3QmHYMSC7UiJgFk81OFF1sc.jpg</fanart>
+	<genre>Soap, Drama</genre>
+	<date>22.08.2022</date>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie-mar-do-sertao</externallink>
+	<info>Na pequena Canta Pedra, o amor de Candoca e Zé Paulino é interrompido quando ele sofre um acidente e é dado como morto. Anos depois, ele volta em busca de justiça e antes do casamento de sua ex-noiva com Tertulinho.</info>	
+</channel>
+		-
+		<channel>
+	<name>Turma da Mônica - A Série</name>
+	<rate>N/A</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lQmJRW6vwKSAROylB3JrrGJGccj.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/t7K3xMZlhBiXD1ogIUoJrDxfPyz.jpg</fanart>
+	<genre>Action & Adventure, Família, Kids, Drama, Mistério</genre>
+	<date>21.07.2022</date>
+	<studio>GLOBOPLAY</studio>
+	<info>Quando a festa da popular Carminha Frufru é misteriosamente sabotada, Mônica e seus amigos se tornam os principais suspeitos, e vão precisar superar suas inseguranças e revelar seus segredos para decifrar o mistério.</info>
+	<items>
+	<item>
+		<title>Turma da Mônica - A Série</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abb3bb731af326884c1042d00b1a00ff976c5094</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lQmJRW6vwKSAROylB3JrrGJGccj.jpg</thumbnail>
+		<duration>1380</duration>
+		<genre>Action & Adventure, Família, Kids, Drama, Mistério</genre>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Gaslit</name>
+	<rate>7.6</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/original/o8LBdstmN18UapAojYSzIxSIAxs.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iKP3QEN2yK6bs8zURf17rN4UE8g.jpg</fanart>
+	<genre>Drama</genre>
+	<date>18.06.2022</date>
+	<info>Uma visão moderna do escândalo político de Watergate dos anos 1970, centrado em histórias não contadas e personagens esquecidos da época.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Gaslit - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d29e93a8449976fb3158a73c80e5f1b0864ca6dc</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o8LBdstmN18UapAojYSzIxSIAxs.jpg</thumbnail>
+			<duration>3600</duration>
+			<genre>Drama</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>La Brea: A Terra Perdida </name>
+	<rate>5.6</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iAX52erb2JD660VAw3Jvi9SAVTR.jpg</fanart>
+	<genre>Aventura | Drama | Ficção</genre>
+	<date>28.09.2021</date>
+	<info>Quando um buraco gigante se abre misteriosamente em Los Angeles, uma família é dividida, separando mãe e filho do pai e filha. Uma metade desta família é transportada inexplicavelmente a um mundo primitivo junto com um grupo de estranhos. Juntos, eles precisam sobreviver, enquanto acham uma forma de voltar para casa.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20la%20brea</externallink>
+</channel>
+		-
+		<channel>
+	<name>Um Milhão de Coisas</name>
+	<rate>7.8</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tAXZvYajTRWEYcvc40w0SIwmyqi.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/nz7wluvOuF8zwePBp2WydDEShOB.jpg</fanart>
+	<genre>Drama</genre>
+	<date>26.09.2018</date>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20um%20milhao%20de%20coisas</externallink>
+	<info>Um grupo de amigos percebe que precisa aproveitar mais a vida quando um deles morre de repente. No caminho, eles veem que a amizade pode ser o único modo de salvá-los deles mesmos.</info>
+	<studio>GLOBOPLAY</studio>
+</channel>
+   -
+		<channel>
+	<name>O Caso Evandro</name>
+	<rate>9.2</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/90xXYiJ8BxCVsJkt3r8b0KVFZaM.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/AhJ0DZavpUUduWvU1q9R07dpTOW.jpg</fanart>
+	<genre>Documentario</genre>
+	<date>13.05.2021</date>
+	<info>Confira a história do desaparecimento de um menino no Paraná e da investigação do caso.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20caso%20evandro</externallink>
+</channel>
+		-
+		<channel>
+	<name>Pantanal</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xHBDCDYI6HOXJBRS1SSw4nvnHHV.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/g5LkJJCBXxULsY7s48U5VAeWg2I.jpg</fanart>
+	<date>28.03.2022</date>
+	<genre>Drama, Novela</genre>
+	<info>Após o misterioso desaparecimento de seu pai, Joventino, o vaqueiro José Leôncio torna-se um rico proprietário de uma fazenda no Pantanal. Mais de vinte anos se passaram e, amargurado com o desaparecimento do pai e a fuga da esposa para o Rio de Janeiro com o bebê, José Leôncio tem a chance de se reconciliar com o menino, agora um jovem criado na cidade grande com valores e hábitos muito diferentes dos seus.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20pantan4l_globoplay</externallink>
+</channel>
+		-
+		<channel>
+	<name>FBI: Os Mais Procurados</name>
+	<thumbnail>https://www.themoviedb.org/t/p/original/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+	<date>07.01.2020</date>
+	<genre>Crime, Drama</genre>
+	<info>Uma equipe do FBI se dedica a rastrear e capturar criminosos que estão no topo da lista de foragidos da organização.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20FBI%20Os%20Mais%20Procurados</externallink>
+</channel>
+
+-
+		<channel>
+	<name>Hebe</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bm2lhjTwx924r7VW8V7qvEkZA2t.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/mpCrOOo3Cgx5zCAmzJ5SJa4t5xx.jpg</fanart>
+	<date>13.12.2019</date>
+	<genre>Drama</genre>
+	<info>Entre idas e vindas no tempo, ao longo de 8 décadas, a história da menina pobre do interior que realiza o sonho de se tornar uma grande estrela sempre em busca de sua verdade.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+	<item>
+		<title>Hebe - 1ª Temporada</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbfe4ed79d4529fae6dbdc9a8a929af6ca88e430</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/4dtJrEmGpy8EjYR1w6YIPOKqj6s.jpg</thumbnail>
+		<genre>Drama</genre>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Toma La, Da Ca</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d00Hpwh70yAapKSmaIhBhTFn3HN.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/j46YBxcV9LiOY2eKgbSHuAvaJpI.jpg</fanart>
+	<date>07.08.2007</date>
+	<genre>Comédia, Família</genre>
+	<info>Duas famílias separadas por um corredor, mas que participam ativamente da vida uns dos outros.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Toma Lá, Dá Cá - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0279e753d3fe499ae7fb7f75918fb4c841e2906a</link>
+			<thumbnail>https://m.media-amazon.com/images/M/MV5BODA2NjU2ZTgtY2U0ZS00OWZmLThiNmUtMzRlZjFmNmY0N2Q5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_FMjpg_UX1000_.jpg</thumbnail>
+			<genre>Comedia, Familia</genre>
+		</item>
+		<item>
+			<title>Toma Lá, Dá Cá - 2ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f40e4d1fc6be3bd13f23e2f6560f8e5a45aa42a1</link>
+			<thumbnail>https://m.media-amazon.com/images/M/MV5BODA2NjU2ZTgtY2U0ZS00OWZmLThiNmUtMzRlZjFmNmY0N2Q5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_FMjpg_UX1000_.jpg</thumbnail>
+			<genre>Comedia, Familia</genre>
+		</item>
+		<item>
+			<title>Toma Lá, Dá Cá - 3ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e65fb078323e9bab2a33e36157de441dea3e47b1</link>
+			<thumbnail>https://m.media-amazon.com/images/M/MV5BODA2NjU2ZTgtY2U0ZS00OWZmLThiNmUtMzRlZjFmNmY0N2Q5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_FMjpg_UX1000_.jpg</thumbnail>
+			<genre>Comedia, Familia</genre>
+		</item>
+		</items>
+		</channel>
+		-
+		<channel>
+	<name>Chicago Med: Atendimento de Emergência</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</fanart>
+	<date>17.11.2015</date>
+	<genre>Drama</genre>
+	<info>A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20Chicago_med</externallink>
+</channel>
+		-
+		<channel>
+	<name>Pingu</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/10UOUxOjmLCwGOvNXNaiIdWXav.jpg</fanart>
+	<date>28.05.1986</date>
+	<genre>Animação, Comédia, Kids</genre>
+	<info>Exibido em pequenos filmes de 5 minutos, a animação conta a história de um pinguim que vive no Pólo Sul com seu pai, que trabalha como carteiro, sua mãe e sua pequena irmã, Pingá.</info>
+	<studio>AMAZON</studio>
+	<items>
+		<item>
+			<title>Pingu - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e3c96a871c163fdf530ea4c8c360d6969d54df5</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/mjN7WW4JHkFfaMKUDcN8hmgJvh5.jpg</thumbnail>
+			<genre>Animação, Comédia</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Justiça</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Jit3hR4CY4LrU06fiLdF0L7SPS.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/dY24bRRqvSjOacyV127z35j2gKv.jpg</fanart>
+	<date>22.08.2016</date>
+	<genre>Drama, Crime</genre>
+	<info>Traição, desejo de vingança, assassinatos e armações são alguns dos temas de quatro histórias nas quais há sempre um dilema moral envolvido.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Justiça - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:888f8f4b58dea20ca78edb4745955d2bbbf4dd2b$nome=[B]Justiça.Episodio 01[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9edf8a15f3cc9eb9320ce44ee949a097f95b8253$nome=[B]Justiça.Episodio 02[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7960bb52dfcd7267f870cc9a425c95ef46ec5a9$nome=[B]Justiça.Episodio 03[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad4c4c9bb2ec402c621aec99dd2723b288a6abb1$nome=[B]Justiça.Episodio 04[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60a63f7b60f48e99172ac6727a02336f2dd9d962$nome=[B]Justiça.Episodio 05[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:101bd49f361652b20bafb9c08510ec44e3faffe6$nome=[B]Justiça.Episodio 06[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c71902405610c89f52f50e7e94a4552a984c88f1$nome=[B]Justiça.Episodio 07[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:304f2879e300a4d5dabb11bb5703d2016888dadb$nome=[B]Justiça.Episodio 08[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a6587df73c205e4f638a89416d47bacbab37019$nome=[B]Justiça.Episodio 09[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17a48e50f75ccf40e0c34bfe6b25d1c878106485$nome=[B]Justiça.Episodio 10[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3bb0a8fb5bba37a1203a90c1aef695d7f6135b4$nome=[B]Justiça.Episodio 11[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b14ac25cf6da59f28395b110ff265df94f86732$nome=[B]Justiça.Episodio 12[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42a21481f2d364510971d0e8d4b519c06eb85b89$nome=[B]Justiça.Episodio 13[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95f256b24d3b7bc00fbff44650ba39febbbc77ae$nome=[B]Justiça.Episodio 14[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c83d5da60874e62174666b591e0336c59fd63f1$nome=[B]Justiça.Episodio 15[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dc082173e6aff19a57768def21aa0c8e397b2a4$nome=[B]Justiça.Episodio 16[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:196f72011fc3759f428736db94fa017b90ea0dbc$nome=[B]Justiça.Episodio 17[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ba49771b2ff8049fc06b9d485eb75bef936a090$nome=[B]Justiça.Episodio 18[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10e3935eced97a5b51de2c5879274d0dbcb5ed0d$nome=[B]Justiça.Episodio 19[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74c569914cfd964a3fde703602096954bd2d481$nome=[B]Justiça.Episodio 20[/B]</link>
+			<thumbnail>https://media.fstatic.com/YUxNdpNZrRWPR9hMv2dQ2HVALlQ=/210x312/smart/media/movies/covers/2018/07/131848343SZ.jpg</thumbnail>
+			<genre> Policial, Drama, Suspense, Nacional</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>A Grande Família</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/vZ9wnD0A4RnplxKR8jI2JkkIWFS.jpg</fanart>
+	<date>29.03.2021</date>
+	<genre>Comédia, Família</genre>
+	<info>Um retrato bem-humorado do cotidiano repleto de conflitos, crises conjugais, dificuldades profissionais e financeiras e também de muito amor e união de uma família suburbana.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>A Grande Família - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ae4f1469105147b4cef8a704d54d8320ea7551a</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/vZ9wnD0A4RnplxKR8jI2JkkIWFS.jpg</thumbnail>
+			<genre>Comédia, Clássico, Nacional</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Águas do Norte</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/RpmxKrYoW8RBA1orEoa1EJsiiA.jpg</fanart>
+	<date>14.07.2021</date>
+	<genre>Drama, Misterio</genre>
+	<info>Patrick Sumner é um ex-cirurgião das Forças Armadas. Esperando fugir dos traumas seu passado, ele vai a uma expedição no Ártico. Porém, descobre novos horrores que não imaginava.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Águas do Norte - Completo [Leg]</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5faadbfd46b4359e6889bda96e507bae9af9c011</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg</thumbnail>
+			<genre>Drama, Misterio</genre>
+		</item>
+		</items>
+		</channel>
+<channel>
+	<name>Havaí Cinco-0</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg</fanart>
+	<date>20.09.2010</date>
+	<genre>Crime, Drama, Action & Adventure</genre>
+	<info>A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20hawaii%20five-0</externallink>
+</channel>
+		-
+		
+		<channel>
+	<name>Charmed: Jovens Bruxas</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lVpoG2ILzS4njYNx3Wiv50rHAnt.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iU6XAlXlG9GTIRkRYEcQoJYInDf.jpg</fanart>
+	<date>07.10.1998</date>
+	<genre>Comédia, Drama, Mistério, Sci-Fi & Fantasy</genre>
+	<info>Um grupo de irmãs descobre que são bruxas. Felizmente, para o mundo, eles são boas. Unindo-se em sua antiga casa em São Francisco, eles trabalham juntos para combater o mal, cada uma possuindo um poder especial específico.</info>
+	<studio>AMAZON</studio>
+	<items>
+	<item>
+		<title>Charmed.S01</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10958f57d7ac1ed81e0986a345d02817ef222108</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S02</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01dd5be3f8948b6d669db3bbdd78e55d491b389</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S04</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6abdd6b2cf44500d16e872cb9eb939f8fddf04ad</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S05</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342c15120c2977a8bc98e8274ed4618b8fe47aa7</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S06</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be3ccd3943bc13e3d32a27132b5208d750096e6c</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S07</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f99979be38e7152295e8ee18c13d9ff40e27363</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S08</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2434382a5d3976fd37e3fd370ff13c8605381e6</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Pica-Pau e Seus Amigos</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/7lihWjgpyCiy79VFPafT37su3Z.jpg</fanart>
+	<date>07.07.1941</date>
+	<genre>Animação, Comédia</genre>
+	<info>O programa gira em torno do Pica-Pau, um pássaro maluco que vive se metendo em confusões e vivendo aventuras, com seus diversos amigos e inimigos.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Pica-Pau e Seus Amigos - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccdbf1bc0aa30686370f036d1f152b7260afb15d</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/7lihWjgpyCiy79VFPafT37su3Z.jpg</thumbnail>
+			<genre>Animação</genre>
+		</item>
+		</items>
+		</channel>
+		-
+		<channel>
+	<name>O Novo Pica-Pau</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/vdcuZ7YHLemlTZ5NPfbctumWIg2.jpg</fanart>
+	<date>18.05.1999</date>
+	<genre>Animação, Comédia</genre>
+	<info>Acompanhe as aventuras de um pássaro muito engraçado que sempre se envolve em situações divertidas.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>O Novo Pica-Pau - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dab1422f4dc3138335549e700f0f45e04ac548a1</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg</thumbnail>
+			<genre>Animação, Comédia</genre>
+		</item>
+		</items>
+		</channel>
+		-
+		<channel>
+	<name>The Rookie</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jbMefmo6EjcvpOULP50nfMpGP70.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/2a4GNOnIIPoie3bn0zO8lfHLWLR.jpg</fanart>
+	<date>16.10.2018</date>
+	<genre>Crime, Drama</genre>
+	<info>John Nolan, de 40 anos, muda sua vida para ser um agente policial no Departamento de Polícia de Los Angeles.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20the%20rookie</externallink>
+</channel>
+
+
+</channels>
