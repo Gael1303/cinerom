@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+	<name>Reinado</name>
+	<studio>PARAMOUNT+</studio>
+	<date>17.10.2013</date>
+	<genre>Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qyv9pTDMIaaY13Vc7hfm7wuPG1r.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/ombM2Yd0UORA7AlxXnIQ6ZFd8yE.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20reinado</externallink>
+	<info>Este drama histórico retrata a vida de Mary, Rainha da Escócia, em meio a um turbilhão de intrigas políticas e escândalos sexuais.</info>
+</channel>
+        <channel>
+	<name>Orphan Black</name>
+	<studio>PARAMOUNT+</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tjFYkWMafg71sihs1aa7IDx17aS.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg</fanart>
+	<date>30.03.2013</date>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20orphan%20black</externallink>
+	<info>Depois de presenciar o suicídio de uma mulher (que é exatamente como ela) em uma estação de trem, Sarah Manning (Tatiana Maslany) faz o que qualquer um faria: assume a identidade da suicida para tentar resolver os próprios problemas financeiros. Mas logo ela descobre que está no centro de um mistério que vai mudar sua vida, quando se vê cara a cara com mais três mulheres idênticas a ela. Todas são clones, e precisam salvar as próprias peles enquanto tentam descobrir quem são os responsáveis pelos experimentos genéticos.</info>
+</channel>
+	
+	<channel>
+		<name>Twin Peaks</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg</thumbnail>
+		<fanart>https://</fanart>
+		<date>08.04.1990</date>
+		<genre>Drama, Mistério</genre>
+		<info>A misteriosa morte de Laura Palmer na pacata cidade de Twin Peaks dá início a uma série de problemas ao agente do FBI Dale Cooper e ao xerife Harry Truman. Eles são os responsáveis pela investigação do crime e acabam percebendo que várias pessoas da cidade estão envolvidas e que segredos obscuros estão por trás do caso.</info>
+		<studio>PARAMOUNT+</studio>
+		<items>
+			<item>
+				<title>Twin Peaks - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b4eb1ebd66461e431dc3b3af3110db079a2468</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg</thumbnail>
+				<genre>Policial, Drama, Mistério, Suspense, Clássico</genre>
+			</item>
+			<item>
+				<title>Twin Peaks - 2ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8ca2efddd41b02b746cb006e2805db40a15e064</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg</thumbnail>
+				<genre>Policial, Drama, Mistério, Suspense, Clássico</genre>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>South Park</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/41neXsH222hV2zrsTyw8h7javon.jpg</fanart>
+		<date>13.08.1997</date>
+		<genre>Animção, Comédia</genre>
+		<info>Série animada que satiriza com muito humor negro a sociedade estadounidense ao apresentar situações bizarras e surreais protagonizadas por Stan, Kyle, Eric e Kenny, as crianças mais travessas de South Park.</info>
+		<studio>PARAMOUNT+</studio>
+		<items>
+			<item>
+				<title>South Park - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:726bb731414e1f0c302dcbad6e30b790975cf02d</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/sxCj0Iun46sUUsF5I2NQY6rml4c.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 2ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54334f5968fa14d6c0aaaaca8fb95dc89c11b96f</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oIDheshe9DYsviYn0qVy4yutrRp.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 3ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b8324a4624a234f0c883f6101fcd538b9c35c0d</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/x3jdSHgjyps2VQPmJ6KKgZqVEcE.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 4ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b7b01d6cbf0ef28c936c12033087e75a35ff28</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/hAnKP4GRgOVx4XxA8OgSxmiyXNr.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 5ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa20a4e3e095a21e19a33f04b5ba66c0bc56a6cf</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/mbNzB0ji7QpHAMNnf0xpAJYoQWJ.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 6ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1be7a7685d9d8909ac8f010061f88400a27aee4</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/7nKjCuBH0tGkLwBwxDgxbBrNj5F.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 7ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53b471c0a8e40506595e5f02960bc5b8648db248</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/zYHoEtNxkdAa4g8wPdBdGq8VOzC.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 8ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:deb64120e5a0e29e7ef97c6522fabed480ac6ab8</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/xQRy02kpQHUpy1dD33hmM6QjpCb.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 9ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a96eab7b881f527e14c1ba77db1511dadbc813da</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/5cCxlgStfCVaaZtBuxmIVlHeoli.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 10ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64fcb834f3545c992fc34516dfab0a71e3e1e8be</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/brFCz0wW2bRyOyK81OqwDiJDmFA.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 11ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1a54948d1c256839cfcd0d7ab7ba52f6d8dd5d</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/cVfhCT2wZq3hHCp8i2II8hHjOOg.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 12ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba378b48a0c814492eae069d6d9ba3bce46b85f</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/wVDJyjekgMXqkVAmvplwkVfL9qX.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 13ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6bb80307fd966c38ba23adcf2563b4c9389211b</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/15Lszg1L3w6vGGqFFoTN0asxj5C.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 14ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db86a19986f44e298dcd3dd5fe2c3082bc923e58</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/6Xik83L9tCmLqh0cdxoopOsQm69.jpg</thumbnail>
+				<genre>Animção, Comédia</genre>
+			</item>
+			<item>
+				<title>South Park - 15ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65287c3f45f0d9d0bc49f492965e0fe4f9e952ea</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/6T31LPecW0wIB05VOExvaAssd4f.jpg</thumbnail>
+				<genre>Animção, Comédia</genre>
+			</item>
+			<item>
+				<title>South Park - 16ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a55375b1c82d748577d00c543ff1bac34aad5233</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/rYIXqHRPDKMhyx6fPi5DosDGniq.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 17ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea0ad0f3a84e97f40987c42c6c076a83d71fe3d3</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/spuqYJjCgZZyk0d9OTIRHAyeDaF.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 18ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a44a03fcce74e6c039acf40c71c221a81d87a1ee</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/5IMCLoCtNOyHHYS4dZqMNkwELhU.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 19ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83ab8f4eb053482e3522799d6bc843d709d57c8c</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/7iMBDcRWcCLjeDiZa6Dd3MGgSIm.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 20ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b12383aa6a7f06393deaccbe9fd137b7f6d4d19</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/tQvfdzJFMV70grQBB9ylv35ChGW.jpg</thumbnail>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>Oz</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/4xVe8V43eg95ydfqsgtcIPXKV2e.jpg</fanart>
+		<date>12.07.1997</date>
+		<genre>Crime, Drama</genre>
+		<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados. Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+		<studio>PARAMOUNT+</studio>
+		<items>
+			<item>
+				<title>OZ - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab070645b0ebba4a83af5e86df5157385e8cc83</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/mtz5Pnql5ZiBKncxh7m7whf9jfB.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>OZ - 2ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3338ad393234ccba8a31918a02b74a60c04430a5</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/4vVhQvXw2s8VUOvxzsBI9zZGYhB.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>OZ - 3ª Temporada - Legendado</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0401ce11647cd93c77a3892caa84ccd9fda54882</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oSnGYf7jq29Or74JcTbvq6Q4CJo.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>OZ - 4ª Temporada - Legendado</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461b7c7ae4a00609af58945b17436a563c0721f9</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kRCuEHXjOWS7uoKt4jLIxli1Ezr.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>OZ - 5ª Temporada - Legendado</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e451661b933608bdcfdc37ad355f2df8375c78b4</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ovvzFg1rm1K6Osj3ZoMOCgvTZhr.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>1883</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg</fanart>
+		<date>19.12.2021</date>
+		<genre>Drama, Faroeste</genre>
+		<info>Uma prequela de "Yellowstone", "1883" segue a família Dutton enquanto eles fogem da pobreza no Texas e embarcam em uma jornada pelas Grandes Planícies em busca de um futuro melhor em Montana.</info>
+		<studio>PARAMOUNT+</studio>
+		<items>
+			<item>
+				<title>1883 S01 E01 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d347f81c543f7d83f4a8ac63b3d1f445089a5cd</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E02 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc0943fa42006937fad62f58bee538f76ccd3bfd</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E03 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e6030fd1645ad1add07c3aaf2a52fdceaf8ec5</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E04 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16465eccef4f7d868b55501d42fba37ec9364548</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E05 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:640971af21b6513a971afb09c454cceda5892f81</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E06 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c12a733c5e671697c0b056bcaf7b73369ab65d6d</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E07 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89d586fede321ffab60e036c567f7dfa74389f04</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E08 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38138b5c8c507c495878ed1e952459d2ad9c24cc</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E09 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fce32e7f34fd9b520908673c481a26531b605406</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E10 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fee08a707516b32e29d1bd74176dc38df5915e0</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>Tulsa King</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</fanart>
+		<genre>Crime, Drama</genre>
+		<date>13.11.2023</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Logo após ser libertado da prisão após 25 anos, o capo da máfia de Nova York Dwight “O General” Manfredi é exilado sem cerimônia por seu chefe para se estabelecer em Tulsa, Oklahoma. Percebendo que sua família mafiosa pode não ter seus melhores interesses em mente, Dwight lentamente constrói uma “equipe” de um grupo de personagens improváveis, para ajudá-lo a estabelecer um novo império do crime em um lugar que para ele poderia ser outro planeta.</info>
+		<items>
+			<item>
+				<title>Tulsa King - T01.E01-2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0369318e134d70a20d8407c36952f04befeb1e7c</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94c2af9c4bdfcc937972725d6e9cd92015f4ddda</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e076eeb5a02d8b436c1643e8710a972352a69f9f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c46e4ce122aef50fbd1343933ef774f523ab718</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a474d81c4f3733ea5b8837448894ba1f1f52f08</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b221127ff3054d77b08957b63577e7af56d67d25</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecf266bc0a321b20a62368a05050a3cca61f1733</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E09</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e06e39e9a2be73048aa61440a179790b9a7bef28</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+		</items>
+	</channel>
+            ----------------------------------------------------
+			<channel>
+		<name>Rabbit Hole: Jogo de Mentiras</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gUXPI4ss2gxfxCgW6W0C00v5X5A.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</fanart>
+		<genre>Drama</genre>
+		<date>24.03.2023</date>
+		<studio>Paramount+</studio>
+		<info>O agente espião James Weir se vê no meio de uma batalha pela preservação da democracia em um mundo confrontado com desinformação, manipulação comportamental, estado de vigilância, controle de interesses e poderes extraordinários.</info>
+		<items>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 01-2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5EHRXYMCSMXJ6BXT7PSUI5VKUTEEXO6&dn=Rabbit%20Hole%20S01E01-02%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461642073ea7bd9c75351b3aa2914c8e4d03dcdf&dn=Rabbit.Hole.Jogo.de.Mentiras.S01E03.1080p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LWVOTTBAZLAQVXSNJ5VWNP3NKGSEQFJE&dn=Rabbit%20Hole%20S01E04%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QGUY5FL2LOBAXQZ7WGGRJEDLYLXKHWVM&dn=Rabbit%20Hole%20S01E05%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F3HMTN3VVHT5B75DEMS3NY763HZ5XAW&dn=Rabbit%20Hole%20S01E06%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYEU46BQ53LISLPLCQHFWOJKZ2W2DJPA&dn=Rabbit%20Hole%20S01E07%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5J5KUIIEOXEUC6EUM3UYZ323Z5NQQ5YP&dn=Rabbit%20Hole%20S01E08%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+		</items>
+	</channel>
+           -------------------------------------------------
+
+         <channel>
+	<name>Havaí Cinco-0</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg</fanart>
+	<date>20.09.2010</date>
+	<genre>Crime, Drama, Action & Adventure</genre>
+	<info>A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.</info>
+	<studio>PARAMOUNT+</studio>
+	<items>
+		<item>
+			<title>Hawaii Five-0 - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b43f32993b1311c012da2d83ec1627efc5a848de</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 2ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd5f601b4a5790f0ab20e528bc333dd46575046a</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 3ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7e1ab3069961a2e08b3665bc5550fc4648dc3a3</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 4ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4bc307aaefcd379aa2b88608510800526dbba09</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 5ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a469cb447b54e6d663d4e222ffc7747881e0447</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 6ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:481f746be03ebae0416c8c2856b086a0278d4622$nome=Hawaii Five-0.S06.E01-06</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:322726dffda991c105289b65aed904ce333408af$nome=Hawaii Five-0.S06.E07-25</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 7ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd73de1b4df1d475c643bd8c30c7842af43e915b$nome=[B]Hawaii Five-0.S07.E01[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6a85f5da202350eec51dba624bb6db2384e3f41$nome=[B]Hawaii Five-0.S07.E02[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eedae585f1400dfbfe2525293ddc914575906897$nome=[B]Hawaii Five-0.S07.E03-09[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd568421f2c48c2045f0dbd51f10eaaae9c6263e$nome=[B]Hawaii Five-0.S07.E10[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:007ec37134bf9ae7b011aeead2fb228c7232940f$nome=[B]Hawaii Five-0.S07.E11-12[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e01e5f565c6d7222b0ca1b38c72afcf28288798d$nome=[B]Hawaii Five-0.S07.E13-14[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5fbf29f47c04aebcde6e97b37c060921a577c51$nome=[B]Hawaii Five-0.S07.E15[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbeb0a283c1b6744bd8eedd72c024cac07c22287$nome=[B]Hawaii Five-0.S07.E16[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26de5fb60a96753852d4b0598003b2b94da89bd2$nome=[B]Hawaii Five-0.S07.E17-19[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:473b12b2de7883cec9cc4108c21229f4ab91d3e4$nome=[B]Hawaii Five-0.S07.E20[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3a42332630860277ef7181bf2a40d4ae5312d8$nome=[B]Hawaii Five-0.S07.E21[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:816417c910b37ba66f4d5b63016b27ce90f39d01$nome=[B]Hawaii Five-0.S07.E22[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a36cb269fd0338ec85a588fd78cb5987ab52717$nome=[B]Hawaii Five-0.S07.E23[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ff384717703f18d5b344c3f5ad2e4524a621e68$nome=[B]Hawaii Five-0.S07.E024[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d92fe8563eb3efaefa23d99db970960524f28ae$nome=[B]Hawaii Five-0.S07.E025[/B]</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 8ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2bd565e847d06a21c0fc074212a92872190e382$nome=[B]Hawaii Five-0.S08.E01[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40e7a711e7f0fef993ec5ff60a713a546bf04c84$nome=[B]Hawaii Five-0.S08.E02[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5edc3e2ad22e011168140f6dd82083355d6e517$nome=[B]Hawaii Five-0.S08.E03[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a5d7ac51d1df3aa49c1548de44c467403479e34$nome=[B]Hawaii Five-0.S08.E04[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d1ffbf1c9aab4547a5f9752b92379e6b87b24c$nome=[B]Hawaii Five-0.S08.E05[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8255602967e24b166ea0648ca77b43c2e1122818$nome=[B]Hawaii Five-0.S08.E06[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823bfb4b8368be30edd24039c0a7cfe863a30799$nome=[B]Hawaii Five-0.S08.E07[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0e44c96698efd77246b32ac98854d60a06b0f52$nome=[B]Hawaii Five-0.S08.E08[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ff966458c5fa442b577a46407209e69cbfde01e$nome=[B]Hawaii Five-0.S08.E09[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b8459ba7691ccdc29fdacf6ae434e44e13387ac$nome=[B]Hawaii Five-0.S08.E10[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57409675f54093bf49bd0e4c5fd5df114d8e7e5f$nome=[B]Hawaii Five-0.S08.E11[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22d18dad3943d4e8ebcb296a21f3a798d1f92d70$nome=[B]Hawaii Five-0.S08.E12[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9255008aafca03e33d58a668fdd0fe66418bb84a$nome=[B]Hawaii Five-0.S08.E13[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbb1917b2aca2ec70772306dcc5dda1b053ab126$nome=[B]Hawaii Five-0.S08.E14[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba0ef191b6bbf4be5b755ff91d21c1b163c1254$nome=[B]Hawaii Five-0.S08.E15[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06393cb7a0398dee8ffd5c65a559389cc17c04ab$nome=[B]Hawaii Five-0.S08.E16[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97765845da1f00b97d3bd99fbae5c9a3338260a6$nome=[B]Hawaii Five-0.S08.E17[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:643d35c2da16b98d88e5c6262bf4f25726334c7c$nome=[B]Hawaii Five-0.S08.E18[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84b3f194d08aab1f13d11a38eeee7dd1c7448807$nome=[B]Hawaii Five-0.S08.E19[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f686d9e8032a0608b4db5e6c3beb3ae1be86fe2e$nome=[B]Hawaii Five-0.S08.E20[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9303ae86b09a7f951fd81150ddbc0a0a786b4a9$nome=[B]Hawaii Five-0.S08.E21[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3bd39bf88e41b85b5f87c97851044691500ad74$nome=[B]Hawaii Five-0.S08.E22[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26c245cab41a23e68f5ed809aa43f96d6d98bab7$nome=[B]Hawaii Five-0.S08.E23[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff35bcf327e06c0ed8b6408404943675eda766cb$nome=[B]Hawaii Five-0.S08.E24[/B]</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 9ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:120fa891a1b6ade9d8b9a999dde6d38fa7e08afd$nome=[B]Hawaii Five-0.S09.E01-02[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57c8b91ccc482c4cba537682d404ab1dbbdc05b3$nome=[B]Hawaii Five-0.S09.E03[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0fd8570ddc6555148970d30871d1c812b7a30d4$nome=[B]Hawaii Five-0.S09.E04[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ec8ef65f724fe47e4486632ea7291f93fe340e1$nome=[B]Hawaii Five-0.S09.E05-06[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9ced307f6616996e851390eed90ce14e4538658$nome=[B]Hawaii Five-0.S09.E07[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe55581e3be9babf8ddabb8258a5587b74d5278b$nome=[B]Hawaii Five-0.S09.E08[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60dade32b6ac5e35b859ac9c550c85d8dc51c49c$nome=[B]Hawaii Five-0.S09.E09[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:456073a31675d75bf36555631b77315e7e35247a$nome=[B]Hawaii Five-0.S09.E10[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73bb44621700e696f85c4ca20b12417f57d7e9bf$nome=[B]Hawaii Five-0.S09.E11-15[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f660f3be4a8c3ea8d86265f90e211d78d293cf3a$nome=[B]Hawaii Five-0.S09.E16[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17b806e67a6c088615af53424ffeba093c02aac8$nome=[B]Hawaii Five-0.S09.E17[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:356bd672dc2107e888ee29d7c9ee091ea2c802af$nome=[B]Hawaii Five-0.S09.E18[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3353c3cad39d4a10f20b0c9ab84bbe3e621736cf$nome=[B]Hawaii Five-0.S09.E19[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:647a7d133c8c12145b6d4e2059193808b8b69970$nome=[B]Hawaii Five-0.S09.E20[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e62c5613d612ecef5dec6d95abc63bd7e3a2f1$nome=[B]Hawaii Five-0.S09.E21-25[/B]</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+		<item>
+			<title>Hawaii Five-0 - 10ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+			<thumbnail>https://2.bp.blogspot.com/-cDZY-hqYWPk/WnbcsOpfAxI/AAAAAAAAIAY/tYpMRoCYnSUfAUSVx9W248ngwYs7bjaCQCLcBGAs/s1600/Hawaii-Five-0-torrent-dublado-completa-bluray.jpg</thumbnail>
+			<genre>Ação, Drama, Policial</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>The Rookie</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jbMefmo6EjcvpOULP50nfMpGP70.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/2a4GNOnIIPoie3bn0zO8lfHLWLR.jpg</fanart>
+	<date>16.10.2018</date>
+	<genre>Crime, Drama</genre>
+	<info>John Nolan, de 40 anos, muda sua vida para ser um agente policial no Departamento de Polícia de Los Angeles.</info>
+	<studio>PARAMOUNT+</studio>
+	<items>
+	<item>
+		<title>The.Rookie.T01E01</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cfef977702bb9c6726e6d537374897a243a426e</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E02</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dfe82c9bd8a941d4b3aabec19745c97bafa6401</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E03 e 04</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:261431bccd7642e70a7d8ac2f4334e28e95631e9</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E05</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f039470aa0769948ddbe07b2cbbe57aec9fa4c53</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E06</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414bddff63f50b092a69e976214bf96e524fd7d0</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E07</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0501041a068ca1dc9f504d04b9896e7ab9ee6958</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E08</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e40ce84f708d2533e7073028ffb97c9ba99cad2</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E09</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57e2e26296f8890dd2370caca523cc0db4bcddbc</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E10</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab4c3651957163707fa8cb9fde802bbb5c73864d</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E11</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbf2c0782eb7aa9be71b3f7e467e0f34f9d063de</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E12 e 13</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f13691eca09490e1b8ff796af49d4ee3aa73733b</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E14</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49fe951435085b14e7f837a337b430698a3cdf00</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E15</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50d6e844ae2775ef2bd2de5b5e34fc394a6faf1b</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E16</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dcdbbd654be9e406f9e5ebff3b92abc1ab25880</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E17</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50b4076555bc14cbdc9f6b1fedfb7c4545f6fb9e</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E18</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d06743ed5a0ac0521f686d85c90a9e6a0b1c448b</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E19</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd899673b9d89accb4085159187ae2e90bb0600b</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T01E20</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4a9a8ff9e3e3dc0d4c816b131ae33c0838800e9</link>
+		<thumbnail>https://s2.glbimg.com/TW8Tr2AXpLQ7m2bKd7VvZg1p9mc=/362x536/https://s2.glbimg.com/lC0BMJkUoV_6P6_A1zI6jP0n1J0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/o/P/6mjktjSWqIyxIkIWQ2bQ/2021-34-the-rookie-poster.jpg</thumbnail>
+	</item>
+	<item>
+		<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E01</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd1e170e18824476e013d41f3f25cd688a1b075</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E02</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431d0121e0860ebaf6837839ebcce7c2a826eb60</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E03</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acb0bc38a7a30c505bb61d4fd14bb6cc80fd73df</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E04</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0480380f20fde0e2421102d4510e45bcdd284a9</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E05 e 06</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb816f0745eada51bc22a7774c5a5570f1f50c49</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E07</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a622e2282b0c47e10614fb60dd86c468b800358c</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E08</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9165e30650db40e366ced947af8bd7a7bfd58f1b</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E09</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a9652581612349d919ea594a649330308b09752</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E10</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da2843b253536e0e349399253a4bcee680ee47d</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E11</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05de096e2ad6b9c7a0042f76294f755bfd814aac</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E12</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83989f277a6d31004ebf9fadb5e79730cffb6a0c</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E13</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:214e96ec79e2e116633994594d23e77a169d38be</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E14</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aae1de4aaa53dd5c09517f6dd36febf3d70d741</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E15</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7738fe1d5d7d697b07fa1285f33dded6e4db9836</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E16</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:178bb3184b7fcb82e7124feac6eaccb380f0361a</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E17</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fef619de6c6209571d80b628ff486fc416dbc6bc</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E18</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63c161f48521e1da48cf49d996e736e186f03f77</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T02E19</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8cdd1079e6b5e39a4971012deb11e4b0a3e42df</link>
+		<thumbnail>https://media.fstatic.com/CgzTzvkaDw106RzJb9_YARzYo0Y=/290x478/smart/media/movies/covers/2019/09/rookie_ver2.jpg</thumbnail>
+	</item>
+	<item>
+		<title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E01</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b197d1833a68372ccaaa244a5667f72c72837c37</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E02</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76bc563ab1dc1ea5e1c1fb1119ffc94029997962</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E03</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a871d73fabaf96a8254c5403f430dc138ca53811</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E04</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a643b4bf4ded82d6b39940a9e7885c07ac6a020</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E05</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bca643cdfcc994090fbf774ffbaef878802e6e6</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E06</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a379d0df6a9f0c6757212d54297247d9862d4394</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E07</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac703968910d75a8dfd9dc20895d1767c0885aa6</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E08</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2e272747609a1dd2afae5909ec491ce62204d99</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E09</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:305c0109518da729c10042034aea1c2fcb9feec2</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E10</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:690ad69ddb76e72f9b3e5be64fb289c22b70504f</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E11</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b44bf9bbfd0328be00227bc0258a5aedb2694aa</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E12</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4334fdc6751e9087109189e0f988464314c8bd8a</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E13</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8402cacc6543e9bf72f48704c58a4bb2e341000</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T03E14</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342fa0827295c03a6d7704b1e430080169fd881a</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>[COLOR yellow][B]4ª Temporada[/B][/COLOR] </title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T04E01-2</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17c7bab25aeae2d261fbd4f61fbeaf0d22a6cca5</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T04E03-4</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:196c5146774c602816b243e15b31ad7399a0f806</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+	<item>
+		<title>The.Rookie.T04E05-10</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b2ce0234434727eeb31aee26f1cfaf5a5d487e2</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/20/08/26/18/38/5236805.jpg</thumbnail>
+	</item>
+</items>
+</channel>
+
+        <channel>
+	<name>A Química da Morte</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2g19fjcnnAJyBl0VmcfKCGS8rbr.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iDWYp9fFuSdKw0W7VLmsRQ2jFLZ.jpg</fanart>
+	<genre>Crime</genre>
+	<date>12.01.2023</date>
+	<studio>PARAMOUNT+</studio>
+	<info>Quando corpos começam a aparecer no tranquilo campo inglês que ele recentemente transformou em lar, um antropólogo forense ajuda a polícia local em uma corrida contra o tempo.</info>
+	<items>
+		<item>
+			<title>A Química da Morte</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b285cab707f92b8937524c172937d07a9b4b42a&dn=The.Chemistry.of.Death.S01.1080p.WEB-DL.DUAL-TDFHD&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/iDWYp9fFuSdKw0W7VLmsRQ2jFLZ.jpg</thumbnail>
+			<genre>Crime</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Operação: Lioness</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fAd0dCaoSvJdGi4K4RxDfzhqXL7.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</fanart>
+	<genre>Drama</genre>
+	<date>23.07.2023</date>
+	<studio>PARAMOUNT+</studio>
+	<info>Em Operação Lioness, uma fuzileira naval marcada por traumas está determinada a fazer de tudo para derrubar uma organização terrorista. Na série produzida por Nicole Kidman e Zoe Saldana, Cruz Manuelos (Laysla de Oliveira) é recrutada pela CIA para se infiltrar entre as mulheres de terroristas. Para sobreviver a diversas situações de vida ou morte e evitar ao máximo erros que podem custar sua própria segurança, e do país, ela é treinada e orientada por Joe (Zoe Saldana), a chefe da Operação Lioness.</info>
+	<items>
+		<item>
+			<title>T01 E01-2 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:997c5d39b2b78da4eddd757aff9d9c6fc27b645c</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E03 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42880e943174db99236036c69a964943de795532</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E04 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caaeeaaf54c2e5cf6414beab4be66814b2b18028</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E05 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:189cc18719d6791ba70ad73428076b078765c9aa</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E06 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ebef2b45edd6c1af89c4bdfe56ba3797fb23f42</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E07 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dcc94200f03fcccabfce0adc2cd23cbf5475801</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E08 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5db073dd3ac32d617ee291b4e457570aa8e3c01a</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	    <name>Espíritos na Escola</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eb7ZJYZjed1bBQ8a4aMDwp5nvjF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/bpWj3r7lxZTWrm1ns2yooc6d0SM.jpg</fanart>
+		<genre>Drama</genre>
+		<date>09.03.2023</date>
+		<studio>PARAMOUNT+</studio>
+		<info>"[I]O que aconteceu com Maddie?[/I]"
+
+Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola.</info>
+	<items>
+	<item>
+		<title>Espíritos na Escola [T01]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26aaacd53d80b00db4080c806dd8c07366b477$nome=Espíritos na Escola 1080P DUBLADO</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dfac573effa98bc7e0abb1458138b75469ac89a$nome=Espíritos na Escola 4K LEGENDADO</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/bpWj3r7lxZTWrm1ns2yooc6d0SM.jpg</thumbnail>
+		<genre>Drama</genre>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	    <name>A Família Stallone</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hwdgvw8H459HVxE6htcrEUTQzlS.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/794vnApbMd8XJONLEL0MuAK5CnU.jpg</fanart>
+		<genre>Reality</genre>
+		<date>03.07.2023</date>
+		<studio>PARAMOUNT+</studio>
+		<info>"[I]Não há lugar como Stallone.[/I]"
+
+Super astro da ação, indicado ao Oscar e Ícone, Sylvester Stallone em seu papel mais importante: a Paternidade.</info>
+	<items>
+	<item>
+		<title>A Família Stallone [T01]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9097fb88f6b9e070c0362e7b04e050b71486e579</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/794vnApbMd8XJONLEL0MuAK5CnU.jpg</thumbnail>
+		<genre>Reality Show</genre>
+	</item>
+</items>
+</channel>
+		-
+<channel>
+	<name>Wolf Pack</name>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/wolf-pack</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/oV0nqWfFLJW8qH8FSHaTbNGdwuE.jpg</fanart>
+	<genre>Sci-Fi & Fantasy, Drama</genre>
+	<date>23.01.2023</date>
+	<studio>PARAMOUNT+</studio>
+	<info>Baseada no livro de mesmo nome, Wolf Pack é uma série sobrenatural que acompanha uma série de eventos bizarros na vida de quatro adolescentes após um misterioso incêndio florestal na Califórnia. No presente, Everett e Blake são atacados por uma criatura enorme que acorda quando o fogo se espalha pela floresta. Ao fugirem, a dupla encontra Luna e Harlan, que há 16 anos tiveram a vida transformada por um incêndio semelhante. Luna e Harlan são irmãos gêmeos que foram adotados por um guarda florestal após um terrível incêndio, além de não serem adolescentes comuns. Com a lua cheia, o grupo percebe que todos compartilham a mesma mordida e sangue de lobisomem. Agora, o quarteto se une para descobrir sua origem e o motivo por trás dos incêndios que têm causado destruição na região por anos.</info>
+</channel>
+		-
+		<channel>
+	<name>Adriano Imperador</name>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/adriano-imperador</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cUdrdFH1EuPPMdf1mcvGY5MpQZK.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/3apZ9TfDnT7tS9KBLiujFQ1RstQ.jpg</fanart>
+	<genre>Documentário</genre>
+	<date>21.07.2022</date>
+	<studio>PARAMOUNT+</studio>
+	<info>No auge de sua carreira, Adriano Leite Ribeiro, jogador consagrado Imperador pela torcida da Inter de Milão, abre mão de contratos milionários para ir em busca de seu bem mais valioso: a felicidade.</info>
+</channel>
+
+    <channel>
+		<name>Deixe Ela Entrar</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/deixe-ela-entrar</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aRsmGF1AVuMY26ArRxMpKJ8S8NL.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5JdF29QhzAa7RkMzsJ1vrr9Y0xX.jpg</fanart>
+		<genre>Drama</genre>
+		<date>09.10.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Após ser mordida por uma criatura misteriosa, Eleanor é transformada em vampira e leva uma vida de solidão por conta dos perigos de ser descoberta. Mark, seu pai, está disposto a fazer de tudo para que ela sobreviva (até mesmo alimentá-la com seu próprio sangue).</info>
+	</channel>
+		-
+	<channel>
+		<name>Beavis and Butt-Head</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/Beavis-and-Butt-Head</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e46ZGqLKtrNRoFVt8bkTwR4UChH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ueqsAFUcwNOgUxFnLd7RRj0FnDC.jpg</fanart>
+		<genre>Animação, Comédia</genre>
+		<date>04.08.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Beavis e Butt-Head estão de volta e mais estúpidos do que nunca.</info>
+	</channel>
+		-
+	<channel>
+		<name>As Seguidoras</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20as%20seguidoras</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e1WgEUT6GWMrPAq9RSrssBcOeSA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/4mpUHbIk5GsCOCjXQECpJIWRZB5.jpg</fanart>
+		<genre>Comédia, Nacional, Suspense</genre>
+		<studio>PARAMOUNT+</studio>
+		<date>06.03.2022</date>
+		<info>A série acompanha a história de Liv, uma influenciadora digital que leva sua obsessão por ganhar seguidores às últimas consequências, transformando-se em uma serial killer no processo. Contudo, o que ela não conta é que está sendo seguida pela dona de um podcast criminal, Antonia, que pode acabar colocando a jovem atrás das grades.</info>
+	</channel>
+		-
+<channel>
+		<name>Gigolô Americano</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/gigolo-americano</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/original/m0nRFOLYUju4XHG7v2jZZf3n6vs.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3Kqs0JE07sWdK1Hp3uvooy6FKuB.jpg</fanart>
+		<genre>Drama</genre>
+		<date>11.09.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Libertado após quinze anos de prisão por um assassinato que não cometeu, o ex-gigolô Julian Kaye enfrenta o desafio de se reerguer enquanto o detetive que o colocou atrás das grades tenta desvendar o mistério que o levou à prisão.</info>
+	</channel>
+		-
+		<channel>
+		<name>Halo </name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20halo</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/original/nJUHX3XL1jMkk8honUZnUmudFb9.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wXmGEipC1bI6uP4sVC3BNEFtb3x.jpg</fanart>
+		<genre>Ação, Aventura, Ficção</genre>
+		<studio>PARAMOUNT+</studio>
+		<date>24.03.2022</date>
+		<info>Em Halo, uma épica batalha acontece no durante o século XXVI entre a raça humana e uma espécie alienígena conhecida como Covenant. Após anos de domínio, quando colônias começam a se rebelar, a liderança da raça Covenant declara que humanos são hereges perante seus deuses e inicia uma onda genocida contra a raça humana. Após a redescoberta dos anéis de Halo, o líder Master Chief (Pablo Schreiber) ao lado de sua equipe e a inteligência artificial Cortana, irão tentar destruir o que para os Covenant é um instrumento poderoso. Em contrapartida, a espécie Covenant também passa por conflitos internos próprios quando um de seus comandantes é exilado e se alia junto com outros divergentes ao lado dos humanos. A trama explora a complexidade dessa nova sociedade em conflito e o passado de seus personagens, além de trazer incríveis cenas de ação.</info>
+	</channel>
+		-
+		<channel>
+		<name>Star Trek: Strange New Worlds</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20star%20trek%20new%20world</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/original/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/627K48naKH2Y3Rz47Ydra4qktdI.jpg</fanart>
+		<genre>Aventura</genre>
+		<date>05.05.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Em Star Trek: Strange New Worlds, o capitão Christopher Pike (Anson Mount) lidera a equipe do USS Enterprise pelos confins do universo em aventuras perigosas e intensas. Passando-se antes da trama da série original, Strange New Worlds explora mais profundamente o universo Star Trek antes da chegada do icônico Capitão Kirk (William Shatner). Pike, ainda inexperiente em liderar toda a Enterprise por conta própria, se apoia na ajuda de seus companheiros da nave, em especial Una Chin-Riley (Rebecca Romjin), segunda em comando depois dele. Além disso, ele conta a inteligência ímpar do popular personagem Spock (Ethan Peck), um alienígena meio humano meio vulcano. Os passageiros da USS Enterprise irão se aventurar por lugares inimagináveis e viverão uma jornada intensa pela galáxica, encontrando aliados fiéis, mas também fazendo inúmeros inimigos perigosos pelo caminho. Mas com o apoio de cada um, poderão completar suas missões com sucesso.</info>
+	</channel>
+		-
+		<channel>
+		<name>iCarly: Revival</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20icarly%20revival</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooQbYPupFxyvzEaJreuAUkcjqUA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/yDPPqVVxEXlinYtvyefXLNWYpM4.jpg</fanart>
+		<genre>Comédia, Drama</genre>
+		<date>29.10.2021</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Carly, Spencer e Freddie exploram novas aventuras em seus vinte e poucos anos.</info>
+	</channel>
+		-
+		<channel>
+		<name>Além da Imaginação</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Al%C3%A9m%20da%20Imagina%C3%A7%C3%A3o</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5OYHoUEKE3RJMqiHcJ8XA5kB7bw.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fy9fhl09shpTLjw4IEqqmVMYM28.jpg</fanart>
+		<genre> Ficção Científica, Fantasia, Drama</genre>
+		<date>27.09.1985</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Uma coleção de histórias que vão do cômico ao trágico, mas geralmente têm um senso de humor perverso e uma reviravolta inesperada.</info>
+	</channel>
+		-
+		<channel>
+		<name>Compulsion</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie-compulsion</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bdUvSiw0t6G86FRAP2CGYh0ReD6.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jwLYjv4fx8IVJyqpgRyqta8rauM.jpg</fanart>
+		<genre>Crime, Drama</genre>
+		<date>12.04.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Depois de sobreviver a uma tragédia, a paramédica Jenny Challoner luta contra o PTSD. Escondendo seu sofrimento do marido Chris, da amiga Alison e da filha Rosie, a vida de Jenny fica fora de controle.</info>
+	</channel>
+		-
+	
+	</channels>	
