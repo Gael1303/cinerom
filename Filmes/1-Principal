@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+
+     <channel>
+		<name>[COLOR yellow]•[/COLOR]1. Recomendaçoes do Mes</name>
+		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
+		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
+		<info>Aba destinada a filmes</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/Filmes-abas</externallink>
+	</channel>
+	<channel>
+		<name>[COLOR yellow]•[/COLOR]2. Novos Filmes</name>
+		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
+		<fanart>https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg?fit=1060%2C596&ssl=1</fanart>
+		<info>Filmes recomendados no mes </info>
+		<date>03.01.2024</date>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/recomendados-abas</externallink>
+	</channel>
+	<channel>
+		<name>[COLOR yellow]•[/COLOR]3. Coleçoes</name>
+		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
+		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
+		<info>Aba destinada a filmes</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/Colecoes</externallink>
+	</channel>
+	<channel>
+		<name>[COLOR yellow]•[/COLOR]4. 4K HDR</name>
+		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
+		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
+		<info>Aba destinada a filmes</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/4K</externallink>
+	</channel>
+	<channel>
+		<name>[COLOR yellow]•[/COLOR]5. Top 100 IMDb</name>
+		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
+		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
+		<info>Aba destinada a filmes</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/Top-100</externallink>
+	</channel>
+	<channel>
+		<name>[COLOR yellow]•[/COLOR]6. Todos os Filmes</name>
+		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
+		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
+		<info>Aba destinada a filmes</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/Todos-filmes/23-04</externallink>
+	</channel>
+	
+	</channels>
