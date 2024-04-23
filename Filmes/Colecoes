@@ -5,6 +5,244 @@
 
 
    <channel>
+	<name>Anjos da Noite: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIcfI7EHAffmzkaZKX2haPFDOaV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2gSaXagD9ZCuBHOsXF4tvtW7Djd.jpg</fanart>
+	<date>16.04.2004</date>
+	<genre>Fantasy, Horror, Action, Thriller</genre>
+	<info>Anjos da Noite é uma coletânea composta por cinco filmes, estrelada por Kate Beckinsale, na personagem de Selene, uma vampira guerreira. Anjos da Noite (2003), Anjos da Noite: A Evolução (2006), Anjos da Noite: A Rebelião (2009), Anjos da Noite: O Despertar (2012) e Anjos da Noite: Guerras de Sangue (2016).
+	
+	
+	[COLOR yellow]Número de Filmes[/COLOR]: 5
+	[COLOR yellow]Receita[/COLOR]: $540,549,915</info>
+	<items>
+		<item>
+			<title>Anjos da Noite: Quadrilogia (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=de3c29c50468c1540486c83cc89c2559e229125d</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIcfI7EHAffmzkaZKX2haPFDOaV.jpg</thumbnail>
+			<genre>Fantasy, Horror, Action, Thriller</genre>
+		</item>
+		<item>
+			<title>Anjos da Noite: Guerras de Sangue (2016) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=bb68952e7f2d615ca9e988871f319f6f6e9b08b6</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg</thumbnail>
+			<genre>Fantasy, Horror, Action, Thriller</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Animais Fantásticos: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Us9APkGAskqv2ozle7pzVPC2bN.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/7j7eBhReCRafAYdCr5XaJzNAIDz.jpg</fanart>
+	<date>17.11.2016</date>
+	<genre>Adventure, Fantasy</genre>
+	<info>Os filmes de Fantastic Beasts são uma série de fantasia baseada e inspirada no livro mencionado nos romances de Harry Potter pelo escritor britânico J. K. Rowling. Colocado na mesma franquia de Wizarding World, eles seguem as aventuras de Newt Scamander, um auto-proclamado magizoologista, juntamente com Porpentina "Tina" Goldstein, um auror de MACUSA.</info>
+	<items>
+		<item>
+			<title>Animais Fantásticos e Onde Habitam (2016)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=a438fdf841db95185b638ed2f9fe94ef0a5c826b</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGkt9ekX5cgRYKRIiJM27Xp3piR.jpg</thumbnail>
+			<duration>7920</duration>
+			<genre>Fantasia, Aventura, Ação</genre>
+		</item>
+		<item>
+			<title>Animais Fantásticos: Os Crimes de Grindelwald (2018)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d2bee4130e8aeff24514b44698ab499c374f7559</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oANEhQDQ3eB8tcqRPSzABim8oNg.jpg</thumbnail>
+			<duration>7980</duration>
+			<genre>Fantasia, Aventura, Ação</genre>
+		</item>
+		<item>
+			<title>Animais Fantásticos: Os Segredos de Dumbledore (2022)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9d6444fd3ac94d6b3f3ad8a083968dee638340fd</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg</thumbnail>
+			<duration>8520</duration>
+			<genre>Fantasia, Aventura, Ação</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Anaconda: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sENQAlXOhOb2QmfpFl2w34W9ODP.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/uR7j2TEwJVCMz7CDJgNPuhty4J9.jpg</fanart>
+	<date/>
+	<genre>Adventure, Fantasy, Horror, Action, Thriller, TV Movie</genre>
+	<info>Coleção da franquia de filmes Anaconda</info>
+	<items>
+		<item>
+			<title>Anaconda (1997)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=1d4b5ffa3cc778a73e4d0f12c398f954f0be5854</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/huhasXFLrKfPHEqbz4ALadOnXZZ.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Anaconda 2: A Caçada pela Orquídea Sangrenta</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=dd9ed3f12ac556bf5afaa6bd9fed7aa4302d6c15</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/yi3KRmJlEtRV090wgeEPiFQ6cxm.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Anaconda 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2e91be11c7373d0e17e14f3961a2ec4998fedb11</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/gaDcpcw14XdVk4EjJhNzLtmXeDI.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Anaconda 4</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8fc4515ca9e8205c7157084aa65ea6d241102b20</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/rCp9VYqvBphiETtC86fGZFSXc63.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>American Pie: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rJzYNoyXBNmjmWWUD4rKTJZITm9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/9vjgerKR19gTxhI1eKB5CcMfttz.jpg</fanart>
+	<date/>
+	<genre>Comedy, Romance</genre>
+	<info>American Pie é uma série de filmes de comédia sexual. O primeiro filme da série foi lançado em 1999, pela Universal Pictures, e se tornou um fenômeno mundial da cultura pop, cultuado entre os jovens. O segundo e o terceiro filmes foram lançados em intervalos de dois anos, enquanto o quarto filme foi lançado em 2012.</info>
+	<items>
+		<item>
+			<title>American Pie: A Primeira Vez é Inesquecível</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=39f3985d84ad92d1408d2212d97e4513e151ee87</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/e3UcAwhfCWq0jtudagKvu93JBl4.jpg</thumbnail>
+			<info> </info>
+		</item>
+		<item>
+			<title>American Pie: A Segunda Vez é Ainda Melhor</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=361245393aae4762152735f6af644b350a226c9a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/4bg8zzHGeeIUzJEnW8uUAixO9hN.jpg</thumbnail>
+			<info> </info>
+		</item>
+		<item>
+			<title>American Pie: O Casamento</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=481ed80f7afc4545124037dda2f73900926af869</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ktAHp3q5HiL6mSr43L7mCAAiZEL.jpg</thumbnail>
+			<info> </info>
+		</item>
+		<item>
+			<title>American Pie: O Reencontro</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=76deca09e37e23ceb33aa864a721de3063908daf</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/smoqEoW8RtzU0ELGZk0Yrk48Y9x.jpg</thumbnail>
+			<info> </info>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Alvin e os Esquilos: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AcwG8XcgKPxJKNy9sF7gbxbfA9V.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/9fVRjIWgvTtvQySFFgjMLG89c12.jpg</fanart>
+	<date>04.01.2008</date>
+	<genre>Adventure, Fantasy, Animation, Comedy, Music, Family</genre>
+	<info>Alvin and the Chipmunks () é um filme estadunidense de 2007, do gênero comédia, dirigido por Tim Hill. Baseado nos personagens de mesmo nome criados por Ross Bagdasarian, Sr., o filme é estrelado por Jason Lee, David Cross e Cameron Richardson com as vozes de Justin Long, Matthew Gray Gubler e Jesse McCartney. O primeiro filme foi seguido por três sequências: Alvin and the Chipmunks: The Squeakquel, lançado em 23 de dezembro de 2009, Alvin and the Chipmunks: Chipwrecked, lançado em 16 de dezembro de 2011 e Alvin and the Chipmunks: The Road Chip, lançado em 18 de dezembro de 2015.</info>
+	<items>
+	<item>
+		<title>Alvin e os Esquilos</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b38cf33e96835c8971950dd64052a9b7e74a3a3</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/dWBZBAXzTv79vfOPIdKlGXi5t3u.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Alvin e os Esquilos 2</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05bbc989a99b50ff6fa04759c586834738ea8f94</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/4mh4juf1lCAYyjbgfS4TD9ZB0Qa.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Alvin e os Esquilos 3</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7134ed4e80e6d35f3f5502c643f5e69e5c73467a</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/pdZu6fabaimoB8izKvKQRoyPvKm.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Alvin e os Esquilos: Na Estrada</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d847790b59bc28a5f935f48cab587f996b9f2783</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/ehwqRB6x5gEpZRhQWS3ei8b7Fx8.jpg</thumbnail>
+	</item>
+</items>
+</channel>
+
+<channel>
+	<name>Cinquenta Tons: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AfWe08R16b2Z3fNhM42y3DPYi3u.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/oH22k2rxMz7XMjyxwCNUaxan2c2.jpg</fanart>
+	<date>12.02.2015</date>
+	<genre>Drama, Thriller, Romance</genre>
+	<info>Cinquenta Tons é um filme de drama erótico romântico de 2015 dirigido por Sam Taylor-Johnson, com roteiro de Kelly Marcel. O filme é baseado no romance homônimo de 2011, do autor britânico E. L. James e estrelado por Dakota Johnson como Anastasia Steele, uma graduada da faculdade que começa uma relação sadomasoquista com o jovem magnata Christian Grey, interpretado por Jamie Dornan.</info>
+	<items>
+		<item>
+			<title>50 Tons de Cinza</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32b6744c66f7020a5c010edd00a2942b2e2c130a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/t4kR6H71anOV85qzjOLlr9uVdFJ.jpg</thumbnail>
+		</item>
+		<item>
+			<title>50 Tons mais Escuros</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3534bf4d285580e4a302485f54be91d00fbd2091</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/6HqqpjM8lMFdV5YZfXua1kXUKH7.jpg</thumbnail>
+			<info/>
+		</item>
+		<item>
+			<title>50 Tons de Liberdade</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d9d3d98060a271114dddba139f223c7c806ec1b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/aQ9J66C5UwHy3YUIi1Hm34ISnk7.jpg</thumbnail>
+			<info/>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name></name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/250ewaLutOJXqBBqMKxCHD1KpCL.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/zZTy8G3sEVZNv0yGssgc7DvPUQJ.jpg</fanart>
+	<date>11.04.2019</date>
+	<genre>Drama, Romance</genre>
+	<info>After é um filme de drama romântico americano de 2019 dirigido por Jenny Gage, baseado no novo romance de ficção adulta de mesmo nome de Anna Todd de 2014. O filme é estrelado por Josephine Langford e Hero Fiennes Tiffin, e segue uma adolescente inexperiente que começa a namorar um estudante misterioso durante seus primeiros meses de faculdade.</info>
+	<items>
+	<item>
+		<title>After (2019)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f08b5b4c4b87b8c242a43e57256996a9b447f7b</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg</thumbnail>
+		<genre>[I]Romance, Drama[/I]</genre>
+	</item>
+	<item>
+		<title>After: Depois da Verdade (2020)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:889d3ebb8b1bc39dc8d886d48486be70a96c56da</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/aduKXG7H0z0osY8KNQjcLB3cWO5.jpg</thumbnail>
+		<genre>[I]Romance, Drama[/I]</genre>
+	</item>
+	<item>
+		<title>After: Depois do Desencontro (2021)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c78301503da1ecc5a2813317e6e8bd7bd9b7ac9</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg</thumbnail>
+		<genre>[I]Romance, Drama[/I]</genre>
+	</item>
+</items>
+</channel>
+
+<channel>
+	<name>Busca Implacável: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kh24qZ1w2dStGL1LbOHDddh7cOK.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/9GbKnEBfPLsoDjP2RbmYHOSlX8f.jpg</fanart>
+	<date>27.02.2017</date>
+	<genre>Action, Thriller, Crime</genre>
+	<info>Busca Implacável é uma coletânea francesa de filmes de ação, que tem como protagonista o Liam Neeson, na pele do personagem Bryan Mills, um ex-agente da CIA, que se encontra erradicado na Europa. A saga conta com três filmes, denominados Busca Implacável 1, 2 e 3, lançados em 2008, 2012 e 2015 respectivamente.</info>
+	<items>
+		<item>
+			<title>Busca Implacável</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7aeae2958f77166acb44eea2c9218da57f3ec0d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/gtsoJsoIweDa4pxFq4VenNdrcDz.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Busca Implacável 2</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2838537f51c651087bcc35dc614637d60c0dbc09</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/AePtWcNgawXIGOnB24fDPC1M6Rc.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Busca Implacável 3</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f45f0bc4b1cd66983821070be0fb88fe3c5fddaf</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/urQE6vRrk0fkOtnRr68sef4D6aF.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+   <channel>
 	<name>Duna: Coleção</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/iCFFmXkK5FdIzqZyyQQEdpkTo8C.jpg</fanart>
