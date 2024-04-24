@@ -3,7 +3,296 @@
 <channels>
     <SetViewMode>500</SetViewMode>
 
+   <channel>
+	<name>Hotel Transilvânia: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hmBT5J6rWZaYA8qbbZkcSJnivHe.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/5MJt6g7k9gADQH4xHn5mOEMa3Vr.jpg</fanart>
+	<date>05.10.2012</date>
+	<genre>Adventure, Fantasy, Animation, Comedy, Family</genre>
+	<info>Série de filmes dedicada às aventuras do Conde Drácula e sua filha Mavis dirigindo um hotel "livre de humanos" para monstros.</info>
+	<items>
+	<item>
+		<title>Hotel Transilvania (2012)</title>
+		<genre>Animação, Comédia, Família, Fantasia</genre>
+		<aired>2012/10/05</aired>
+		<duration>5460</duration>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:405771e3bc07cc365555258c4417fb09a0f40fe7</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/c8xgxYJHmIHHREFxlNqUD23kvvc.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Hotel Transilvania 2 (2015)</title>
+		<genre>Animação, Comédia, Família, Fantasia</genre> / <aired>2015/09/24</aired>
+		<duration>5460</duration>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d5dafb2bca4584dde29dbb28e48b6f4b4531533</link>
+		<thumbnail>https://i.imgur.com/84VNvDu.jpg</thumbnail>
+    </item>
+	<item>
+		<title>Hotel Transilvania 3 (2018)</title>
+		<genre>Animação, Comédia, Família, Fantasia</genre>
+		<aired>2018/07/12</aired>
+		<duration>5460</duration>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87fe6d58e8e7e7dcefcb677856d9a3026e5dfc11</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/3ji1aJB052iPLnnzL082It683Nr.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Hotel Transilvania: Transformonstrao (2022)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f45ebc0b828623a3b679a2840cd3e33e635d8a36</link>
+		<thumbnail>https://cdn.fstatic.com/media/movies/covers/2021/06/E38F2XYX0AE6mGW.jpg</thumbnail>
+		<genre>Animação, Comédia, Família, Fantasia</genre>
+		<aired>2022/01/14</aired>
+		<duration>5460</duration>
+	</item>
+</items>
+</channel>
 
+<channel>
+	<name>Ace Ventura: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f1kWDSG8H76VmJvvx36eiehF29o.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/81lmzeTuMAyrDpgX6um9PIYgw8Y.jpg</fanart>
+	<date/>
+	<genre>Adventure, Comedy, Crime, Mystery, Family</genre>
+	<info>Uma série de filmes de comédia com Ace Ventura, um excêntrico detetive particular residente em Miami, especializado na recuperação de animais domesticados e em cativeiro.</info>
+	<items>
+		<item>
+			<title>Ace Ventura: Um Detetive Diferente (1994)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6734eb1f12b1112709a1401d86fb8d1af3cd0684</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/k2WsM7e0sv3IM3BgTKKesY1dAOt.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Ace Ventura 2: Um Maluco na África (1995)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bfb814cefdeaa5132db8134b3b4dd19e93e2fb6</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/9MGbrgwkjeCHo0KnbrjxDvN4zEQ.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Filho do Ace Ventura</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb4d0b47f69fb4269e3cca08f1b7fd4563dfc3b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/4XPL9tqC0ux7lyLjYZdZ3F3llAX.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Alien: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vtYhUkFy6HEjY4RpjQjF6EEQshI.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/wveeD4Gg3WY669Kos7najNojdwm.jpg</fanart>
+	<date>20.08.1979</date>
+	<genre>Horror, Action, Thriller, Science Fiction</genre>
+	<info>A franquia de filmes de terror de ficção científica, com foco no personagem Tenente Ellen Ripley (Sigourney Weaver) e sua batalha com uma forma de vida extraterrestre, comumente referido como "o alien". Produzido pela 20th Century Fox, a série começou com o filme de 1979 "Alien: O Oitavo Passageiro", depois veio "Aliens: O Resgate" em 1996 seguido de "Alien 3" em 1992, e por fim "Alien: A Ressurreição" em 1997.</info>
+	<items>
+		<item>
+			<title>Alien, o Oitavo Passageiro (1979)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a84ca78c2e5dbf9faf547db2ee84c70933abd1c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/t0VpOjqwobTpQK2SEZpXlqt5cqY.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Aliens, o Resgate (1986)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a897bd47b83f9994bc6a4209a28cb242b4780bd</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/s0f51j1dbrDwCgJsL4jrz7difVq.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Alien 3 (1992)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4537dd7c38250d61bdcfd785a80249c470bb49dc</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/iexhTEw0JEqUbivqXhuwBfFBrB3.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Alien, a Ressurreição (1997)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05fc89738ae78fac9c2fdf1ab7691edb23eb87f1</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/hOHaqkOBzLBBQVCec9e9AQC54c0.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Prometheus</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce9161945ed4f0048dc15dd2a336c368c4380b5b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/omy5CiDMQnGqQUEJ9gNLOGPZQFW.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Alien Covenant</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f316c501600e8b0cd8da97eccc8801cc89b65ae</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Annabelle: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mvJqtapxEvAgijdUDp28AZpdupi.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/9MYrsMQNSkRvT5iIfspKQzeIGRV.jpg</fanart>
+	<date>09.10.2014</date>
+	<genre>Horror</genre>
+	<info>Uma série de filmes de terror sobrenatural que faz parte do universo de "Conjuração" e foi inspirada na história de uma boneca chamada Annabelle contada por Ed e Lorraine Warren.</info>
+	<items>
+	<item>
+		<title>Annabelle (2014)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98a992d97bf90f4c0f7efc96933a7bb74542d6a1</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/jNFqmsulwUrhYQW3MvqzfMc7SdS.jpg</thumbnail>
+		<genre>Horror</genre>
+	</item>
+	<item>
+		<title>Annabelle 2: A Criação do Mal (2017)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccb5741e7f3c6cfc1fa5f29a448134105735676f</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/AtlcH0f8mEQGKVIBSgV4GgkTZMr.jpg</thumbnail>
+		<genre>Horror</genre>
+	</item>
+	<item>
+		<title>Annabelle 3: De Volta Para Casa (2019)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:914c194eddbf764c949d136c9f79e7e4b60bb442</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg</thumbnail>
+		<genre>Horror</genre>
+	</item>
+</items>
+</channel>
+
+<channel>
+	<name>Até que a Sorte Nos Separe: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cajZAqsGmryqPyOBFkWeAWCMkL3.jpg</thumbnail>
+	<fanart/>
+	<date>05.10.2012</date>
+	<genre>Comedy</genre>
+	<info>Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma.</info>
+	<items>
+		<item>
+			<title>Até que a Sorte nos Separe (2012)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f47e8ef837052de08827d9114e1211d3a79b071</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/xAd1DeclHsJ0lnrizw4bTYivFqB.jpg</thumbnail>
+			<genre>Comedy</genre>
+		</item>
+		<item>
+			<title>Até que a Sorte nos Separe 2 (2013)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bf0233c64a1f9d87de7f2c2bd1f7c4e349f7a8b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/iwlfV4lp5oco5xq0jbl9kFvIvtx.jpg</thumbnail>
+			<genre>Comedy</genre>
+		</item>
+		<item>
+			<title>Até Que A Sorte Nos Separe 3 – A Falência Final (2015)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:473a354f62e94a7c11647654c35413828622386d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/oStp9ynfr1dFKBrOSf7U8QYocgR.jpg</thumbnail>
+			<genre>Comedy</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Austin Powers: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1PkGnyFwRyapmbuILIOXXxiSh7Y.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/xjpifnN37fFmv0oZ02hJvczQpDC.jpg</fanart>
+	<date>13.02.1998</date>
+	<genre>Adventure, Comedy, Crime, Science Fiction</genre>
+	<info>Austin Powers is a series of comedy films directed by Jay Roach and distributed by New Line Cinema, and written, produced by, and starring Mike Myers as the titular character. The films follow Austin Powers, a British spy, and his quest to bring the villain Dr. Evil to justice. The series mainly spoof the James Bond, Derek Flint, Jason King and Matt Helm franchises, incorporate myriad other elements of popular culture.</info>
+	<items>
+		<item>
+			<title>Austin Powers: 000, um Agente Nada Discreto (1998)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af289e48b3d4c980870a09bb665fa03f6c115d99</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/A1BVupsXVLzGqc22vz4dBJ0YOV4.jpg</thumbnail>
+			<year>1997</year>
+		</item>
+		<item>
+			<title>Austin Powers: O Agente ‘Bond’ Cama (1999)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3e22bb97de4c9fc8e60c395d5a2b836697cecf0</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/vQmHzk8pBiCm3ClXznRmz7Vn0Cw.jpg</thumbnail>
+			<year>1999</year>
+		</item>
+		<item>
+			<title>Austin Powers em o Homem do Membro de Ouro (2002)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee246204140239eace76bfbe40f3ec2c03df3790</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ewPHUg93snoYIg83c1CJn9WePbf.jpg</thumbnail>
+			<year>2002</year>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Carga Explosiva: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ndKbPht3VWTxrW3hyIrnHKDUnYn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/usJ2DPe7sUY62DlS6xaIdqln6MF.jpg</fanart>
+	<date>02.10.2002</date>
+	<genre>Action, Thriller, Crime</genre>
+	<info>Segue as façanhas de Frank Martin, um "Transportador" transportador mercenário que entrega pacotes sem perguntas.</info>
+	<items>
+		<item>
+			<title>Carga Explosiva (2002)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:646255e2cb8db930e32c98d3fbef871b68266e0f</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Carga Explosiva 2 (2005)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f0c1872e11ce32532b5517f0b477506edaef95</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/nNMJ8d5ZUTFxwP00DqxhqczB8z.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Carga Explosiva 3 (2008)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9cc97766daaf4b97fd8c73f21398afa32ddf5de</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Carga Explosiva: O Legado (2015)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0c8de3eb64b2f1fdd666f958f6e698d752c2165</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/iti0ub1R6JBCfwJarLktNL47HC.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Carros: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j3ViL6Lo6D4csnGNI5qcc6ccUBm.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/5Y4nBvDDcBZmvuwxDYR3pvlm9aS.jpg</fanart>
+	<date>30.06.2006</date>
+	<genre>Adventure, Animation, Comedy, Family</genre>
+	<info>Uma série de filmes de comédia de ação e aventura animada por computador que segue as aventuras de Faisca McQueen e Mater, ambientada num mundo povoado inteiramente por carros antropomórficos e outros veículos.</info>
+	<items>
+		<item>
+			<title>Carros (2006)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83d0b800ee8eed868700cd6a1d013b9133712ec6</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg</thumbnail>
+			<genre>Animação, Aventura, Comédia, Família</genre>
+			<aired>2006/06/30</aired>
+			<duration>6720</duration>
+		</item>
+		<item>
+			<title>Carros 2 (2011)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b7478a890fa18c44e6c1f9454e521066bb85cb4</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/fIKaabvE40T39nOIngcZPcPJeYe.jpg</thumbnail>
+			<genre>Animação, Aventura, Comédia, Família</genre>
+			<aired>2011/06/16</aired>
+			<duration>6360</duration>
+		</item>
+		<item>
+			<title>Carros 3 (2017)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44512694365c6de759fa30a6b49822f555cad92c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/lVPFdORefTKXKFiSktrXbiFDNAK.jpg</thumbnail>
+			<genre>Animação, Aventura, Comédia, Família</genre>
+			<aired>2017/07/13</aired>
+			<duration>5400</duration>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Como Treinar o Seu Dragão: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oQlLO5h0EMjX3f3EqTcaHfZXlga.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/vzGPVBLwIInpY44pnTVdQRox5Ut.jpg</fanart>
+	<date>26.03.2010</date>
+	<genre>Adventure, Fantasy, Animation, Action, Comedy, Family</genre>
+	<info>Esta série de filmes de animação de ação animada por computador segue as aventuras de um jovem viking chamado Soluço Haddock III, filho de Stoico, o Imenso, líder da ilha Viking de Berk. Embora inicialmente descartado como um desajeitado e a abaixo do peso, ele logo se torna reconhecido como um corajoso especialista em dragões, começando com Banguela, um membro da rara raça Fúria da Noite como a sua montaria voadora e o seu companheira mais próximo.</info>
+	<items>
+		<item>
+			<title>Como Treinar o Seu Dragão (2010)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f37d43d0ea8130f5434bdd588a504280b1bbc3ed</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/sLpQSFj8A5jyUZStwzWfKpoJoAx.jpg</thumbnail>
+			<genre>Animação, Comédia</genre>
+		</item>
+		<item>
+			<title>Como Treinar o Seu Dragão 2 (2014)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eb7709a26f9f98abb9112291c883c5ade64f2d1</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/brmRmSagvnQVgIw1lBF4CaKpaoU.jpg</thumbnail>
+			<genre>Animação, Comédia</genre>
+		</item>
+		<item>
+			<title>Como Treinar o Seu Dragão 3 (2019)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96cc1b82a2e271ef37971469ef2a4e1fe22946f2</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg</thumbnail>
+			<genre>Animação, Comédia</genre>
+		</item>
+	</items>
+</channel>
    <channel>
 	<name>Anjos da Noite: Coleção</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIcfI7EHAffmzkaZKX2haPFDOaV.jpg</thumbnail>
