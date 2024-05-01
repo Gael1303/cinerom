@@ -3,6 +3,209 @@
 <channels>
     <SetViewMode>500</SetViewMode>
 
+
+    <channel>
+	<name>Os Deuses Devem Estar Loucos: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZZPh4UhyITOPxQPILhKKKrGBIx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/3u6As0EKP2KKPNhzQObCgdYvm7f.jpg</fanart>
+	<date/>
+	<genre>Action, Comedy</genre>
+	<info>The Gods Must Be Crazy Collection narra as aventuras cômicas de um Bushman Kalahari chamado Xixo, enquanto seu mundo é invadido pela civilização moderna. Em TGMBC 1, a vida de Xixo é jogada em tumulto por um objeto que os deuses devem ter enviado do céu (uma garrafa de Coca-Cola), um cientista atrapalhado e um bando de revolucionários. Em TGMBC 2, a comédia envolve um caminhão de caçador furtivo que seus filhos acidentalmente esconderam, um advogado e cientista da cidade cujo avião cai no deserto e dois soldados de lados opostos de uma guerra em formação, todos os quais se cruzam com Xixo para fins hilários.</info>
+	<items>
+		<item>
+			<title>Os Deuses Devem Estar Loucos (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=562f89dfa22bac30df21acd1ffc13d49bc15d0c6</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZZPh4UhyITOPxQPILhKKKrGBIx.jpg</thumbnail>
+			<genre>Action, Comedy</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Divergente: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AuRcFKpgHWInxR7MMomrsV9BPNy.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/51XPQ6WXQDRUu9YoujqSc10OQp2.jpg</fanart>
+	<date>18.04.2014</date>
+	<genre>Adventure, Action, Thriller, Science Fiction, Mystery</genre>
+	<info>Trilogia baseada nos romances de Vernoica Roth sobre o Universo Divergente. Numa Chicago futurista, a sociedade se divide em cinco facções – Abnegação, Amizade, Audácia, Franqueza e Erudição – e não pertencer a nenhuma facção é como ser invisível</info>
+	<items>
+		<item>
+			<title>Divergente (2014)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5e078593f64752e05a57cadfdb39f13650c6b2a5</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/kLX3LtUcOsoJXfyp8D31aqwDoNc.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller, Science Fiction, Mystery</genre>
+			<info/>
+		</item>
+		<item>
+			<title>A Série Divergente: Insurgente (2015)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c7bde77e50b8962ea274345913486fdb597fb817</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/2iUd6Bhtlzdwsf0UaCQyyHrjuSv.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller, Science Fiction, Mystery</genre>
+			<info> </info>
+		</item>
+		<item>
+			<title>A Série Divergente: Convergente (2016)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2cb8b51369a85418e3c2b56aed70b4f0b105d7bd</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/uHmrpk2IdShezSJK36IZ2IM8xbW.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller, Science Fiction, Mystery</genre>
+			<info> </info>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Doce Vingança: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8mTALeCqiiWxL7se9fK1CRiSXNW.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/pXSHMjNXeIaYVjYd285LLg6385m.jpg</fanart>
+	<date>11.03.2011</date>
+	<genre>Horror, Thriller, Crime</genre>
+	<info>CineTel Films adquiriu os direitos para refilmar Doce Vingança, que teve estréia mundial no Halloween de 2010. O remake foi produzido pelo presidente e CEO da CineTel, Paul Hertzberg e Lisa Hansen, com Jeff Klein, Alan Ostroff, Gary Needle e Zarchi como produtores executivos. Steven R. Monroe dirigiu, com a novata Sarah Butler no papel de Jennifer. O filme teve 2 sequências.</info>
+	<items>
+		<item>
+			<title>Doce Vingança (2011)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5f11b8355ff6764b7db5b4eed36006d004afbe5d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/AkAj9j5yu01ObA5SCvP3HuN3it9.jpg</thumbnail>
+			<genre>Horror, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>Doce Vingança 2 (2014)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=ecdc6cb2b9214366cf98498465606291969d56e7</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/bw0sESxFqzP50WK69j50uZC8P0f.jpg</thumbnail>
+			<genre>Horror, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>Doce Vingança 3: A Vingança é Minha (2015)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f2e2e8bb61073e3d0a2f148f82286113f8dd3036</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/2cqLnsT4yDWBSGte02iYkFNB009.jpg</thumbnail>
+			<genre>Horror, Thriller, Crime</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Dr. Dolittle: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yGF6vv7ekbkf9C3FRjrGIrkyyhc.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/dtz0ju3dikZaiSJ9HmVoMs9imT8.jpg</fanart>
+	<date/>
+	<genre>Fantasy, Comedy, Romance, Family</genre>
+	<info>Dr. Dolittle is a family comedy film about a doctor who discovers that he has the ability to talk to (and understand) animals.</info>
+	<items>
+		<item>
+			<title>Dr. Dolittle</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=1cb94165df5a154dab9898d5110c32967820bf45</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/g84Os8iaDJNs51oNo1VtATGpbOV.jpg</thumbnail>
+			<genre>Comédia, Família, Fantasia</genre>
+		</item>
+		<item>
+			<title>Dr. Dolittle 2</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6fdcf87e5b5e9237e19c7c7c5c4200b4b34b5433</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/mznxoYMKFOmJt7TOn12XHy4YiH1.jpg</thumbnail>
+			<genre>Comédia, Família, Fantasia</genre>
+		</item>
+		<item>
+			<title>Dr. Dolittle 3 - Leg</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9fcec2c36d58c2018376a49a91d017db0828ecda</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/spe1An4GHtbvUUoLFrmwoQvKyRD.jpg</thumbnail>
+			<genre>Comédia, Família, Fantasia</genre>
+			<aired>2006/04/25</aired>
+			<duration>5400</duration>
+		</item>
+		<item>
+			<title>Dr. Dolittle 4</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6870afa74d584da46498f304da6719d4ca52a529</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/5eamhJLpdvTDNOwHuT9RmUKfpxF.jpg</thumbnail>
+			<genre>Comédia, Família, Fantasia</genre>
+		</item>
+		<item>
+			<title>Dr. Dolittle 5</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4b9eeeaf7c52c21f11069b3524e18427ec3715f6</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/5MttL2NNQzUeR7MnGd5JHjkcNrk.jpg</thumbnail>
+			<genre>Comédia, Família, Fantasia</genre>
+		</item>
+		<item>
+			<title>As Aventuras do Dr. Dolittle</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9601a19dbc4029bea5188272379fadc88f2a8d6a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg</thumbnail>
+			<genre>Família, Fantasia, Aventura</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Duro de Matar: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v10xGRuoPfg8lx2S2YLTh0o3SIy.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/5kHVblr87FUScuab1PVSsK692IL.jpg</fanart>
+	<date>15.12.1988</date>
+	<genre>Action, Thriller</genre>
+	<info>O Policial John McClane é posto sobe pressão diversas vezes para salvar vidas inocentes. Cabe a ele enfrentar o perigo, sem nunca desistir, sendo difícil de matar.</info>
+	<items>
+		<item>
+			<title>Duro de Matar - Todos os filmes</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d4d845af83c2aa9aff1690453d99b8348955e198</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/2dTmzg6TNkVF3QfQ2THpIWzjb0l.jpg</thumbnail>
+			<genre>Ação, Suspense</genre>
+			<duration>6000</duration>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Ela Dança, Eu Danço: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gCKQ1lJWynugfb42IahVKRGg3UO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/3jr0rQcsWyfqBlmzE0h0igjJohS.jpg</fanart>
+	<date>05.08.2006</date>
+	<genre>Drama, Crime, Music, Romance</genre>
+	<info>A coleção Ela Dança, Eu Danço são uma série de filmes de dança / romance-drama criados pela Duane Adler.</info>
+	<items>
+		<item>
+			<title>Ela Dança, Eu Danço: Todos os Filmes</title>
+			<genre>Música, Drama, Romance, Crime</genre>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f2c906f41946424c379179c8528f1791b16c0ecc</link>
+			<thumbnail>https://br.web.img3.acsta.net/pictures/16/01/25/13/24/532675.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>A Era do Gelo: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5PM3zXVhd8O1YnPqbkI3gHsWe4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/ovWkSikbJUMwwmUdD6WTa1bbFrh.jpg</fanart>
+	<date>22.03.2002</date>
+	<genre>Adventure, Animation, Comedy, Family</genre>
+	<info>A coleção de filmes da Era do Gelo é lançada nos cinemas pela Twentieth Century Fox Animation e Blue Sky Studios.</info>
+	<items>
+		<item>
+			<title>A Era do Gelo</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=51620cef897920b1a2455518f492fc1db50e5a15</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/mjRmQ3oGyJdc16sg4ZupyGhSXii.jpg</thumbnail>
+			<genre>Animaçao/Família/Comedia/Aventura</genre>
+		</item>
+		<item>
+			<title>A Era do Gelo 2</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=95d1cd38cf285d5660945c27f199798fd7422911</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ikhU4KSoE6lihqWVGgSNkYemfvT.jpg</thumbnail>
+			<genre>Animaçao/Família/Comedia/Aventura</genre>
+		</item>
+		<item>
+			<title>A Era do Gelo 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f132bfeacfb4490e134a16b1355a86a321025aa1</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/tpvU1rXCNoXiAVkzv12NJToIV5P.jpg</thumbnail>
+			<genre>Animaçao/Comedia/Família/Aventura</genre>
+			<aired>2009/07/01</aired>
+			<duration>5640</duration>
+		</item>
+		<item>
+			<title>A Era do Gelo 4</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=eb5b7b809f3896623fc1e04eab96224a109eb198</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/jhkLlbACjti51Pkh0tt0UaS7ij2.jpg</thumbnail>
+			<genre>Animaçao/Comedia/Aventura/Família</genre>
+			<aired>2012/06/29</aired>
+			<duration>5280</duration>
+		</item>
+		<item>
+			<title>A Era do Gelo: O Big Bang</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=b9c0e3c6780f40fab6e754b8f48e6de47c7eaaa5</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg</thumbnail>
+			<genre>Aventura/Animaçao/Família/Comedia/Ficçao Científica</genre>
+			<aired>2016/07/07</aired>
+			<duration>5700</duration>
+		</item>
+	</items>
+</channel>
    <channel>
 	<name>Hotel Transilvânia: Coleção</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hmBT5J6rWZaYA8qbbZkcSJnivHe.jpg</thumbnail>
