@@ -2,6 +2,20 @@
    <items> 
 <SetViewMode>500</SetViewMode>
 
+
+         <item>
+		<title>Duna: Parte Dois [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/87IVlclAfWL6mdicU1DDuxdwXwe.jpg</fanart>
+		<genre>Ficção científica, Aventura</genre> <date>29.02.2024</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5727adf32ce141fa0be300a90d1a96eb79b2630f</link>
+	</item>
+         <item>
+		<title>Duna [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg</thumbnail>
+		<genre>Ação, Aventura, Drama</genre>
+--<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c</link>
+	</item>
 <item>
 		<title>As Marvels [4K]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPmmgdmApfjX9x2mg02bo0aUOU9.jpg</thumbnail>
@@ -833,12 +847,7 @@
 		<genre>Ação, Aventura, Fantasia</genre>
 --<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5f3ad1610cbd290e172e5b303dba762bed9167da</link>
 	</item>
-	<item>
-		<title>Duna [4K]</title>
-		<thumbnail>https://www.themoviedb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg</thumbnail>
-		<genre>Ação, Aventura, Drama</genre>
---<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c</link>
-	</item>
+	
 	<item>
 		<title>Maligno [4K]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w500/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
