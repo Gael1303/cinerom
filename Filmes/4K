@@ -2,7 +2,85 @@
    <items> 
 <SetViewMode>500</SetViewMode>
 
-
+        <item>
+		<title>Godzilla e Kong: O Novo Império [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fWSGD2yrzz6hscocnMD8AEXIThk.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/j3Z3XktmWB1VhsS8iXNcrR86PXi.jpg</fanart>
+		<genre>Ficção científica, Ação, Aventura</genre> <date>28.03.2024</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=0c241986773a9cca12054fee5e1d220c7609b318</link>
+	</item>
+	
+	<item>
+		<title>Pobres Criaturas [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/fS89P93Lq6pyT7d8ox8AMAEtXUs.jpg</fanart>
+		<genre>Ficção científica, Romance, Comédia</genre> <date>08.12.2023</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6299becdb7018cdc4bda81790b52684388461118</link>
+	</item>
+	
+	<item>
+		<title>Ghostbusters: Apocalipse de Gelo [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boObGdocQS07Nu7IrettgA5oRTp.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/3IoSYT0gnuImnZ73rqYySJnmefA.jpg</fanart>
+		<genre>Fantasia, Aventura, Comédia</genre> <date>11.04.2024</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c9a14efba897a5f0fab5baf2d6ecb51e39d802d1</link>
+	</item>
+	
+	<item>
+		<title>Matador de Aluguel [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg</fanart>
+		<genre>Ação, Thriller</genre> <date>21.03.2024</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=0686464282b55645a69c58955d0e7009ebbcf09f</link>
+	</item>
+	
+	<item>
+		<title>Rebel Moon - Parte 1: A Menina do Fogo [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/sRLC052ieEzkQs9dEtPMfFxYkej.jpg</fanart>
+		<genre>Ficção científica, Drama, Ação</genre> <date>21.12.2023</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fbbd707325b7856de918c645ac6fa6589d92c91f</link>
+	</item>
+	
+	<item>
+		<title>Rebel Moon - Parte 2: A Marcadora de Cicatrizes [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg</fanart>
+		<genre>Ficção científica, Ação, Drama</genre> <date>19.04.2024</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4def973f78830cd57bc09966ab771a5fa9abbf1e</link>
+	</item>
+	
+	<item>
+		<title>A Guerra do Amanhã [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg</fanart>
+		<genre>Ação, Ficção científica, Aventura</genre> <date>02.07.2021</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6c97962345c2f14f82113e05386683c90d81cc5f</link>
+	</item>
+	
+	<item>
+		<title>Argylle: O Superespião [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ojCiMpYmCciIFuEcgLOOGLbUND.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/8te0oIAuUOxi03RbM1SfL3xUYHB.jpg</fanart>
+		<genre>Ação, Aventura, Comédia</genre> <date>01.02.2024</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=bc1b845bdb460b99ffbe0b63523ad4e40a258ff4</link>
+	</item>
+	
+	<item>
+		<title>Passageiros [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ttmnglFa2WxDK3yBkMX1VlpkTo.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg</fanart>
+		<genre>Drama, Romance, Ficção científica</genre> <date>05.01.2017</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5d944b7a81dd2087ad76f3f417719505df53490e</link>
+	</item>
+	
+	<item>
+		<title>Saltburn [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qjhahNLSZ705B5JP92YMEYPocPz.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/nM0wz41xkEoVbRiEZLBAMaR9WfI.jpg</fanart>
+		<genre>Drama, Comédia, Thriller</genre> <date>22.12.2023</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=31af5213f91014dca8381b3d433d22ee39e4f626</link>
+	</item>
          <item>
 		<title>Duna: Parte Dois [4K]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg</thumbnail>
