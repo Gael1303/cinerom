@@ -3,7 +3,215 @@
 <channels>
     <SetViewMode>500</SetViewMode>
 
-
+    <channel>
+	<name>A Escolha Perfeita: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/grsi6lzIayJ3YlRIyyPIM7RiSPq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/jolu4gMP6g2VmUZt099U6X6jNNJ.jpg</fanart>
+	<genre>Comedy, Music, Romance</genre>
+	<info>A Escolha Perfeita é uma coletânea composta por dois filmes lançados em 2012 (A Escolha Perfeita) e 2015 (A Escolha Perfeita 2) e deverá ser lançado o terceiro filme da coleção, intitulado no Brasil como ´A Escolha Perfeita 3´, previsto para lançamento em 2017.</info>
+	<items>
+		<item>
+			<title>A Escolha Perfeita (2012) </title>
+			<genre>Comédia, Musical</genre>
+			<duration>5400</duration>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84a66c1492cb770649dfa1ebd4fb64d1a2034335</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/pRpCQyiylNYcCzyyYHUCyf4yLm6.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Escolha Perfeita 2 (2015)</title>
+			<genre>Comédia, Musical</genre>
+			<duration>5400</duration>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3c0b165c14b407139154d8c76db773281bccf86</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/2EOgcQMgfx2iwnvwyiOuSgthVa8.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Escolha Perfeita 3 (2017)</title>
+			<genre>Comédia, Musical</genre>
+			<duration>5400</duration>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f894670c78b42e4d6dd7b0eda875fcf74c6f8615</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Rebel Moon: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/17fiEIxD7ClGW33IdxpRb0mdXgF.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/tCo96jmjKEMoWa5eCZNNss3MtMH.jpg</fanart>
+	<date>13.03.2023</date>
+	<genre>Drama, Action, Science Fiction</genre>
+	<info>Épico de ficção científica de Zack Snyder, dividido em dois filmes.</info>
+	<items>
+		<item>
+			<title>Rebel Moon – Parte 1: A Menina do Fogo (2023) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=95d54a30f26814ee98388e0351482f4005ed9785</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/jBrE2Eq3XWqyth4VfDhTZHqR2OX.jpg</thumbnail>
+			<genre>Drama, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Rebel Moon – Parte 2: A Marcadora de Cicatrizes (2024) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=164666f0d67fb626f4a53d25097e94e3b3fc7561</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/keBIsy6HV1Vx8DVaKpCyIkyUMrO.jpg</thumbnail>
+			<genre>Drama, Action, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Anjos da Lei: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8cT5XcWXJ650zggxFosNzEsJISv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/iiAbTNYXpMadPDH4MkjUoJzcGn4.jpg</fanart>
+	<date>04.05.2012</date>
+	<genre>Action, Comedy, Crime</genre>
+	<info>Anjos da Lei é uma empolgante coleção de filmes de comédia policial que segue a história de dois policiais desajustados que se infiltram em escolas para combater o crime. Com uma mistura irresistível de ação, humor e amizade, eles enfrentam desafios hilariantes e perigosos, deixando uma trilha de risadas por onde passam.</info>
+	<items>
+		<item>
+			<title>Anjos da Lei (2012) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=98d6d16f52c5d7d36f1e5df26591cd2af8c90f10</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rVQmXioizm9bJJlYT03wEHU24h6.jpg</thumbnail>
+			<genre>Action, Comedy, Crime</genre>
+		</item>
+		<item>
+			<title>Anjos da Lei 2 (2014) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=37a9e6503ba65c02c5554148ffec860a37598f5a</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6WSL1FmxCswB08Vkz19yoXs56l.jpg</thumbnail>
+			<genre>Action, Comedy, Crime</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Homem-Aranha: Aranhaverso Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg</fanart>
+	<date>10.01.2019</date>
+	<genre>Adventure, Animation, Action, Science Fiction</genre>
+	<info>Série de filmes animados focado no Homem Aranha de Miles Morales, um adolescente negro com ascendência hispânica que acidentalmente ganha os poderes de seu herói favorito.</info>
+	<items>
+		<item>
+			<title>Homem-Aranha: No Aranhaverso (2019) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7d7cad98100cfdcab7b0a409bf0b0465c18630dc</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ejqquyk7r3GLXPir62rksUmPKj5.jpg</thumbnail>
+			<genre>Adventure, Animation, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Homem-Aranha: Através do Aranhaverso (2023) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=996a18a1e2786c7aeacadd70e126f87cdb0dbcb5</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fUwfsPWEEdnSt29jIwJ5eVtySX6.jpg</thumbnail>
+			<genre>Adventure, Animation, Action, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Homem-Aranha: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if5xIGg503peo157ZtQY8fIzMEl.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/4Kk8CNTh9NcUhKvh422w7WOrRqF.jpg</fanart>
+	<genre>Adventure, Action, Science Fiction</genre>
+	<info>Baseada no personagem Homem-Aranha da Marvel Comics. A trilogia está centrada em Peter Parker, um fotógrafo freelancer, academicamente talentoso, mas socialmente inepto, que é mordido por uma aranha geneticamente modificada e ganha habilidades de aranha, tudo o que ele usa para combater o crime como um vigilante mascarado de aranha aprendendo por si mesmo que "Com grandes poderes vem grandes responsabilidades".</info>
+	<items>
+		<item>
+			<title>Homem-aranha 1</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd55bbd9be57bcd52b57a5654ec97e4fa4873ecf</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/2T3GkzO6Ar5dlp6Bet43UnxZfQr.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Homem-aranha 2</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df5bbd590334d11c19feda8d15c424a02b73f388</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ulY3TIeF3cNZKmLmrnQueNYZ0gn.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Homem-aranha 3</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbd4a86dfc81c62162af2755575fa11656fdd08e</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/h7goptmUGulOnr2jM4wwc5ypHL.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O espetacular Homem-aranha 1</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c86eda0dbb6e9b52838021ce854ab8397843e163</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/hkHLxLFJCL8ZujJUNfQ54hIEyrm.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O espetacular Homem-aranha 2</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe5f630adff15814fec8c917f98630cb982c6fa9</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/sKCaomyS92jS9GhEJbdAfzNaf7A.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Homem-aranha: De volta ao lar</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:995827590b5dce7f2e56db55dbf2caf3300b9978</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Homem-aranha: Longe de casa</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f1ea63184998ffb68ef59f469476b57ed6cc91b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>A Hora do Pesadelo: Coleção</name>
+	<thumbnail>https://image.tmdb.org/t/p/original/7i3FATsCl8MSYW4IurarIUAmpog.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/fg0HtE2tm61vJPrusIaSfQK03vd.jpg</fanart>
+	<genre>Fantasy, Horror, Thriller, Mystery</genre>
+	<info>Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger, um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger, pode retornar para se vingar daqueles que o mataram, através do sono.</info>
+	<items>
+		<item>
+			<title>A Hora do Pesadelo (1984)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bfbbd34c41b9c10bf78707f6ce3778d500dbf15</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/mSXP80BTB8cVproeIAIsBusc2U8.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Hora do Pesadelo 2: A Vingança de Freddy (1985)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31297afdaef99a6cd7546ade571808f09f6d5679</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/uHFq7fGucKBm4DeXf84U5ibLhK3.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ec934b81c6d5d0a7b8bed9f17df23ead7e95569</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/oVPbfhhyPuYNrLz4rRN9gnyDg2S.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9527653d46c8a1a1892ea7c23759075d4f78310</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/eTSPEWQD0sYHJMbmoJdiuWt13pw.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)[</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24908b82823e190b062c2e4e0b4bdb25b9dfafcd</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ddOLCJVtIyRiRlLlrF5PCu6g7Hg.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Hora do Pesadelo 6: Pesadelo Final, a Morte de Freddy (1991)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c41aa1d3bd5eedfff07d70d0cca5026770abd5</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/a7yb8OS0bFNn6lpjJkdA8pziimF.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Hora do Pesadelo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fc41b5238981c4c92b980ff14801c67ab528a4e</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/s1qsoBxQOG5Kg36bfHmn6laJcs6.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>A Hora do Rush: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jj5zZa9i26dFlPR9twVIkg46Xmz.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/1DH6MOfOBHtSJ0rd7P56bxoWDEy.jpg</fanart>
+	<date>08.01.1999</date>
+	<genre>Adventure, Action, Comedy, Thriller, Crime</genre>
+	<info>A Hora do Rush contém três filmes de artes marciais/comédia de ação dirigidos por Brett Ratner. A trama principal gira em torno de dois detetives de polícia: um inspetor de polícia chinês (Jackie Chan) e um detetive americano do LAPD (Chris Tucker) que parecem não conseguir evitar desventuras envolvendo figuras ameaçadoras do crime.</info>
+	<items>
+		<item>
+			<title>A Hora do Rush (1998)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22cacdb1ec2f67a87a22538b9cb593609177ba16</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg</thumbnail>
+		</item>
+		<item>
+			<title>A Hora do Rush 2</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e71015830aa1e5266fd21867864796f04dd13ec8</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/9Edv9ROuDKByN08R0JsbQ63p068.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Hora do Rush 3</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e268f8a8eb07d4d79ddbe9e18e760e8957b314d7</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
     <channel>
 	<name>Os Deuses Devem Estar Loucos: Coleção</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZZPh4UhyITOPxQPILhKKKrGBIx.jpg</thumbnail>
