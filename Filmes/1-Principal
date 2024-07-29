@@ -3,19 +3,11 @@
 
 
      <channel>
-		<name>[COLOR yellow]•[/COLOR]Recomendaçoes do Mes</name>
+	<name>[COLOR yellow]•[/COLOR]Popular [COLOR gray](Breve)[/COLOR]</name>
 		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
 		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
 		<info>Aba destinada a filmes</info>
 		<externallink>https://</externallink>
-	</channel>
-	<channel>
-		<name>[COLOR green]•[/COLOR]Novos Filmes</name>
-		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
-		<fanart>https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg?fit=1060%2C596&ssl=1</fanart>
-		<info>Filmes recomendados no mes </info>
-		<date>03.01.2024</date>
-		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/Lancamentos</externallink>
 	</channel>
 	<channel>
 		<name>[COLOR green]•[/COLOR]Coleçoes</name>
@@ -39,7 +31,7 @@
 		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/Top-100</externallink>
 	</channel>
 	<channel>
-		<name>[COLOR green]•[/COLOR]Todos os Filmes</name>
+		<name>[COLOR green]•[/COLOR]Todos os Filmes [COLOR gray](Breve)[/COLOR]</name>
 		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
 		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
 		<info>Aba destinada a filmes</info>
