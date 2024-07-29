@@ -3,6 +3,391 @@
 <channels>
     <SetViewMode>500</SetViewMode>
 
+
+    <channel>
+	<name>O Escorpião Rei: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CoJjjzEdSNfrQCjl2CtAHKvbP9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/9M2JRhdxZI36kTEnDlKO0Wmm89T.jpg</fanart>
+	<genre>Adventure, Fantasy, Drama, Action, Science Fiction</genre>
+	<info>O Escorpiao Rei é um spin-off de O Retorno da Múmia (2001) e segue a história de Mathayus e sua ascensão para se tornar o Rei Escorpião. A franquia começou com o filme de 2002 O Escorpião Rei, dirigido por Chuck Russell e estrelado por Dwayne "The Rock" Johnson, Kelly Hu, Grant Heslov e Michael Clarke Duncan.</info>
+	<items>
+		<item>
+			<title>O Escorpião Rei</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=51005e74ed0541c5abeba7156c3ca3e371c97893</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/6Jm7qB3HdiXANt7EgTc3WCcSrLd.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Escorpião Rei 2: A Saga de um Guerreiro</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=279d25a8ad327e5bb0f3b04caf97d0184f8fbd13</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/6mPBRYOn4hl4151yWhs02ZLEdv9.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Escorpião Rei 3: Batalha pela Redenção</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=e422aac0cc1b9b2b9bfad57fc3f76785278166f0</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/chDnDwzv9njnYHDr2lhsvujSaPb.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Escorpião Rei 4: Em Busca do Poder</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9c5ba315d6a66202bfb613537c9458ebce548ba3</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/8orlJgONS4FR16s1SoTFYGP1hRS.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Escorpião Rei 5: O Livro das Almas</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=73ed4c1a493d9180b9fee31b1d833bf1228e3f0e</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/z5POjnFBZM7mvLi3HCfGyhs0s1e.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Eu Sei O Que Vocês Fizeram No Verão Passado: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2g6Ui3CCNcDtL4wasCziivogpfW.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/guXWsiQYpzEJ832Kebd72Qp1Hyq.jpg</fanart>
+	<date>27.03.1998</date>
+	<genre>Horror, Thriller, Mystery</genre>
+	<info>I Know What You Did Last Summer () é um filme estadunidense de 1997, do gênero slasher, baseado no romance homônimo de 1973 de Lois Duncan. O filme é estrelado por Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe e Freddie Prinze Jr., com Anne Heche e Bridgette Wilson aparecendo em papéis coadjuvantes. A trama gira em torno de quatro amigos que estão sendo perseguidos por um assassino, um ano depois de encobrir um acidente de carro no qual eles estavam envolvidos. O filme foi dirigido por Jim Gillespie, a partir de um roteiro escrito por Kevin Williamson, roteirista de Pânico. O filme foi seguido por duas sequências, I Still Know What You Did Last Summer (1998) e o lançamento direto para DVD I'll Always Know What You Did Last Summer (2006). Embora o primeiro filme veja uma continuação do enredo estabelecido em seu antecessor, o segundo filme estabelece um novo enredo e não estrela nenhum membro do elenco dos dois filmes anteriores.</info>
+	<items>
+		<item>
+			<title>Eu Sei o que Vocês Fizeram no Verão Passado</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9642df907a6fb19ed04816d7aebc2a3352086c80</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/f9NcxSMub4XCjYEvVURQij1EtbJ.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Eu Ainda Sei o que Vocês Fizeram no Verão Passado</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5fc02106cf086f264d56333d40754e08f1e68c99</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/nS95XYavWLRogg7DJZTxw93dZJt.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Eu Sempre Vou Saber o que Vocês Fizeram no Verão Passado</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9d4c115de13f7ac91e1e8d66a57fdc6dbd6c4969</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/j83N801BxCjFCAWlJfxW87p6DUY.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Halloween: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rv9SZcjJBzutpk3FzPjdEfaKOF2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/8XxiJ9WYHAzFZMbvq3Jf6JyMEbt.jpg</fanart>
+	<date>16.05.1980</date>
+	<genre>Fantasy, Horror, Thriller, Science Fiction</genre>
+	<info>Halloween é uma série de filmes de terror que consiste em filmes de estripador focados no personagem fictício de Michael Myers. As mortes de Michael ocorrem no feriado de Halloween, no qual todos os filmes ocorrem principalmente.</info>
+	<items>
+		<item>
+			<title>Halloween: A Noite do Terror</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=b74f8a7f881f60e7579ec0c6692534a3d1e9f518&dn=Halloween%20(1978)%20-%20Vers%c3%a3o%20Estendida%20-%20Tetra%20%c3%81udio%20-%20720p%20(Bluray)%20-%20COMANDOTORRENTSHD.NET$nome=OPÇÃO 1</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=14256f3354dcf270d6bf71d88c317ccc0de7f70f&dn=Halloween%20-%20A%20Noite%20Do%20Terror%20(1978)$nome=OPÇÃO 2</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/xEYaxfz3g1CNyCugfj9NuontvVp.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween 2: O Pesadelo Continua</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=58195c9112fb6d5f1df08fa47e15cc1847a0340b$nome=OPÇÃO 1</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=86e1a5ce9ec821215cdf21d8d747ec7215593262&dn=Halloween%202%20-%20O%20Pesadelo%20Continua%20(1981)$nome=OPÇÃO 2</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/3wCCqM7JSSt6PJFNMEC2fxflDjP.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween 3: A Noite das Bruxas</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f61522ad68f8f5e80d715c89c1cf16abe14a94ed&dn=Halloween%203%20(1982)%20-%20Tetra%20%c3%81udio%20-%20720p%20(Bluray)%20%20-%20COMANDOTORRENTSHD.NET$nome=OPÇÃO 1</link>
+			<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Halloween/Halloween.3.A.Noite.das.Bruxas.(1982).Remux.1080p.h264.Dual.Audio.ROBSON2015.mkv$nome=OPÇÃO 2</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/tMZmwAD8CeTGl61jCXFymeyMZKn.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween 4: O Retorno de Michael Myers</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4469361c0a5f8515f50aba0bc8162a0bc4e9c188&dn=Halloween%204%20(1988)%20-%20Tetra%20%c3%81udio%20-%20720p%20(Bluray)%20-%20COMANDOTORRENTSHD.NET$nome=OPÇÃO 1</link>
+			<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Halloween/Halloween.4.O.Retorno.de.Michael.Myers.(1988).Remux.1080p.h264.Dual.Audio.ROBSON2015.mkv$nome=OPÇÃO 2</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/myrvDo899AFkxtSl7ELxprly0mz.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween 5: A Vingaça de Michael Myers</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c5d483694d8fd63c50e3068353e2961e8b87b204$nome=OPÇÃO 1</link>
+			<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Halloween/Halloween.5.A.Vinga%C3%A7a.de.Michael.Myers.(1989).Remux.1080p.h264.Dual.Audio.ROBSON2015.mkv$nome=OPÇÃO 2</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/d4wUOBFhyzmUnsbJgL8wMt9CJfU.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween 6: A Última Vingança</title>
+			<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Halloween/Halloween.6.A.%C3%9Altima.Vingan%C3%A7a.(1995).Remux.1080p.h264.Dual.Audio.ROBSON2015.mkv</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/6y6ldKKz8x6h5r0l9WpLXeiA5IS.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween H20: Vinte Anos Depois</title>
+			<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Halloween/Halloween.H20.Vinte.Anos.Depois.(1998).Remux.1080p.h264.Dual.Audio.ROBSON2015.mkv</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ar9FNoPuelrp3tJRWu6vgjC7bjF.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween: Ressurreição</title>
+			<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Halloween/Halloween.Ressurrei%C3%A7%C3%A3o.(2002).Remux.1080p.h264.Dual.Audio.ROBSON2015.mkv</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/z2yPytnzLZQtQONX9DLH4FR3Iet.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=a335facef360e5e9a12cc1f82291d769b8f3d57f</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/bXs0zkv2iGVViZEy78teg2ycDBm.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Halloween Kills: O Terror Continua</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=edc4833c3babd0916a0a2b6f5f861ebecba4a83a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/4NphuHmnuROLqCjAEr5LS7Aage6.jpg</thumbnail>
+			<genre>[I]Terror, Suspense[/I]</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Deadpool: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sG79t0CRVzZd7BnHGVfD5daTpGQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg</fanart>
+	<date>11.02.2016</date>
+	<genre>Adventure, Action, Comedy, Science Fiction</genre>
+	<info>Uma série de filmes sobre o anti-super-herói do mesmo nome. Um lado engraçado e bem-humorado dos X-Men.</info>
+	<items>
+		<item>
+			<title>Deadpool (2016) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2aa5f34b8e73a7bdf34aefde9a4f24559fab8a29</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3E53WEZJqP6aM84D8CckXx4pIHw.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Deadpool (2018) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fb3138c1ca8eddee036dde5917e5b4a90efee967</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>High School Musical: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cn5Ik0y9K8zkk09JYWaD8YNGmoC.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/t1mwGPJi3NkwMeyeUHr9zlQhlTo.jpg</fanart>
+	<date>20.01.2006</date>
+	<genre>Drama, Comedy, Music, Romance, Family, TV Movie</genre>
+	<info>A série de filmes High School Musical narra dois alunos do ensino médio, Troy Bolton, capitão do time de basquete da East High School (Wildcats) e Gabriella Montez, uma tímida aluna de topo. Ambos tentam os papéis principais no musical de sua escola e rapidamente se apaixonam no processo, apesar da falta de apoio do resto de seus colegas de classe, sendo um deles Sharpay Evans e seu irmão companheiro Ryan Evans. O filme também se concentra em Chad Danforth, o melhor amigo de Troy e Taylor McKessie, o melhor amigo de Gabriella que também se apaixonam.</info>
+	<items>
+		<item>
+			<title>High School Musical (2006)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=1dee952b5423a3d3290bd870052d4277b4d87f1a</link>
+			<thumbnail>https://i.imgur.com/aN4HbNX.jpg</thumbnail>
+			<genre>Drama, Comedy, Music, Romance, Family, TV Movie</genre>
+		</item>
+		<item>
+			<title>High School Musical 2 (2007)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=72ae0a59484a809f9032d6bee2058815de3c0cbf</link>
+			<thumbnail>https://i.imgur.com/fDxLBAx.jpg</thumbnail>
+			<genre>Drama, Comedy, Music, Romance, Family, TV Movie</genre>
+		</item>
+		<item>
+			<title>High School Musical 3: Ano da Formatura (2008)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fd71883d133af420a53ddc5a996fbffa8cd3ccd6</link>
+			<thumbnail>https://i.imgur.com/3eHHXwP.jpg</thumbnail>
+			<genre>Drama, Comedy, Music, Romance, Family, TV Movie</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Homem de Ferro: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOhdPgiKCgnZixjpTxBag5Sxr4J.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg</fanart>
+	<date>30.04.2008</date>
+	<genre>Adventure, Action, Science Fiction</genre>
+	<info>Série de filmes de super-herói, baseado no personagem da Marvel Comics com o mesmo nome e parte do Universo Marvel. Tony Stark é o Homem de Ferro, um industrial e engenheiro, que usa um exoesqueleto motorizado, para combater os inimigos, com a ajuda de sua assistente pessoal e interesse amoroso Pepper Potts.</info>
+	<items>
+		<item>
+			<title>Homem de Ferro</title>
+			<aired>2008/04/30</aired> / <duration>7560</duration>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c8c439de64e1c97fbeabb896c2ec3f907cfccaea</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg</thumbnail>
+			<genre>Adventure, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Homem de Ferro 2</title>
+			<aired>2010/04/30</aired> / <duration>7500</duration>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=018cfa9e17b1eead48dfbbdbd9516b66eff55f2d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/vzROjQbgKWMVf2EldXipCcjpuBL.jpg</thumbnail>
+			<genre>Adventure, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Homem de Ferro 3</title>
+			<aired>2013/04/26</aired> / <duration>7200</duration>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c97a57ab8f0040b9b015887b4cfbb63a602a5f32</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/yzL3IlELFTRnRLdGqRv33SecqtD.jpg</thumbnail>
+			<genre>Adventure, Action, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Indiana Jones: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lUiJKFmAqELHXNTr0eXqPGJYhsa.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg</fanart>
+	<date>25.08.1981</date>
+	<genre>Aventura, Ação</genre>
+	<info>Indiana Jones, o arqueólogo mais famoso de todos os tempos e também um dos personagens mais conhecidos da história do cinema, estrela essa atemporal coleção, com todos os filmes do herói, interpretados com maestria por Harrison Ford.</info>
+	<items>
+		<item>
+			<title>Indiana Jones e os Caçadores da Arca Perdida</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c52da55739a2229b4cbad0023d9cf49afa9c5a7c</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/og4GvSmw3qwiBK8eJF2Txcncian.jpg</thumbnail>
+			<info>Em 1936, o arqueólogo Indiana Jones é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+			<genre>Aventura, Ação</genre>
+			<aired>1981/08/25</aired>
+			<duration>6900</duration>
+		</item>
+		<item>
+			<title>Indiana Jones e o Templo da Perdição</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d147471d897f2f1d6a59429e539c92c7f01ef851</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rAAruJ0hAad7dgkamxh8sKTaiRs.jpg</thumbnail>
+			<info>Em 1935, o professor, arqueólogo e aventureiro Indiana Jones tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
+			<genre>Aventura, Ação</genre>
+			<aired>1984/05/23</aired>
+			<duration>7080</duration>
+		</item>
+		<item>
+			<title>Indiana Jones e a Última Cruzada </title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=3a3ea9934af8beda99d3af8f842917e418a79a30</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg</thumbnail>
+			<info>O arqueólogo Indiana Jones tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones, é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
+			<genre>Aventura, Ação</genre>
+			<aired>1989/06/28</aired>
+			<duration>7620</duration>
+		</item>
+		<item>
+			<title>Indiana Jones e o Reino da Caveira de Cristal</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f8c538d37299465dd51d46d84b846a6a76580685</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg</thumbnail>
+			<info>Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele.</info>
+			<genre>Aventura, Ação</genre>
+			<aired>2008/05/28</aired>
+			<duration>7320</duration>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Bourne: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1L72fPvW8ITWCnx1lXlSFa2cTtO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/dDDyEGgLvTSSRcp36eJcPDUErap.jpg</fanart>
+	<date/>
+	<genre>Drama, Action, Thriller, Mystery</genre>
+	<info>Os filmes Bourne são uma série de filmes de ação e suspense baseados no personagem Jason Bourne, um assassino da CIA que sofre de extrema perda de memória e precisa descobrir quem ele é. O personagem é baseado em romances de Robert Ludlum. O quarto filme da série apresenta Aaron Cross, um agente do Departamento de Defesa que foge para salvar sua vida por causa das ações de Bourne.</info>
+	<items>
+		<item>
+			<title>Bourne: Coleção</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9e3834ebaa1331fd1ae3802789c026306c901fc1$nome=1080P</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=26bd514f05627da2172918149cf09aa9ca8c6369$nome=720P</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/kcIyEJ8nKrbXhIMGqDRxTtBBn8h.jpg</thumbnail>
+			<genre>Drama, Action, Thriller, Mystery</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Loucademia de Polícia: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/piIGNOxHdG4u5FVgvphDl1hlK82.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/4fjmNFs31JPfa4rYtE3gNDspGlk.jpg</fanart>
+	<date>16.04.1984</date>
+	<genre>Comedy, Crime</genre>
+	<info>Loucademia de Polícia é uma série de filmes de comédia americanos, os primeiros seis feitos na década de 1980. O sétimo e último filme, Loucademia de Polícia 7: Missão Moscou, foi lançado em 1994. A série começou com Loucademia de Polícia (1984), que começou com a premissa de que um novo prefeito havia anunciado uma política exigindo o departamento de polícia a aceitar todos os recrutas dispostos. O filme acompanhou um grupo de recrutas desajustados em suas tentativas de provar que são capazes de ser policiais. O personagem principal, Cadete Carey Mahoney (Steve Guttenberg), é um delinquente que foi forçado a ingressar na academia de polícia como punição.</info>
+	<items>
+		<item>
+			<title>Loucademia de Polícia</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7b6e514504124d3adf6e978a70088bb2dea1872f</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/9R7hTHaSeKU7Fk0Dr75Y6YhdYcu.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Loucademia de Polícia 2: A Primeira Missão (1985)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=016585baded7361eeae3d03336076a623056ad0b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/WuzjLfMzP7W401g8SxMsGQQHWr.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Loucademia de Polícia 3: De Volta ao Treinamento (1986)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9b2a1ee0ca559fbf8a950a1dd15ed5e51edd5b31</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/8eNvDaavp5Pc5Jb9bn2f8xxqW8U.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Loucademia de Polícia 4: O Cidadão se Defende (1987)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=e1c9e980ac1aab2f5f1ae68ee94bfdf0449d0cda</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/u55dMZoQyVr7OJJY6F267xpBAQt.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Loucademia de Polícia 5: Missão Miami Beach (1988)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=b8624b5db6589dd9a2618519717792578168728a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/cohnyM8W0afsD6k18ABxWo9OcoA.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=ad9909120bcd7468d0bddcbaae41fbb35365e78d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/o9YVToce8sYCEoKMJTFyHdAov4l.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Loucademia de Polícia 7: Missão Moscou (1994)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=01832117d1eb8df991b92a2e561570db03d9de52</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/rSjLEofJvsTKCLeg3jTbmjYrnCV.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Madagascar: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jehSFsO0ViCSrGmQeRXo9mjenVp.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/lzTIAbvMeGWB7PUrmBZXulGA28M.jpg</fanart>
+	<date>24.06.2005</date>
+	<genre>Adventure, Animation, Comedy, Family</genre>
+	<info>A coleção de filmes Madagascar acompanha as aventuras hilárias de quatro animais do zoológico de Nova York, que são acidentalmente enviados para a natureza e precisam encontrar o caminho de volta para casa, enfrentando desafios emocionantes e fazendo amigos inesperados ao longo do caminho.</info>
+	<items>
+		<item>
+			<title>Madagascar</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=b370a17c661e7c9d4f1542e05374002efcc5b067</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/7aoLcwd4nQVGbG7L4vqu0d929JD.jpg</thumbnail>
+			<genre>Adventure, Animation, Comedy, Family</genre>
+			<info> </info>
+		</item>
+		<item>
+			<title>Madagascar 2: A Grande Escapada</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=b54624d8e5f017f16810dbaf5e7d586292c27e08</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/wJV1MtRky3d7XcrWBygAOvmool.jpg</thumbnail>
+			<genre>Adventure, Animation, Comedy, Family</genre>
+		</item>
+		<item>
+			<title>Madagascar 3: Os Procurados</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4bdcf068bb98c3410b64f733585cee0268c829c1</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/bPRvFj9MGeLeqidaTniUf8yQ0PW.jpg</thumbnail>
+			<genre>Adventure, Animation, Comedy, Family</genre>
+			<info> </info>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Mad Max: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eMXFdHO9GdP6RFdCliGfPMfer2s.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/fhv3dWOuzeW9eXOSlr8MCHwo24t.jpg</fanart>
+	<date>15.09.1979</date>
+	<genre>Adventure, Action, Thriller, Science Fiction</genre>
+	<info>Nos anais dos filmes de ação, poucos se comparam a este eletrizante épico que mistura velocidade e carnificina, que lança o espectador em uma paisagem desoladora e sequer imaginada, onde o futuro pós-guerra nuclear encontra o passado mitológico. Mais simplesmente, trata-se de um dos mais poderosos filmes de ação já feitos. Mel Gibson deixou sua marca na história da Sétima Arte como o herói solitário Max, que dirige o último dos V-8 pelas estradas que cortam o outback australiano em um infindável busca por gasolina.</info>
+	<items>
+		<item>
+			<title>Mad Max (1979) (Dublado)</title>
+			<link>https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=3EnFULr4GLnplt0L6OiFYftHEYLVbUl6c%2Bkl1yKln%2FOmMZtsQIWvrXpO2RMWJjLg&expiry=aSBfjDi9L7Ac23eeUP86hA%3D%3D&mac=251dd78e734f56bec7493ef3477ecfde5869f5ba464f61f0e8c2bc565f83bcb2</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jHJ5xxRjXUfZ6lQHcwibAzepPf2.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Mad Max 2: A Caçada Continua (1981) (Dublado)</title>
+			<link>https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=8kwtVAEHbPX75WoWm0F%2Fkjz1R04fEkmozVA5dH8BO51NmzpIp1pHks4KH80kIUnm&expiry=P3gcBbErX3%2FJ5HOCU78AJA%3D%3D&mac=8fe629ea5016459d8576e68fa63a3cb76c068bb3de469e04b7109f954118c013</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jmI9M04jZnfgAaA1kSiG2HKHUxt.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Mad Max: Além da Cúpula do Trovão (1985) (Dublado)</title>
+			<link>https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=q0oa5zTzEzfxIVdGIpMINsNZK626arvL1va4dWkaXP0B9JhWeLdLF%2BQ2qOoLeeYe&expiry=5T3sxYq6Kixqyhb9nwu6yQ%3D%3D&mac=7ca1991669bdaf7f43cc6eb8f042fef85e0b8003b2a9e3d5df769cbeda82d465</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kF524uYB8NWmWCJHCTNlRfbI6Qc.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Mad Max: Estrada da Fúria (2015) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=be1ffe9412241bac956a2fef4e2012ef67b044c3</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mtgqrSlT47VsmeMVanLTny7BknB.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Furiosa: Uma Saga Mad Max (2024) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f0987a8b478939e62ffa2cb317c5aeed9896b2a5</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
     <channel>
 	<name>A Escolha Perfeita: Coleção</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/grsi6lzIayJ3YlRIyyPIM7RiSPq.jpg</thumbnail>
