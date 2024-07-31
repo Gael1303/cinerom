@@ -2,7 +2,13 @@
    <items> 
 <SetViewMode>500</SetViewMode>
 
-
+        <item>
+		<title>Um Lugar Silencioso: Dia Um [4K]</title>
+		<thumbnail>https://image.tmdb.org/t/p/original/6ur9Bzx6YF9TVVWH8caKAWnVvYh.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg</fanart>
+		<genre>Terror, Ficção científica, Thriller</genre> <date>27.06.2024</date> 
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d17ac13b165b9d24fb8ee8b691f9d09e60b23585</link>
+	</item>
         <item>
 		<title>Guerra Civil [4K]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg</thumbnail>
