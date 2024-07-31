@@ -3,7 +3,640 @@
 <channels>
     <SetViewMode>500</SetViewMode>
 
-
+     <channel>
+	<name>O Massacre da Serra Elétrica: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fzIAo3btVnHSvi4D8s5ub9MouRt.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg</fanart>
+	<date/>
+	<genre>Horror, Comedy, Thriller</genre>
+	<info>Uma série americana de filmes de terror slasher. A franquia se concentra em Leatherface, que aterroriza os visitantes desavisados em seu território, e tipicamente mata e canibaliza-os.</info>
+	<items>
+		<item>
+			<title>O Massacre da Serra Elétrica (1974)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c2bdd25fa2e58a432083a74a2b3659a2b137cd43</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/2hXkFRUU0eN60QLu8jANRwbhEgQ.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Massacre da Serra Elétrica 3 (1990)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8808f94e50cadedf1662a8da389d7226ed1d6c05</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/dYDumJmeu6lwIMoLDh15WslTGYy.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Massacre da Serra Elétrica: O Retorno (1994)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=ab4d0bb040647285b7404d3f78150c3fec1d31ce</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/lfdPHCL04mQMO7clw8AUmLAOKax.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Massacre da Serra Elétrica</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=bfed68c17ace80fda5231469fb309d7c07ff098a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/peL5G7S7KER4y5fUAGgtGxRccbv.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Massacre da Serra Elétrica: O Início</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c37dd4a948f3da0f912607aafe1caabea2ac6a4b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/m9pmVKWhH654TVI68Y7514d6FYa.jpg</thumbnail>
+		</item>
+		<item>
+			<title>O Massacre da Serra Elétrica 3D: A Lenda Continua</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d3ed1979ef322155563ac68c77b42ff793959d29</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/34y53bP3bWX4DTAr8cishqcyP4f.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Massacre no Texas</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=417a8b142796af527815bab8970b51d65f7c4958</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/hdUW98rRjK3ox2RQmzYV7PWvDIY.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>As Crônicas de Nárnia: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bTswfA0eumbwLULnV9p8bBc6Ljx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/tQlINE7wHXgVQ6oShS4uAiNVaVw.jpg</fanart>
+	<date>09.12.2005</date>
+	<genre>Adventure, Fantasy, Family</genre>
+	<info>Produções cinematográficas teatrais modernas baseadas na série de livros "As Crônicas de Nárnia" de C. S. Lewis.</info>
+	<items>
+		<item>
+			<title>As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=349a9abf773d7aab9e0569563bc6517a322fc7fb</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/2rElTfcZ09mfiDtD1wdE9EyXcUs.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Family</genre>
+		</item>
+		<item>
+			<title>As Crônicas de Nárnia: Príncipe Caspian</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=e6e3ab970d32eff48df7bd131722752c910c532d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/7iP4njoOx6sC3tSWffET1q1wqTW.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Family</genre>
+			<info>Um ano após a sua última aventura, os irmãos Pevensie regressam à terra mágica de Nárnia e descobrem que 1300 anos se passaram. Nárnia está em guerra novamente e os irmãos unem forças com o Príncipe Caspian para derrotar o maldoso Rei Miraz e restaurar a paz.</info>
+		</item>
+		<item>
+			<title>As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=280f5919795690e8de1c8706fc8de55d3fbf2cc5</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/jo28SHz8d3VBt92vPWXM8yLyKb6.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Family</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Johnny English: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pz5kko3uMoYjj5HDoEEU7mK1y2P.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/w8gJ0wH64lVs5NIDD3D2SwmYK8a.jpg</fanart>
+	<date>25.04.2003</date>
+	<genre>Adventure, Action, Comedy, Crime</genre>
+	<info>Johnny English é uma série de filmes de comédia de ação britânicos, parodiando o gênero de agente secreto de James Bond. Possui Rowan Atkinson como o personagem principal, baseado no roteiro escrito por Neal Purvis, Robert Wade e William Davies. A série inclui três filmes. A série é infundida com comédia semelhante ao personagem de Mr. Bean, e arrecadou US $ 477,8 milhões em todo o mundo.</info>
+	<items>
+		<item>
+			<title>Johnny English (2003) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=67511d4af7161c9abb798e5327ebb82cd5ebcb44</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mmzW88tnkB2MnOV3Un2F9IUxSnZ.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Crime</genre>
+		</item>
+		<item>
+			<title>O Retorno de Johnny English (2011) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=1237dd466d04d3eba26499660d2c95919492773e</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nM0r4uUi1K3cIebwB9gfbohtSo5.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Crime</genre>
+		</item>
+		<item>
+			<title>Johnny English 3.0 (2018) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2377cc0357b5f514ec7752637d8fed8dc891a13c</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cnchtu8rXPFAkvii9WC4htmt9CZ.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Crime</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Uma Noite de Crime: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO8KF89eSpsqtyLDMoqSQEj8OJK.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/zLx0VxpzJt3E0cb4GodV10Wp0Lt.jpg</fanart>
+	<date>30.07.2013</date>
+	<genre>Horror, Action, Thriller, Science Fiction</genre>
+	<info>Uma série de filmes de suspense de terror baseados em uma futura América distópica, onde todo crime é legalizado uma vez por ano.</info>
+	<items>
+		<item>
+			<title>Uma Noite de Crime (2013) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f5a7bc0bbb35df53d978c1ee57db8f4b1e0923a2</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKKW81Rq5I2bJXwyEEZVyXwGft4.jpg</thumbnail>
+			<genre>Horror, Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Uma Noite de Crime: Anarquia (2014) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=616f74364d32a4fc2cb8a94afc92007a0f558d8f</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkJ9MP7yqtwt0pm4LaLIfSxTqm2.jpg</thumbnail>
+			<genre>Horror, Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>12 Horas para Sobreviver: O Ano da Eleição (2016) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8a2b326c9796fb65f17f8ec3a199ea5614cf3b53</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41NT5TCXWnlg2vxtVZz8uFlhHca.jpg</thumbnail>
+			<genre>Horror, Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>A Primeira Noite de Crime (2018) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=df70b6224ac8f5b11580b6d470a9a8f74c3b20fc</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDeTqCBAoRHD9zQXZefhtJs2sez.jpg</thumbnail>
+			<genre>Horror, Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Uma Noite de Crime: A Fronteira (2021) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6756dc9544fecd70f0ece8d215a7fc36437aedc2</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v9d5RN9j9BbqBQm4L7oTLIM3qu2.jpg</thumbnail>
+			<genre>Horror, Action, Thriller, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Uma Noite no Museu: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBNOxkCICkQReUarpIuph6jlWBZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/z0nqqHwEY3niKa41kKbR4zhnvHw.jpg</fanart>
+	<date>12.02.2007</date>
+	<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+	<info>Série de filmes estrelados por Ben Stiller como guarda noturno do Museu de História Natural de Nova York.</info>
+	<items>
+		<item>
+			<title>Uma Noite no Museu</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=efd33060ff7200e715d093bb1b9384671be28c5a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/kOQglSvPTifAVo41HUKmbt915u4.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		</item>
+		<item>
+			<title>Uma Noite no Museu 2</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6fa517fc233dccfd4b274ca8e3bce8222a0bb44a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/9nybhG2tnYNl2a8MpKFWml9SHl5.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		</item>
+		<item>
+			<title>Uma Noite no Museu 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7fdc3de80671b72260c4d202e0fc5698eae390e0</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/pXUy4komfGJGAjc1JTAS7zaTK1.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>O Hobbit: Coleção</name>
+	<thumbnail>https://image.tmdb.org/t/p/original/o8Mkme2Pp2zu7VCR6rnTKmXJn8p.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/1BDuNnj4YwK12rnJ8U5hqHzvGpv.jpg</fanart>
+	<date>14.12.2012</date>
+	<genre>Adventure, Fantasy, Action</genre>
+	<info>O Hobbit é uma coleção de 3 filmes épicos de fantasia e aventura, baseados no romance de fantasia de J. R. R. Tolkien, com o mesmo título. A trilogia de filmes está situada na Terra-Média ou Terra do Meio, 60 anos antes de "O Senhor dos Anéis".</info>
+	<items>
+		<item>
+			<title>O Hobbit: Uma Jornada Inesperada (2012)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=060282019762771c2882c27eefb5339ff904add0</link>
+			<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/91/86/25/20180397.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action</genre>
+		</item>
+		<item>
+			<title>O Hobbit: A Desolação de Smaug (2013)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=781c81e935217c7601fcb67dd4191dc67e81fd01</link>
+			<thumbnail>https://br.web.img3.acsta.net/pictures/210/571/21057125_20131112201221324.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action</genre>
+		</item>
+		<item>
+			<title>O Hobbit: A Batalha dos Cinco Exércitos (2014)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=dc962646954fb66aa1648f4adc573eef868b3014</link>
+			<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/0e/The_Hobbit_-_The_Battle_of_the_Five_Armies.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Bad Boys: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTGvYsEwk4nFzSUIGPLlwWrNH11.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/mNR3xSPbwpIoAtrsbuafei2YkNm.jpg</fanart>
+	<date>07.07.1995</date>
+	<genre>Action, Comedy, Thriller, Crime</genre>
+	<info>Uma franquia de filmes sobre a dupla de policiais Mike Lowrey e Marcus Burnett, explodindo coisas e perseguindo carros malucos. Eles fazem o trabalho, mas a um custo caro.</info>
+	<items>
+		<item>
+			<title>Os Bad Boys (1995)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=73a22b67b48eaa4c212b50167471bb6d42275ba3</link>
+			<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/25/48/19873594.jpg</thumbnail>
+			<genre>Action, Comedy, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>Os Bad Boys II (2003)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=b26e4547166ca22f3fa0d6777d2eac9c76b2f2ae</link>
+			<thumbnail>https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/76/06/19961267.jpg</thumbnail>
+			<genre>Action, Comedy, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>Bad Boys Para Sempre (2020)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fc14c29fff4a1505ec8d5b6bc4cb9132bfe9a06f</link>
+			<thumbnail>https://br.web.img3.acsta.net/pictures/20/01/28/22/11/0608065.jpg</thumbnail>
+			<genre>Action, Comedy, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>Bad Boys: Até o Fim (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fed8c077b33eab27f4d328511995a4823829df25</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg</thumbnail>
+			<genre>Action, Comedy, Thriller, Crime</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Olhos Famintos: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3pn9mYRlbJDrEMBMVR5dB5VViuK.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/mzFtvzOdmuDYoQQuOzulsJkAUQB.jpg</fanart>
+	<date>09.11.2001</date>
+	<genre>Drama, Horror, Thriller, Mystery</genre>
+	<info>Filme de terror americano de 2001, escrito e dirigido por Victor Salva. O filme leva o nome da música "Jeepers Creepers" de 1938, que aparece no filme. Francis Ford Coppola produziu, e as estrelas de cinema Gina Philips, Justin Long, Jonathan Breck e Eileen Brennan. Philips e Long interpretam os irmãos que se tornam alvos de uma criatura demoníaca. Em 2003, uma sequência foi lançada, "Olhos Famintos 2". Os eventos no segundo filme acontecem dias após o primeiro filme. O Creeper e Darry são os únicos personagens a aparecer em ambos os filmes, embora não sejam os únicos atores a aparecer em ambos os filmes. Em setembro de 2015, "Olhos Famintos 3" foi anunciado. A filmagem começou em abril de 2016, com um lançamento previsto para 2017. Victor Salva retorna como diretor, Jonathan Breck retorna como "The Creeper" e Gina Philips acredita estar retornando como "Trish Jenner", seu primeiro papel de tela em cinco anos.</info>
+	<items>
+		<item>
+			<title>]Olhos Famintos</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f6c467424b33f05586218812cf678845865c4b27</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/jPiaAL3hOAexYnw5JMCwJT0xjgm.jpg</thumbnail>
+			<genre>Drama, Horror, Thriller, Mystery</genre>
+		</item>
+		<item>
+			<title>Olhos Famintos 2</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6f2edb5b634442698c6fd1b916709d47c17ab643</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/pRCiGoJfC5z4OaRDpdwd6nyyRVu.jpg</thumbnail>
+			<genre>Drama, Horror, Thriller, Mystery</genre>
+		</item>
+		<item>
+			<title>Olhos Famintos 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f98685133f9559d05c615b972d6d2626cd202c46</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/kBt4WTZu681CT00r6lbyv5BXbmM.jpg</thumbnail>
+			<genre>Drama, Horror, Thriller, Mystery</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Os Caça-Fantasmas: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tWsc6LzQxxMiMEp1xI6KJ0sDWuZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/yka8c9kOHXmJpmFRn01y3lzfB1U.jpg</fanart>
+	<date/>
+	<genre>Adventure, Fantasy, Comedy, Science Fiction</genre>
+	<info>Os Caça-Fantasmas é um filme americano de comédia sobrenatural de 1984, dirigido e produzido por Ivan Reitman e escrito por Dan Aykroyd e Harold Ramis. O filme é estrelado por Bill Murray, Aykroyd e Ramis como três parapsicólogos excêntricos na cidade de Nova York que iniciam um negócio de captura de fantasmas. O segundo filme, Os Caça-Fantasmas 2, foi lançado em 1989.</info>
+	<items>
+		<item>
+			<title>Os Caça-Fantasmas (1984)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9566c89545bdf2ea489e72c456fb9c79708d188a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/7ESJStBUQf4ogoRGoa1aqyf6qXq.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Comedy, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Os Caça-Fantasmas 2</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=3d17260f724c04a1008680fb5ff477ea061df14b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/3brzd3BVtqzOPdrsoYMxp52uNzh.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Comedy, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Caça-Fantasmas</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c290c637ecfa5b85bac2e63bc35f61fe83183dc9</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/k94VAAXYDxRdVEGlZ3uDQtlsVTr.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Comedy, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Os Mercenários: Coleção [COLOR yellow]63%[/COLOR]</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xgXSo9tPwWnu1acFlZLuIIyK0xb.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/lA7oDSt6LkyDqtbFGbyuG0afmTI.jpg</fanart>
+	<date>13.08.2010</date>
+	<genre>Adventure, Action, Thriller</genre>
+	<info>Uma série de filmes sobre um grupo de mercenários. Um tributo aos filmes de ação dos anos 80 e 90 com algumas estrelas e lendas dessa época.</info>
+	<items>
+		<item>
+			<title>Os Mercenários (2010)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d8a9b3a456a42801de0178b31b6297f345921243</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/tTfRV9lOBi3YDJpYXqbj4Ai04g2.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller</genre>
+		</item>
+		<item>
+			<title>Os Mercenários 2 (2012)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=71a74d101c5282e0cd3557ef1336a220dded6c7d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller</genre>
+		</item>
+		<item>
+			<title>Os Mercenários 3 (2014)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=eaabd441c212fbe532fdcad8b940b491e2a58626</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller</genre>
+		</item>
+		<item>
+			<title>Os Mercenários 4 (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=98e7cfe00a8ebbc028fbf71e093f97eb459b69b8</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mVgPlKHUxXJhD9H0cCMzwJO4Ssv.jpg</thumbnail>
+			<genre>Adventure, Action, Thriller</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Pânico Na Floresta: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6jhokusc6zbU0LaMqnUeOJwdKco.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/32IsLLCoj3mIkZbLfCKSXZVqd3k.jpg</fanart>
+	<date>05.03.2004</date>
+	<genre>Horror, Thriller</genre>
+	<info>Um grupo de pessoas lutando por sua sobrevivência contra uma família de canibais consternados deformados, que planejam destruí-los implacavelmente a todos.</info>
+	<items>
+		<item>
+			<title>Pânico na Floresta</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=475ae27cbc6f709e1bb1f60e97c3bc321b3c9298</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/mQVIIUXHo3Qpd6nu0api7UyMpas.jpg</thumbnail>
+			<genre>Horror, Thriller</genre>
+		</item>
+		<item>
+			<title>Pânico na Floresta 2</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=0772c0d75b81bd7560522df1dd525a53385984dc</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/qnJ9yocwpxl0Cvi5kgZZjWIl3NF.jpg</thumbnail>
+			<genre>Horror, Thriller</genre>
+		</item>
+		<item>
+			<title>Pânico na Floresta 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f2ca50ec25daef4c4f6ea43a27c1b37cb0c5d877</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ablEp5NwXbfSL3HXPOkM9fW5DKP.jpg</thumbnail>
+			<genre>Horror, Thriller</genre>
+		</item>
+		<item>
+			<title>Pânico na Floresta 4</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f8f6fb328b28e46d3833c97e2d6ea7269bed1196</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/wZ6eeVyDo9PUIH3accCxi4zm5SZ.jpg</thumbnail>
+			<genre>Horror, Thriller</genre>
+		</item>
+		<item>
+			<title>Pânico na Floresta 5</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=73e03e001f47cd174115c32b59ef8a8c1527bc22</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/vsH0zwELHvVSKCyQlEZfDxjMSaP.jpg</thumbnail>
+			<genre>Horror, Thriller</genre>
+		</item>
+		<item>
+			<title>Pânico na Floresta 6</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9a3a4d8da798c6e68f480c579d52bf1fc8e4362e</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/z9JMIja6UYHwK6fFw0RR5w3pGVR.jpg</thumbnail>
+			<genre>Horror, Thriller</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Piratas do Caribe: Coleção</name>
+	<thumbnail>https://image.tmdb.org/t/p/original/3A0JdyxTcgUkui7oDKBHAU2tSWQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg</fanart>
+	<date/>
+	<genre>Adventure, Fantasy, Action</genre>
+	<info>Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.</info>
+	<items>
+		<item>
+			<title>Piratas do Caribe: Coleção (Quadrilogia)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=00d8293ac7945de56f21d9d6e66bb8a4504c9626</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/qbp03aY63aWpJ9Ihr4aNiiKK94R.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action</genre>
+		</item>
+		<item>
+			<title>A vingança de salazar</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=e5a4f62f51dc11d9c3388912e5ffe36c29d53fdb</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/FavAT2tbkCvlGM5pbgnRgAlzIf.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Pânico no Lago: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/XaIy5KtoAINiXikCewxU1xyaTw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/fKijuk5TTzTxFitleJ9Molzzti1.jpg</fanart>
+	<date>29.10.1999</date>
+	<genre>Horror, Action, Comedy, Thriller, Science Fiction, TV Movie</genre>
+	<info>Lake Placid é uma série americana de filmes de terror/comédia criada por David E. Kelley. É um retrocesso exagerado às características antigas da criatura. Produzida e distribuída pela Sony Pictures Home Entertainment, a série começou com Lake Placid (1999), dirigido por Steve Miner. Isso foi seguido por cinco sequências de televisão, Lake Placid 2 (2007) dirigido por David Flores, Lake Placid 3 (2010) dirigido por Griff Furst, Lake Placid: The Final Chapter (2012) dirigido por Don Michael Paul, Lake Placid vs. Anaconda (2015) dirigido por AB Stone e sendo um crossover com a série Anaconda, e Lake Placid: Legacy (2018) dirigido por Darrell Roodt. Cada parcela gira em torno da presença de crocodilos gigantes comedores de homens de 30 pés de comprimento no local fictício de Black Lake, Maine, e os esforços de vários grupos para capturar ou destruir as criaturas. Todos os filmes fazem referência a membros da família fictícia "Bickerman".</info>
+	<items>
+		<item>
+			<title>Pânico no Lago (1999)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=bb06c7d1fcfcd869f9848dca9cfc8bb08ef8f58c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/uug2N5CDbyZI0ZZ7uyAyWyY6jlY.jpg</thumbnail>
+			<genre>Horror, Action, Comedy, Thriller, Science Fiction, TV Movie</genre>
+		</item>
+		<item>
+			<title>Pânico no Lago 2</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5bdc26076c6ad5e51ea53663e1e3d35eb240106b</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/spLJTEsaQwlkXdfwvzrZJvq9qAp.jpg</thumbnail>
+			<genre>Horror, Action, Comedy, Thriller, Science Fiction, TV Movie</genre>
+		</item>
+		<item>
+			<title>Pânico no Lago 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=67c5490fd330d05928fbec36e95d5d33e3f46ee7</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/pms0w4qAQ0roWzd8T1AcKtZHpEz.jpg</thumbnail>
+			<genre>Horror, Action, Comedy, Thriller, Science Fiction, TV Movie</genre>
+		</item>
+		<item>
+			<title>Pânico no Lago: O Capítulo Final</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fb7cc146e8706b556ea3a15fa6f249f5338c74c3</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/gDnQ1T2xI5Sl7BNiK3UvNu2eOTb.jpg</thumbnail>
+			<genre>Horror, Action, Comedy, Thriller, Science Fiction, TV Movie</genre>
+		</item>
+		<item>
+			<title>Pânico no Lago: Projeto Anaconda</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8700d1638a06717b7f010b223db63d495fe6700a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/nrMexDnyEBfdXIJhW4CIBw5Izir.jpg</thumbnail>
+			<genre>Horror, Action, Comedy, Thriller, Science Fiction, TV Movie</genre>
+		</item>
+		<item>
+			<title>Pânico no Lago: O Legado</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d7d0e574ee13ba8f313e6c2e7755a84026b50e5c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/jMQBRaMoktWm46uIUYKeOHWXXxe.jpg</thumbnail>
+			<genre>Horror, Action, Comedy, Thriller, Science Fiction, TV Movie</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>O Poderoso Chefão: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s4i9pFeUj4gSJaA487kjq9ePJrR.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg</fanart>
+	<date>07.07.1972</date>
+	<genre>Drama, Thriller, Crime</genre>
+	<info>Os filmes da trilogia de Francis Ford Coppola sobre a vida cotidiana de uma família mafiosa de Nova York. Com seu elenco com estrelas, esses filmes entraram para a história, como alguns dos melhores que Hollywood já produziram.</info>
+	<items>
+		<item>
+			<title>O Poderoso Chefão (1972)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c34911e5ca4518978719cfef123e204ec7905edd</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/oS3mn55v5jEBduZQp2ttzqxxbLQ.jpg</thumbnail>
+			<genre>Drama, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>O Poderoso Chefão II (1974)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=a0fad811eff971b3bc2fff1219e1052ee2b3c6ec</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/yB3AkkGMFplGlnPqQZ38W7bdD10.jpg</thumbnail>
+			<genre>Drama, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>O Poderoso Chefão III (1990)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=83b9837b116727ff698d2743c0b4a869a2e1c281</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/6kKs45futNbmKkt4SxousPqHDKP.jpg</thumbnail>
+			<genre>Drama, Thriller, Crime</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Premonição: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mu8JSWvoxAj80gLBpBuXVi4bsa0.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg</fanart>
+	<date>14.07.2000</date>
+	<genre>Horror, Mystery</genre>
+	<info>Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.</info>
+	<items>
+		<item>
+			<title>Premoniçao 1</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7c2972840df6066b32093178bdd31285f8f5d941</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/xfSgB3GZoX8Po3vpUX1p801zWJI.jpg</thumbnail>
+			<genre>Horror, Mystery</genre>
+		</item>
+		<item>
+			<title>Premoniçao 2</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=81e42e55f3919afef66cf210cfe58de8b185f8c8</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/mjxV1LFghlyNFnsFoISuNXGQtk.jpg</thumbnail>
+			<genre>Horror, Mystery</genre>
+		</item>
+		<item>
+			<title>Premoniçao 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=193e505d7754b681023b58e7a60a0023dbe0f70c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/zdW7TWFc9DOG8gCElBBsj5pvpuK.jpg</thumbnail>
+			<genre>Horror, Mystery</genre>
+		</item>
+		<item>
+			<title>Premoniçao 4</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=cd4ad04b8cafd53b6e41feb48bcdd55237194f66</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/kD0PTYIf7JVGobmZt6nA9Chf8Hx.jpg</thumbnail>
+			<genre>Horror, Mystery</genre>
+		</item>
+		<item>
+			<title>Premoniçao 5</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=62c786df1c36008393e5bc0ae17bc98b6287c698</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/jVfiFX2OsWN8QXwOJblywzIYGXB.jpg</thumbnail>
+			<genre>Horror, Mystery</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Presos no Gelo: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIpFtZacjn0VOcLi2iVcFKVeJIy.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/kBK4qx9YGQ1wq3KC2Xzj98TZLdk.jpg</fanart>
+	<date>13.10.2006</date>
+	<genre>Horror, Thriller, Mystery</genre>
+	<info>Um grupo de jovens vai para as montanhas com a intenção de esquiar e se divertir. Ali, tudo vai bem até que um deles acaba quebrando a perna. Assim, eles começam a procurar alguma ajuda na afastada região e dão de cara com um hotel abandonado. O hotel está vazio e silencioso, claramente fechado há vários anos. As linhas telefônicas estão mortas e a gangue percebe que eles têm que passar a noite lá. Mas cercados por montanhas e a noite, eles acham sinal horrível de que eles não estão tão sozinhos quanto eles pensaram ...</info>
+	<items>
+		<item>
+			<title>Presos no Gelo (2006)</title>
+			<link>https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gp402SSWLXESED36GmEy04y7Sd2xFi%2FHOuXVJBDdK%2BonYAjImnLTuMbw%2FvP2O5IN&expiry=hUu6QU3WnhokK4COypuGsA%3D%3D&mac=0a789c8c4d59260a184427ee2e2e61ae206c246265e8952dba781ef4e3029548</link>
+			<thumbnail>https://2.bp.blogspot.com/-JfjlY79qw-Y/Wz5KVM-lfwI/AAAAAAAANag/1aTBkFcJAK0l0p5Twc-v6M1N1aPZ5Fg3ACLcBGAs/s1600/Presos%2Bno%2BGelo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+			<genre>[I]Suspense, Terror[/I]</genre>
+		</item>
+		<item>
+			<title>Presos no Gelo 2 (2008)</title>
+			<link>https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EbOp12E3vOtFQedDUMHKraqlDb6JX%2Ff9evX60wIi5XA3R994HeZ0b9IWCmt6SypA&expiry=yTll%2Bgvb44i%2F%2FMWiq072aA%3D%3D&mac=51f8780108d2c51d1225aba3a3fe977a72052bddbd7257653c367976e8801e21</link>
+			<thumbnail>https://1.bp.blogspot.com/-BWCp-21ngu4/Wz5KUBrnBaI/AAAAAAAANaY/Ms2ZkhoNnu49NMyse3cMG97mo1_a1IRjACLcBGAs/s1600/Presos%2Bno%2BGelo%2B2%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+			<genre>[I]Suspense, Terror[/I]</genre>
+		</item>
+		<item>
+			<title>Presos no Gelo 3 (2010)</title>
+			<link>https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2FYRmOsonkv3f2vF94%2BMw6Iw39e37gWNTA%2BR4pVE12XQWFxkxUymVvGGrc1mwDtbR&expiry=E81YH9GObabdDmhCKsQ1aw%3D%3D&mac=2d2aff97e45d4d1104bdb63f75d43bdc149a0f92849b33a32356260c0d1d18c8</link>
+			<thumbnail>https://i.imgur.com/ACrwrUl.jpg</thumbnail>
+			<genre>[I]Suspense, Terror[/I]</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Quarteto Fantástico: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x11GjaXoHCdyLfrcC7VpjP2jlta.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/ubmM1Fuuop6TPGUlRyETSybWWws.jpg</fanart>
+	<date>08.07.2005</date>
+	<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+	<info>Filme de super-heróis baseados na equipe da Marvel Comics do mesmo nome. Quatro indivíduos ganharam superpotências após a exposição a raios cósmicos durante uma missão científica ao espaço exterior: Senhor Fantastico (Reed Richards), a Mulher Invisível (Susan "Sue" Storm), o Tocha Humana (Johnny Storm) e a Coisa (Ben Grimm).</info>
+	<items>
+		<item>
+			<title>Quarteto Fantástico</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=3c80881e2a3ff0456b2297e32cdf5f451f7c98bd</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/l7NpBV9CrHGTmUuLZbWTjsOFVal.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Quarteto Fantástico e o Surfista Prateado</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=50005e771b2797939494e97701d66269d011918e</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/5sF9Bv5J73nAz7Co3KW6BvVPisV.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Quarteto Fantástico 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8d5c1627ece81bc2e562c2ca77159446fc470f4c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/XJ8jZ4hGyusnN41NnxR0vv5ghS.jpg</thumbnail>
+			<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>Resident Evil: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ETUTjVmac01MkWHH5xi05z7ifi.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/3hqSP5YGsbOjNZ4ymcg3wnGPgSW.jpg</fanart>
+	<date>30.05.2002</date>
+	<genre>Adventure, Horror, Action, Science Fiction</genre>
+	<info>Baseado vagamente nos game da Capcom do mesmo nome. A série de filmes é escrita por Paul W.S. Anderson com a protagonista Alice, interpretada por Milla Jovovich. A Umbrella Corporation atua como o principal antagonista da série, uma empresa farmacêutica de bioengenharia responsável pelo apocalipse zumbi como resultado da criação do virus T.</info>
+	<items>
+		<item>
+			<title>Resident Evil: O hospede maldito</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=3d311cc8276cda92f7d8a45bdd8356b255a759aa</link>
+			<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/28/Resident_Evil.jpg/250px-Resident_Evil.jpg</thumbnail>
+			<genre>Adventure, Horror, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Resident Evil: Apocalipse</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=251fc172798b5678825e1552e04e2fc51ce17d9f</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ppAMfnKoXkDX5Mh3zr7Qqy4umw6.jpg</thumbnail>
+			<genre>Adventure, Horror, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Resident Evil: A extinção</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8ab24fbfcf1b412a118477628c01e0ca6e5567f3</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/qetrFNiG9kbsI5nyM853S0N9ydP.jpg</thumbnail>
+			<genre>Adventure, Horror, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Resident Evil: Recomeço</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6c5efe358c20185ae57aeb79e3df949e71427617</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/diPrexFmSxHylFEoxVXta0Ok3hw.jpg</thumbnail>
+			<genre>Adventure, Horror, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Resident Evil: Retribuição</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d0fa4c289b0b3dafc6e865823cc9d856461a526d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/8Hd7OTdX1Q3pccZn2TUsU9isJpz.jpg</thumbnail>
+			<genre>Adventure, Horror, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Resident Evil: O capitulo final</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=699ffa4c61e4608f6796140e63b8ace225696d75</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/jkaLHoFk6dmTHZNW17FmeybZsdf.jpg</thumbnail>
+			<genre>Adventure, Horror, Action, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+<channel>
+	<name>As Crônicas de Riddick: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pBjtc1KOkaIUTue4Lu3yx2Cg1ah.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/xb5zyHecWA7UACdiNPXDA3m5HSY.jpg</fanart>
+	<date/>
+	<genre>Action, Thriller, Science Fiction</genre>
+	<info>"As Crônicas de Riddick" é uma série de filmes de ficção científica que segue as aventuras do anti-herói Richard B. Riddick.</info>
+	<items>
+		<item>
+			<title>Eclipse Mortal</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2126a5d315a4b99b4961139c7a08ffe33fc6453d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg</thumbnail>
+			<genre>Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>A batalha de Riddick</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c2afbcaa2a87eee3392a12f9e5cf4fcf1f6b70ee</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/pfKnyehXOdFFKO1akcW7kdEKz82.jpg</thumbnail>
+			<genre>Action, Thriller, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Riddick 3</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f08b6dc04cb139d8022b6b9fc0303341eb4aeddd</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/9h98BBwBmjFXV2RvBoihe84CbzE.jpg</thumbnail>
+			<genre>Action, Thriller, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
     <channel>
 	<name>O Escorpião Rei: Coleção</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CoJjjzEdSNfrQCjl2CtAHKvbP9.jpg</thumbnail>
