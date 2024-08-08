@@ -3,11 +3,11 @@
 
 
      <channel>
-	<name>[COLOR yellow]•[/COLOR]Top 100 [COLOR gray](Breve)[/COLOR]</name>
+	<name>[COLOR yellow]•[/COLOR]Populares [COLOR gray](Breve)[/COLOR]</name>
 		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
 		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
 		<info>Aba destinada a filmes</info>
-		<externallink>https://</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/populares/Tmdb</externallink>
 	</channel>
 	<channel>
 		<name>[COLOR green]•[/COLOR]Coleçoes</name>
