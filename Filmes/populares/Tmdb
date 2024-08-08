@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-    <SetViewMode>502</SetViewMode>
+     <SetViewMode>502</SetViewMode>
 <channel>
 	<name>TMDB - 100 Popolares</name>
 	<thumbnail>https://cdn6.aptoide.com/imgs/8/0/a/80aa2d002dac71c2c8cc2708450a6460_icon.png</thumbnail>
