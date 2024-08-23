@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-    <SetViewMode>502</SetViewMode>
+    <SetViewMode>54</SetViewMode>
+
 <channel>
-	<name>TMDB - 100 Popolares</name>
+	<name>TMDB - Popolares</name>
 	<thumbnail>https://cdn6.aptoide.com/imgs/8/0/a/80aa2d002dac71c2c8cc2708450a6460_icon.png</thumbnail>
-	<info>Populares TMDb</info>
+	<fanart></fanart>
+	<info></info>
 	<items>
 	    <item>
 			<title>Meu Malvado Favorito 4 (2024)</title>
-			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=e46728bad83e4c21b2b1e535e21dd388e8d31cb3</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d3ea5871d6cbac6cbcd0d45d72448273e4284088</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wISieKsABnOKgNlbNLuuMmIrhem.jpg</thumbnail>
 			<fanart>https://image.tmdb.org/t/p/original/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg</fanart>
 			<genre>Animação, Família, Comédia, Ação</genre>
@@ -49,6 +51,30 @@
 			<fanart>https://image.tmdb.org/t/p/original/q8IEFmEGGSGmAWfwRs23XDwdFN4.jpg</fanart>
 			<genre>Ação, Aventura, Ficção científica</genre>
 			<info>Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.</info>
+		</item>
+		<item>
+			<title>Divertida Mente 2 (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7b3e430350a5c0eebd08de78b8d5592639feb444</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg</fanart>
+			<genre>Animação, Família, Aventura, Comédia</genre>
+			<info>"Divertida Mente 2", da Disney e da Pixar, retorna à mente da adolescente Riley, e o faz no momento em que a sala de comando está passando por uma demolição repentina para dar lugar a algo totalmente inesperado: novas emoções! Alegria, Tristeza, Raiva, Medo e Nojinho não sabem bem como reagir quando Ansiedade aparece, e tudo indica que ela não está sozinha.</info>
+		</item>
+		<item>
+			<title>Twisters (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=75008c130913b1d9c7d801e507c664c7dd587eeb</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/A7MEYn25BeGGrleczbCLNaNb9D1.jpg</fanart>
+			<genre>Ação, Aventura, Drama, Thriller</genre>
+			<info>Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico.</info>
+		</item>
+		<item>
+			<title>Entrevista com o Demônio (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d11337d9c34716fae0d3ab6442e127fb450451f0</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gGyCpd8m1XITpw69gh9GgjhES6o.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/4yrOyO3N55XazHQXXYoqiiPQd40.jpg</fanart>
+			<genre>Terror</genre>
+			<info>Uma transmissão televisiva ao vivo em 1977 dá terrivelmente errado, liberando o mal em todos os lares do país.</info>
 		</item>
 		<item>
 			<title>Guerra Sem Regras (2024)</title>
@@ -376,6 +402,154 @@
 			<fanart>https://image.tmdb.org/t/p/original/wXx72bbhhnfORmlSNMWR28fPd8b.jpg</fanart>
 			<genre>Fantasia, Mistério, Thriller, Terror</genre>
 			<info>Mina, uma artista de 28 anos, se perde em uma imensa e assustadora floresta natural no oeste da Irlanda. Quando Mina finalmente encontra abrigo, ela acaba presa ao lado de três estranhos que são vigiados e perseguidos por criaturas misteriosas todas as noites.</info>
+		</item>
+		<item>
+			<title>Colateral (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=37085ab8433625d247aac06b62a61c92e6f2ecce</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/zPbtbmViCS1AW1m9jdCLM2U404u.jpg</fanart>
+			<genre></genre>
+			<info>Russell Hatch é um ex-agente da Interpol que prometeu proteger o filho de um informante morto anos antes em uma operação que deu errado. Quando gangues de rua impiedosas iniciam uma guerra territorial e o garoto é pego no fogo cruzado, Hatch não vai parar até mantê-lo seguro e lutar contra qualquer um que estiver em seu caminho.</info>
+		</item>
+		<item>
+			<title>Alien: O Oitavo Passageiro (1979)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=dee0296d2aea4847fbd6db44a1712efcd101d7bb</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6f8iChug1FYFu0vLFYLO1YpO1Dz.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg</fanart>
+			<genre>Terror, Ficção científica</genre>
+			<info>Quando a tripulação da sonda espacial Nostromo responde a um pedido de socorro vindo de um planeta inóspito, eles descobrem uma forma de vida mortal que se reproduz dentro de humanos. Agora, a tripulação deve lutar para permanecer viva e impedir que a criatura chegue até a Terra.</info>
+		</item>
+		<item>
+			<title>O Poderoso Chefão (1972)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7f0d311cc3be3c19f9566fc49662e59ba302614a</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg</fanart>
+			<genre>Drama, Crime</genre>
+			<info>Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.</info>
+		</item>
+		<item>
+			<title>A Menina do Mar (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f89c42549ac0245b28c2d2dfaecab260597508f9</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rk5Nogq4AprCwVPyyfKxmWyZV7y.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/7QBtfV7e24sNFQ47g8xh9iU5D4J.jpg</fanart>
+			<genre>Thriller, Mistério, Fantasia</genre>
+			<info>Depois que o prefeito de um idílico vilarejo insular descobre uma criança com poderes misteriosos em sua costa, a comunidade, antes pacífica, entra em guerra civil, dividida pela crença de que a criança é o próximo salvador.</info>
+		</item>
+		<item>
+			<title>Imaculada (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=88b486bde46b3a601c751ba5629e679ffef954ed</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tsV19P8J4NMP54cC8QCg1IkLLks.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/5Eip60UDiPLASyKjmHPMruggTc4.jpg</fanart>
+			<genre>Terror, Mistério, Thriller</genre>
+			<info>Cecilia, uma jovem religiosa, se torna freira em um convento isolado na região rural italiana. Após uma gravidez misteriosa, Cecilia é atormentada por forças perversas, enquanto confronta segredos sombrios e horrores do convento.</info>
+		</item>
+		<item>
+			<title>John Wick 4: Baba Yaga (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=655e12bc64229f2345be2258a8080142ba460d68</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/7I6VUdPj6tQECNHdviJkUHD2u89.jpg</fanart>
+			<genre>Ação, Thriller, Crime</genre>
+			<info>Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.</info>
+		</item>
+		<item>
+			<title>Isca (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6086846f3430a9997ef0322d79610e01d48c5f1c</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lpDbjUc6RawYC4UJj1YAn9OW802.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/1KJtjg3MQFnrfd7NXfs11z4HLwD.jpg</fanart>
+			<genre>Thriller, Terror</genre>
+			<info>Acompanha um grupo de cinco amigas que precisam lutar por suas vidas em águas abertas depois que um casamento dos sonhos se transforma em um pesadelo.</info>
+		</item>
+		<item>
+			<title>Missão Cruzada (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f361799a6a327b353708da279b5f6657ed38f03b</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJee3ZpITDSS1EB0HfLM5SSHWr7.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/w4Os3vltEwV4P3cePsmwUqQs65k.jpg</fanart>
+			<genre>Ação, Comédia, Aventura</genre>
+			<info>Um ex-agente que agora é dono de casa se envolve em uma missão perigosa com a esposa, que é detetive e não sabe nada sobre o passado dele.</info>
+		</item>
+		<item>
+			<title>Como Vender a Lua (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=546b621db8f47b5955e16813ab3c1e15a4323e9a</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Hw7uOjq7zHEixF0JBJw8E3XB4e.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/zB0g0VaRKHfRrvBT4ouHK5W967W.jpg</fanart>
+			<genre>Romance, Comédia</genre>
+			<info>Contratada para trabalhar a imagem da NASA com o público, a marketeira Kelly Jones precisa chegar a um acordo em como trabalhar com o diretor de lançamento, Cole Davis, que já tem muito em jogo com a missão. Quando a Casa Branca considera que a missão é importante demais para falhar, Jones precisa encenar um pouso falso na lua como back-up.</info>
+		</item>
+		<item>
+			<title>Alien: Covenant (2017)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8e158b203a81052a838907fcb958eb37c53763c7</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNJqsL3ekBPUXsSDu6oABGZkJMM.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/2qluV8y79LnBBHaMpwewCjQ1Htk.jpg</fanart>
+			<genre>Ficção científica, Terror, Thriller</genre>
+			<info>Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David como habitante solitário.</info>
+		</item>
+		<item>
+			<title>Homem-Aranha: Sem Volta Para Casa (2021)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=afa26f6a979036145055809dd016f25f1c5571a4</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg</fanart>
+			<genre>Ação, Aventura, Ficção científica</genre>
+			<info>Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...</info>
+		</item>
+		<item>
+			<title>Não Posso Viver Sem Você (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=59c61161a9409b5a7c0b18c6d86e82982cb5b7e7</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6GwVxZRiKS2TPCnfp0RoA1iXr9P.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/7TIlqWG3vuHU2nQt0ubhCEmaVpp.jpg</fanart>
+			<genre>Comédia, Romance</genre>
+			<info>Um homem viciado em trabalho acaba estragando um evento de família e a esposa dá um ultimato: ou ele fica com o celular, ou fica com o casamento de vinte anos.</info>
+		</item>
+		<item>
+			<title>Super Mario Bros. O Filme (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=a6fe68f1677f25d39af1c051024e83124a78eded</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg</fanart>
+			<genre>Animação, Família, Aventura, Fantasia, Comédia</genre>
+			<info>Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.</info>
+		</item>
+		<item>
+			<title>Uma Ideia de Você (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=982b371b28aa6d863eb2b97a7709178852c1f444</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg</fanart>
+			<genre>Romance, Drama, Comédia</genre>
+			<info>Solène, leva a filha, para assistir ao show de seu grupo favorito, August Moon. Lá, Solène se relaciona com um dos membros do grupo. Hayes Campbell é inteligente, atraente e confiante. A atração é imediata. O problema? É porque ele é vinte anos mais novo que Solène.</info>
+		</item>
+		<item>
+			<title>Velozes & Furiosos 10 (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fd493c5d64ece7cf27bc4b109e390887625b32a1</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg</fanart>
+			<genre>Ação, Crime, Thriller</genre>
+			<info>O fim da estrada está chegando. Velozes & Furiosos 10, é o décimo filme da franquia Velozes & Furiosos, lança os capítulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira década e ainda mais forte. Com o mesmo elenco e personagens principais de quando começou. Ao longo de muitas missões e lutando contra todos os obstáculos impossíveis, Dom Toretto (Vin Diesel) e sua família foram mais espertos, mais furiosos e mais rápidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma ameaça terrível das sombras do passado, alimentada por sede de vingança e determinada a destruir esta família.</info>
+		</item>
+		<item>
+			<title>Desespero Profundo (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6588dc4ac173e3d464770070590d3fdd41a6a076</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ktxq0LYgl41I2DUn49TYIaS9dZR.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/4woSOUD0equAYzvwhWBHIJDCM88.jpg</fanart>
+			<genre>Thriller, Terror, Ação</genre>
+			<info>Um grupo de desconhecidos acabam no meio do Oceano Pacífico depois de um acidente aéreo. Presos em uma bolsa de ar, eles devem trabalhar juntos para enfrentar os perigos que os cercam antes que o oxigênio acabe.</info>
+		</item>
+		<item>
+			<title>Godzilla Minus One (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6180870ff4e7dff043e18b95d6836617b69a8beb</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg</fanart>
+			<genre>Ficção científica, Terror, Ação</genre>
+			<info>O Japão do pós-guerra está no seu ponto mais baixo quando surge uma nova crise sob a forma de um monstro gigante, batizado com o terrível poder da bomba atómica.</info>
+		</item>
+		<item>
+			<title>Wonka (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=1735e103802ef0d0598ac01fe83fbbe1f3aa0ec5</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uQWEomz2wLoijrvoFaJt2gUMXRu.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/yyFc8Iclt2jxPmLztbP617xXllT.jpg</fanart>
+			<genre>Comédia, Família, Fantasia</genre>
+			
+			<info>
+[COLOR yellow]Elenco Principal[/COLOR]: [I]Timothée Chalamet (Willy Wonka), Calah Lane (Noodle),Keegan-Michael Key (Chief of Police).[/I]
+			
+Antes de se tornar a mente brilhante por trás da maior fábrica de chocolate do mundo, Willy precisou enfrentar vários obstáculos. Cheio de ideias e determinado a mudar o mundo, o jovem Wonka embarca em uma aventura para espalhar alegria através de seu delecioso chocolate.</info>
 		</item>
      </items>
      </channel>
