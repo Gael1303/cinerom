@@ -2,10 +2,10 @@
 <channels>
 	<SetViewMode>54</SetViewMode>
 	<channel>
-		<name>TMDB - Popolares</name>
+		<name>TMDB: Popolares</name>
 		<thumbnail>https://cdn6.aptoide.com/imgs/8/0/a/80aa2d002dac71c2c8cc2708450a6460_icon.png</thumbnail>
-		<fanart/>
-		<info/>
+		<fanart>https://nkpremices.com/content/images/2021/08/mih10uhu1464fx1kr0by-1.jpg</fanart>
+		<info>Filmes populares TMDB</info>
 		<items>
 			<item>
 				<title>Meu Malvado Favorito 4 (2024)</title>
@@ -25,27 +25,27 @@
 				<info>Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami.</info>
 			</item>
 		</items>
-                </channel>
-		<channel>
-			<name>IMDb - Top 100</name>
-			<thumbnail>https://cdn6.aptoide.com/imgs/8/0/a/80aa2d002dac71c2c8cc2708450a6460_icon.png</thumbnail>
-			<fanart/>
-			<info/>
-			<items>
-				<item>
-					<title>Um Sonho de Liberdade (1994)</title>
-					<thumbnail>https://image.tmdb.org/t/p/w342/4BSuFpQ2gd2WtO5ZK1fMjaMPMRc.jpg</thumbnail>
-					<info> Em 1946, Andy Dufresne, um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicidio de sua esposa e do amante dela. Ele e mandado para uma prisao que e o pesadelo de qualquer detento, a Penitenciaria Estadual de Shawshank, no Maine. La ele ira cumprir a pena perpetua. Andy logo sera apresentado a Warden Norton, o corrupto e cruel agente penitenciario, que usa a Biblia como arma de controle e ao Capitao Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena ha 20 anos e controla o mercado negro da instituiçao.</info>
-					<link>plugin://plugin.video.jacktorr/play_magnet?magnet=65c6c884bfae3ddc56b04e3f2b29dd4571e0be4c</link>
-					<genre>Drama, Crime</genre>
-				</item>
-				<item>
-					<title>O Poderoso Chefão (1972)</title>
-					<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c34911e5ca4518978719cfef123e204ec7905edd</link>
-					<thumbnail>https://image.tmdb.org/t/p/w342/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg</thumbnail>
-					<genre>Drama, Crime</genre>
-					<info>Em 1945, Don Corleone (Marlon Brando) é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael (Al Pacino), um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.</info>
-				</item>
-			</items>
-		</channel>
-	</channels>
+	</channel>
+	<channel>
+		<name>IMDb: Top 100</name>
+		<thumbnail>https://cdn6.aptoide.com/imgs/8/0/a/80aa2d002dac71c2c8cc2708450a6460_icon.png</thumbnail>
+		<fanart>https://www.filmdaily.tv/sites/default/files/styles/social/public/film/film-marketing/how-add-your-imdb-listing.png?itok=oUBC1vkj</fanart>
+		<info>Top 100 filmes no IMDb</info>
+		<items>
+			<item>
+				<title>Um Sonho de Liberdade (1994)</title>
+				<thumbnail>https://image.tmdb.org/t/p/w342/4BSuFpQ2gd2WtO5ZK1fMjaMPMRc.jpg</thumbnail>
+				<info> Em 1946, Andy Dufresne, um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicidio de sua esposa e do amante dela. Ele e mandado para uma prisao que e o pesadelo de qualquer detento, a Penitenciaria Estadual de Shawshank, no Maine. La ele ira cumprir a pena perpetua. Andy logo sera apresentado a Warden Norton, o corrupto e cruel agente penitenciario, que usa a Biblia como arma de controle e ao Capitao Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena ha 20 anos e controla o mercado negro da instituiçao.</info>
+				<link>plugin://plugin.video.jacktorr/play_magnet?magnet=65c6c884bfae3ddc56b04e3f2b29dd4571e0be4c</link>
+				<genre>Drama, Crime</genre>
+			</item>
+			<item>
+				<title>O Poderoso Chefão (1972)</title>
+				<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c34911e5ca4518978719cfef123e204ec7905edd</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg</thumbnail>
+				<genre>Drama, Crime</genre>
+				<info>Em 1945, Don Corleone (Marlon Brando) é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael (Al Pacino), um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.</info>
+			</item>
+		</items>
+	</channel>
+</channels>
