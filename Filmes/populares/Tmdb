@@ -4,10 +4,10 @@
     
  <SetViewMode>54</SetViewMode>
 <channel>
-	<name>TMDB - Populares</name>
+	<name>TMDB</name>
 	<thumbnail>https://cdn6.aptoide.com/imgs/8/0/a/80aa2d002dac71c2c8cc2708450a6460_icon.png</thumbnail>
 	<fanart>https://</fanart>
-	</info>
+	<info/>
 	<items>
 	    <item>
 			<title>Meu Malvado Favorito 4 (2024)</title>
