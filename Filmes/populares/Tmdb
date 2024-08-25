@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
- <channels>
-    
- <SetViewMode>54</SetViewMode>
+<channels>
+    <SetViewMode>54</SetViewMode>
+
 <channel>
-	<name>TMDB</name>
+	<name>TMDB - Popolares</name>
 	<thumbnail>https://cdn6.aptoide.com/imgs/8/0/a/80aa2d002dac71c2c8cc2708450a6460_icon.png</thumbnail>
-	<fanart/>
-	<info/>
+	<fanart></fanart>
+	<info></info>
 	<items>
 	    <item>
 			<title>Meu Malvado Favorito 4 (2024)</title>
@@ -545,8 +545,12 @@
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uQWEomz2wLoijrvoFaJt2gUMXRu.jpg</thumbnail>
 			<fanart>https://image.tmdb.org/t/p/original/yyFc8Iclt2jxPmLztbP617xXllT.jpg</fanart>
 			<genre>Comédia, Família, Fantasia</genre>
-			<info>[COLOR yellow]Elenco Principal[/COLOR]: [I]Timothée Chalamet (Willy Wonka), Calah Lane (Noodle),Keegan-Michael Key (Chief of Police).[/I]</info>
+			<info>[COLOR yellow]Elenco Principal[/COLOR]: [I]Timothée Chalamet (Willy Wonka), Calah Lane (Noodle),Keegan-Michael Key (Chief of Police).[/I]    Antes de se tornar a mente brilhante por trás da maior fábrica de chocolate do mundo, Willy precisou enfrentar vários obstáculos. Cheio de ideias e determinado a mudar o mundo, o jovem Wonka embarca em uma aventura para espalhar alegria através de seu delecioso chocolate.</info>
 		</item>
-  </items>
-     </channel>
-  </channels>
+		
+		</items>
+</channel>
+
+
+
+</channels>
