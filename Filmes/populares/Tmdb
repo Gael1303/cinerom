@@ -2,7 +2,7 @@
 <channels>
 	<SetViewMode>54</SetViewMode>
 	<channel>
-		<name>TMDB: Popolares</name>
+		<name>TMDB - Popolares</name>
 		<thumbnail>https://cdn6.aptoide.com/imgs/8/0/a/80aa2d002dac71c2c8cc2708450a6460_icon.png</thumbnail>
 		<fanart>https://nkpremices.com/content/images/2021/08/mih10uhu1464fx1kr0by-1.jpg</fanart>
 		<info>Filmes populares TMDB</info>
@@ -539,10 +539,99 @@
 				<genre>Ficção científica, Terror, Ação</genre>
 				<info>O Japão do pós-guerra está no seu ponto mais baixo quando surge uma nova crise sob a forma de um monstro gigante, batizado com o terrível poder da bomba atómica.</info>
 			</item>
+                        <item>
+			<title>Wonka (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=1735e103802ef0d0598ac01fe83fbbe1f3aa0ec5</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uQWEomz2wLoijrvoFaJt2gUMXRu.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/yyFc8Iclt2jxPmLztbP617xXllT.jpg</fanart>
+			<genre>Comédia, Família, Fantasia</genre>
+			<actors>Timothée Chalamet (Willy Wonka), Calah Lane (Noodle),Keegan-Michael Key (Chief of Police)</actors>
+			<info>Antes de se tornar a mente brilhante por trás da maior fábrica de chocolate do mundo, Willy precisou enfrentar vários obstáculos. Cheio de ideias e determinado a mudar o mundo, o jovem Wonka embarca em uma aventura para espalhar alegria através de seu delecioso chocolate.</info>
+		</item>
+		<item>
+			<title>A Liga (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=3b806aa375b9630b8683471e8a2a410c4929b7da</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/epzHc7RNjgpj9e2IVH88g7cr7DG.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg</fanart>
+			<genre>Ação, Comédia</genre>
+			<info>Recrutado para uma missão inesperada, um cara comum que trabalha como empreiteiro vira espião.</info>
+		</item>
+		<item>
+			<title>Pisque Duas Vezes (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=a20293759d2633d1e9cc47b3d176e3805ab91395</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1BCZ1rOI41cGkae6RZgLVVmYczE.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/NqqLef2ITlK8olXT4iFuUXFwSh.jpg</fanart>
+			<genre>Mistério, Thriller</genre>
+			<info>Quando o bilionário de tecnologia Slater King conhece a garçonete Frida em sua gala de arrecadação de fundos, faíscas voam. Ele a convida para se juntar a ele e seus amigos nas férias dos sonhos em sua ilha particular. É o paraíso. Noites selvagens se misturam com dias ensolarados e todos estão se divertindo. Ninguém quer que esta viagem acabe, mas à medida que coisas estranhas começam a acontecer, Frida começa a questionar a sua realidade. Há algo errado com este lugar. Ela terá que descobrir a verdade se quiser sair viva desta festa.</info>
+		</item>
+		<item>
+			<title>Interestelar (2014)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=1b8302c5e59b36671858f9bf0a7049093e25a22f</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/xJHokMbljvjADYdit5fK5VQsXEG.jpg</fanart>
+			<genre>Aventura, Drama, Ficção científica</genre>
+			<info>As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.</info>
+		</item>
+		<item>
+			<title>Avatar: O Caminho da Água (2022)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=73884e1bec0a286dd080c8d4664d05c67f730cf3</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/8rpDcsfLJypbO6vREc0547VKqEv.jpg</fanart>
+			<genre>Ficção científica, Aventura, Ação</genre>
+			<info>12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.</info>
+		</item>
+		<item>
+			<title>Transformers: O Despertar das Feras Torrent (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=1fc9dd9fe03b4454ffd24ce099d54c420f441ba7</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg</fanart>
+			<genre>Ficção científica, Aventura, Ação</genre>
+			<info>Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) farão o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.</info>
+		</item>
+		<item>
+			<title>O Corvo (1994)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fafa167783fff4faded59a9fe1d9b3a240bf2e06</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ohPkFlIDvxQajr0eKyVCCAVVlj6.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/f1JmD60vV383EDKr86lqmPB4sOu.jpg</fanart>
+			<genre>Fantasia, Ação, Thriller</genre>
+			<info>O roqueiro Eric Draven está morto... Mas, estranhamente, ele ainda vive. Ele ainda não pode descansar em paz. Não enquanto os vermes responsáveis por sua morte e também pelo assassinato de sua noiva permanecerem vivos. Assim, Draven retorna de seu túmulo para submeter seus matadores à uma implacável vingança. E ele não está sozinho. Um amedrontador corvo do outro mundo guia Draven em sua jornada.</info>
+		</item>
+		<item>
+			<title>Matador de Aluguel (2024)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7a620a44b2613238faf03c0e4b23836520f23a78</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg</fanart>
+			<genre>Ação, Thriller</genre>
+			<info>Um ex-lutador do UFC consegue um emprego como segurança em um estabelecimento na Flórida Keys, apenas para descobrir que este paraíso não é tudo o que parece.</info>
+		</item>
+		<item>
+			<title>Gato de Botas 2: O Último Pedido (2022)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=a473ca64418feff64808ebe17474e785b3ebc416</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/atJxZfCaQ7kXRFSfbm8cqAKkns7.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg</fanart>
+			<genre>Animação, Aventura, Fantasia, Comédia, Família</genre>
+			<info>O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.</info>
+		</item>
+		<item>
+			<title>Viva: A Vida é uma Festa (2017)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=14cfaf49b61d333b0863e7e42acac7bdf6193638</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg</thumbnail>
+			<fanart>https://image.tmdb.org/t/p/original/askg3SMvhqEl4OL52YuvdtY40Yb.jpg</fanart>
+			<genre>Família, Animação, Música, Aventura</genre>
+			<info>O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.</info>
+		</item>
+		<item>
+			<title>Todos Menos Você (2023)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=40388db73469e41cb230f86cf982141501033842</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iKOEAPkb5EyCPmAgByYNeAoG5uc.jpg</thumbnail> 
+			<fanart>https://image.tmdb.org/t/p/original/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg</fanart>
+			<genre>Romance, Comédia</genre>
+			<info>Bea e Ben parecem o casal perfeito, mas depois de um primeiro encontro incrível, algo acontece que transforma sua atração ardente em gelo - até que eles se encontram inesperadamente juntos em um casamento na Austrália. Então eles fazem o que dois adultos maduros fariam: fingem ser um casal.</info>
+		</item>
 		</items>
 	</channel>
 	<channel>
-		<name>IMDb: Top 100</name>
+		<name>IMDb - Top 100</name>
 		<thumbnail>https://icons.iconarchive.com/icons/danleech/simple/512/imdb-icon.png</thumbnail>
 		<fanart>https://www.filmdaily.tv/sites/default/files/styles/social/public/film/film-marketing/how-add-your-imdb-listing.png?itok=oUBC1vkj</fanart>
 		<info>Top 100 filmes no IMDb</info>
