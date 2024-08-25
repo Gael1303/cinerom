@@ -24,13 +24,6 @@
 		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/4K</externallink>
 	</channel>
 	<channel>
-		<name>[COLOR green]•[/COLOR]Top 100 IMDb</name>
-		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
-		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
-		<info>Aba destinada a filmes</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/cinerom/main/Filmes/Top-100</externallink>
-	</channel>
-	<channel>
 		<name>[COLOR green]•[/COLOR]Todos os Filmes [COLOR gray](Breve)[/COLOR]</name>
 		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
 		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
