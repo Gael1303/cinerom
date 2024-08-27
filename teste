@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "type": "item",
+            "title": "Limpar Cache",
+            "link": "clear_cache",
+            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/cc.jpg"
+        },
+        {
+            "type": "dir",
+            "name": "Tools",
+            "link": "http://www.ezzer-mac.com/mjtest/tools/tools.json",
+            "animated_thumbnail": "",
+            "thumbnail": "http://ezzer-mac.com/mjtest/art/tools.jpg",
+            "animated_fanart": "",
+            "fanart": ""
+        },
+        {
+            "type": "dir",
+            "name": "Sessao de Filmes",
+            "link": "http://www.ezzer-mac.com/mjtest/movies/moviecat1.json",
+            "summary": "Movies Section",
+            "thumbnail": "http://ezzer-mac.com/mjtest/art/moviesec.jpg",
+            "animated_fanart": "",
+            "fanart": ""
+        },
+        {
+            "type": "dir",
+            "name": "Sessao de Series",
+            "link": "http://ezzer-mac.com/mjtest/tv/tvsection.json",
+            "animated_thumbnail": "",
+            "thumbnail": "http://ezzer-mac.com/mjtest/art/tvsec.jpg",
+            "animated_fanart": "",
+            "fanart": ""
+        }
+    ]
+}
