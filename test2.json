@@ -1,26 +1,6 @@
 {
     "items": [
         {
-            "link": "file://basics.json",
-            "title": "Various Methods",
-            "type": "dir"
-        },
-        {
-            "link": "file://formats/main.xml",
-            "title": "Formats",
-            "type": "dir"
-        },
-        {
-            "link": "file://shared lists/main.xml",
-            "title": "Shared Lists",
-            "type": "dir"
-        },
-        {
-            "link": "file://formats/main.json",
-            "title": "Json example",
-            "type": "dir"
-        },
-        {
             "link": "youtube/J1wVVPZ2DGI",
             "title": "Dabs k19 help Create Custom RSS feed for kodi 19",
             "type": "item"
