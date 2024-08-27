@@ -18,7 +18,7 @@
         {
             "type": "dir",
             "name": "Sessao de Filmes",
-            "link": "http://www.ezzer-mac.com/mjtest/movies/moviecat1.json",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.json",
             "summary": "Movies Section",
             "thumbnail": "http://ezzer-mac.com/mjtest/art/moviesec.jpg",
             "animated_fanart": "",
