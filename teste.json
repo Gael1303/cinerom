@@ -1,20 +1,5 @@
 {
-    "items": [
-        {
-            "type": "item",
-            "title": "Limpar Cache",
-            "link": "clear_cache",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/cc.jpg"
-        },
-        {
-            "type": "dir",
-            "name": "Tools",
-            "link": "http://www.ezzer-mac.com/mjtest/tools/tools.json",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/tools.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
+    "items": 
         {
             "type": "dir",
             "name": "Sessao de Filmes",
