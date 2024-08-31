@@ -2,12 +2,12 @@
     "items": [
         {
            "type": "dir",
-            "name": "Sessao de Filmes",
+            "name": "Populares",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml",
             "summary": "Movies Section",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/moviesec.jpg",
+            "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "animated_fanart": "",
-            "fanart": ""
+            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
         },
         {
             "type": "dir",
