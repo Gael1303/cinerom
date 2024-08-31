@@ -11,18 +11,18 @@
         {
             "type": "dir",
             "name": "Filmes em 4K",
-            "link": "",
+            "link": "https://ignore",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
-			"summary": "Filmes em 4K HDR",
+	    "summary": "Filmes em 4K HDR",
         },
-		{
+	{
             "type": "dir",
             "name": "Coleçoes",
-            "link": "",
+            "link": "https://ignore",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
-			"summary": "Filmes em 4K HDR",
+	    "summary": "Filmes em 4K HDR",
         }
     ]
 }
