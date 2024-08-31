@@ -2,21 +2,27 @@
     "items": [
         {
             "type": "dir",
-            "name": "Sessao de Filmes",
-            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.json",
-            "summary": "Movies Section",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/moviesec.jpg",
-            "animated_fanart": "",
-            "fanart": ""
+            "name": "Populares",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml",
+            "summary": "IMDb Sessao",
+            "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
+            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
         },
         {
             "type": "dir",
-            "name": "Sessao de Series",
-            "link": "http://ezzer-mac.com/mjtest/tv/tvsection.json",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/tvsec.jpg",
-            "animated_fanart": "",
-            "fanart": ""
+            "name": "Filmes em 4K",
+            "link": "",
+            "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
+            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
+			"summary": "Filmes em 4K HDR",
+        },
+		{
+            "type": "dir",
+            "name": "Coleçoes",
+            "link": "",
+            "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
+            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
+			"summary": "Filmes em 4K HDR",
         }
     ]
 }
