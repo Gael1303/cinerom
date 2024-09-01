@@ -1,11 +1,10 @@
 {
     "items": [
-        
          {
-           "type": "dir",
-            "name": "Recem-Lançados",
-            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml",
-            "summary": "Movies Section",
+            "type": "dir",
+            "name": "Tmdb Filmes",
+            "link": "file://scraper_list.json",
+            "animated_thumbnail": "",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "animated_fanart": "",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
@@ -13,20 +12,20 @@
         {
            "type": "dir",
             "name": "Generos",
-            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml",
+            "link": "file://scraper_list3.json",
             "summary": "Movies Section",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "animated_fanart": "",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
         },
-        {
-            "type": "dir",
-            "name": "TMDb Filmes",
-            "link": "file://scraper_list.json",
-            "animated_thumbnail": "",
+         {
+           "type": "dir",
+            "name": "Coleçoes",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml",
+            "summary": "Movies Section",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "animated_fanart": "",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
-        }
+        }  
     ]
 }
