@@ -22,7 +22,7 @@
         {
             "type": "dir",
             "name": "TMDb Filmes",
-            "link": "file://scraper_list.json"",
+            "link": "file://scraper_list.json",
             "animated_thumbnail": "",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "animated_fanart": "",
