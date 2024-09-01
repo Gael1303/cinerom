@@ -10,7 +10,7 @@
             ],
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg",
 			"fanart": "https://image.tmdb.org/t/p/original/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
-            "type": "movie",
+            "type": "item",
             "year": "2024",
 			"genre": "Ação, Crime, Thriller, Comédia"
         },
@@ -22,7 +22,7 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pN9BtzUeqPIKybAu9baihz6YzyO.jpg",
 			"fanart": "https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
 			"summary": "Este filme nos leva de volta ao ponto onde tudo começou, acompanhando uma nova personagem, interpretada por Lupita Nyong’o, enquanto navega pelos horríveis primeiros momentos na cidade mais barulhenta do mundo: Nova York.",
-            "type": "movie",
+            "type": "item",
             "year": "2021"
         }
 	]
