@@ -1,8 +1,18 @@
 {
     "items": [
+        
+         {
+           "type": "dir",
+            "name": "Recem-Lançados",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml",
+            "summary": "Movies Section",
+            "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
+            "animated_fanart": "",
+            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
+        },
         {
            "type": "dir",
-            "name": "Populares",
+            "name": "Generos",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml",
             "summary": "Movies Section",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
