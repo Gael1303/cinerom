@@ -1,12 +1,16 @@
-<item>
-  <title>Meu Malvado Favorito 4</title>
-  <meta>
-  <imdb>tt1323594</imdb>
-  <year>2024</year>
-  </meta>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088</link>
-  <genre>Animação, Família, Comédia, Ação</genre>
-  <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wISieKsABnOKgNlbNLuuMmIrhem.jpg</thumbnail>
-  <summary>Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.</summary>
-  <fanart>https://image.tmdb.org/t/p/original/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg</fanart>
-</item>
+{  
+    "items": [
+          {
+            "content": "movie",
+			"title": "Zona de Risco",
+            "imdb_id": "tt19864802",
+            "link": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=T2cZyLVzlkSjAFHoo1PLLIOUy6shyvg5HlHes63sAwtaH%2FD%2BDHriLzhl5NOL40X1&expiry=bOf5%2FbiDTreofikkABicWQ%3D%3D&mac=a19653a705c7cf42dc5e25be19b0111e16eb9fbd23d2de5370eef6b5ecc7b796",
+            "thumbnail": "https://image.tmdb.org/t/p/original/qLqI0lA5WFIpItLCQNqPJYM3W6p.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+			"info": "Uma equipe da Força Delta é emboscada em território inimigo. Sem querer abandoná-los, a única esperança de um oficial é um piloto de drone da Força Aérea que pode ser seus olhos durante uma batalha brutal de 48 horas.",
+			"genre": "Ação, Guerra, Thriller",
+            "type": "movie",
+            "year": "2023"
+        }
+	]
+}
