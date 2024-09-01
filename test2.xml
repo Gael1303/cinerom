@@ -1,29 +1,28 @@
 {
     "items": [
         {
-            "content": "movie",
-			"title": "Bad Boys: Até o Fim",
-            "tvdb": "573435",
-            "link": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46(Bad Boys: Até o Fim - 1080 FHD)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fed8c077b33eab27f4d328511995a4823829df25(Bad Boys: Até o Fim - 1080 HD)"
-            ],
-            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg",
-			"fanart": "https://image.tmdb.org/t/p/original/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
-            "type": "item",
-            "year": "2024",
-			"genre": "Ação, Crime, Thriller, Comédia"
+        "content": "movie",
+	"title": "Bad Boys: Até o Fim",
+        "tvdb": "573435",
+        "link": [
+        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46(Bad Boys: Até o Fim - 1080 FHD)",
+         "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fed8c077b33eab27f4d328511995a4823829df25(Bad Boys: Até o Fim - 1080 HD)"
+         ],
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg",
+	"fanart": "https://image.tmdb.org/t/p/original/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+         "type": "movie",
+         "year": "2024",
+         "genre": "Ação, Crime, Thriller, Comédia"
         },
 		{
-            "content": "movie",
-			"title": "Um Lugar Silencioso: Dia Um",
+            "type": "movie",
+	    "title": "Um Lugar Silencioso: Dia Um",
             "imdb": "tt13433802",
             "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f474e968c10fda02fff5e1fd31ab94c16e9409b",
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pN9BtzUeqPIKybAu9baihz6YzyO.jpg",
-			"fanart": "https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
-			"summary": "Este filme nos leva de volta ao ponto onde tudo começou, acompanhando uma nova personagem, interpretada por Lupita Nyong’o, enquanto navega pelos horríveis primeiros momentos na cidade mais barulhenta do mundo: Nova York.",
-            "type": "item",
+	    "fanart": "https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
+	     "summary": "Este filme nos leva de volta ao ponto onde tudo começou, acompanhando uma nova personagem, interpretada por Lupita Nyong’o, enquanto navega pelos horríveis primeiros momentos na cidade mais barulhenta do mundo: Nova York.",
             "year": "2021"
         }
-	]
+    ]
 }
