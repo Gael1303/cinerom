@@ -7,6 +7,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
 			"genre": "Animação, Família, Comédia, Ação",
 			"info": "Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.",
+		    "type": "item"
 		},
 		{     "content": "movie",
 			"title": "Bad Boys: Até o Fim (2024)",
@@ -16,6 +17,7 @@
 			"genre": "Ação, Crime, Thriller, Comédia",
 			"runtime": "7200",
 			"info": "Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Um Lugar Silencioso: Dia Um (2024)",
@@ -23,8 +25,9 @@
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pN9BtzUeqPIKybAu9baihz6YzyO.jpg",
 			"fanart": "https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
 			"genre": "Terror, Ficção científica, Thriller",
-			"runtime": "7200",
+			"runtime": "120",
 			"info": "Este filme nos leva de volta ao ponto onde tudo começou, acompanhando uma nova personagem, interpretada por Lupita Nyong’o, enquanto navega pelos horríveis primeiros momentos na cidade mais barulhenta do mundo: Nova York.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Planeta dos Macacos: O Reinado (2024)",
@@ -34,6 +37,7 @@
 			"genre": "Ficção científica, Aventura, Ação",
 			"runtime": "7200",
 			"info": "Várias gerações no futuro, após o reinado de César, os macacos são agora a espécie dominante e vivem harmoniosamente, enquanto os humanos foram reduzidos a viver nas sombras. À medida que um novo líder símio tirânico constrói o seu império, um jovem macaco empreende uma jornada angustiante que o levará a questionar tudo o que sabia sobre o passado e a fazer escolhas que definirão um futuro tanto para os macacos como para os humanos.",
+		    "type": "item"
 		},
 		{     "content": "movie",
 			"title": "Furiosa: Uma Saga Mad Max (2024)",
@@ -41,7 +45,8 @@
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
 			"fanart": "https://image.tmdb.org/t/p/original/q8IEFmEGGSGmAWfwRs23XDwdFN4.jpg",
 			"genre": "Ação, Aventura, Ficção científica",
-			"info": "Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.",
+			"info": "Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa."
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Divertida Mente 2 (2024)",
@@ -50,6 +55,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
 			"genre": "Animação, Família, Aventura, Comédia",
 			"info": "Divertida Mente 2, da Disney e da Pixar, retorna à mente da adolescente Riley, e o faz no momento em que a sala de comando está passando por uma demolição repentina para dar lugar a algo totalmente inesperado: novas emoções! Alegria, Tristeza, Raiva, Medo e Nojinho não sabem bem como reagir quando Ansiedade aparece, e tudo indica que ela não está sozinha.",
+		    "type": "item"
 		},
 		{     "content": "movie",
 			"title": "Twisters (2024)",
@@ -58,6 +64,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/A7MEYn25BeGGrleczbCLNaNb9D1.jpg",
 			"genre": "Ação, Aventura, Drama, Thriller",
 			"info": "Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Entrevista com o Demônio (2024)",
@@ -66,6 +73,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/4yrOyO3N55XazHQXXYoqiiPQd40.jpg",
 			"genre": "Terror",
 			"info": "Uma transmissão televisiva ao vivo em 1977 dá terrivelmente errado, liberando o mal em todos os lares do país.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Guerra Sem Regras (2024)",
@@ -74,6 +82,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
 			"genre": "Ação, Comédia, Guerra",
 			"info": "O Exército Britânico recruta um reduzido grupo de soldados altamente qualificados para lutar contra as forças alemãs durante a Segunda Guerra Mundial.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Aprendiz de Espiã: Na Cidade Eterna (2024)",
@@ -82,6 +91,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/iIvjwrDPQHCU4NjbbKpNs88uk6G.jpg",
 			"genre": "Ação, Comédia",
 			"info": "O agente veterano da CIA, JJ, e sua enteada Sophie, uma adolescente de 14 anos, unem forças mais uma vez para salvar o mundo. Desta vez, a missão surge quando uma viagem do coral de uma escola na Itália é abruptamente interrompida por uma conspiração nuclear voltada para o Vaticano.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Garfield: Fora de Casa",
@@ -90,6 +100,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
 			"genre": "Animação, Comédia, Família, Aventura",
 			"info": "Garfield, o mundialmente famoso gato de interior que odeia segundas-feiras e adora lasanha, está prestes a ter uma aventura selvagem ao ar livre! Depois de um reencontro inesperado com seu pai há muito perdido – o desalinhado gato de rua Vic – Garfield e seu amigo canino Odie são forçados a deixar sua vida perfeitamente mimada para se juntarem a Vic em um assalto hilariante e de alto risco.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Guerra Civil (2024)",
@@ -98,6 +109,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
 			"genre": "Guerra, Ação, Drama",
 			"info": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "O Dublê (2024)",
@@ -106,6 +118,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
 			"genre": "Ação, Comédia",
 			"info": "Colt é um dublê que tem uma tremenda queda pela diretora do filme que está filmando. As coisas começam a dar errado quando o ator principal do filme desaparece.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Deadpool (2016)",
@@ -113,6 +126,7 @@
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg", "fanart": "https://image.tmdb.org/t/p/original/k2VX0gFu2BEJhvduQTq2ioYp8z7.jpg",
 			"genre": "Ação, Aventura, Comédia",
 			"info": "Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.",
+			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "A Jovem e o Mar (2024)",
@@ -120,7 +134,8 @@
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eVsqBLFozSKIBWYjmQRip4AyEL2.jpg", "fanart": "https://image.tmdb.org/t/p/original/6HpRZeA0JdY5fRgl89KKExsvvwR.jpg",
 			"genre": "História, Drama",
 			"info": "Esta é a extraordinária história real de Trudy Ederle, a primeira mulher a atravessar com sucesso o Canal da Mancha. Através do apoio inabalável de sua irmã mais velha e de seus treinadores, ela superou adversidades e a hostilidade de uma sociedade patriarcal para ascender na equipe olímpica de natação e concluir a jornada de 34 quilômetros da França até a Inglaterra.",
-		},
+	        "type": "item"	
+	    },
 		{     "content": "movie",
 			"title": "Duna: Parte 2 (2024)",
 			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1",
@@ -128,6 +143,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
 			"genre": "Ficção científica, Aventura",
 			"info": "A jornada de Paul Atreides continua. Ele está determinado a buscar vingança contra aqueles que destruíram sua família e seu lar. Com a ajuda de Chani e dos Fremen, ele embarca em uma jornada espiritual, mística e marcial. Se torna Muad'Dib, o líder messiânico dos Fremen, enquanto luta para evitar um futuro sombrio que ele testemunhou em visões. No entanto, suas ações inadvertidamente desencadeiam uma Guerra Santa em seu nome, que se espalha pelo universo conhecido. Enquanto enfrenta escolhas difíceis entre o amor por Chani e o destino de seu povo, Paul precisa usar suas habilidades e conhecimentos para evitar o terrível futuro que previu.",
+		    "type": "item"
 		},
 		{     "content": "movie",
 			"title": "Clube dos Vândalos (2024)",
@@ -136,6 +152,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/kwGvFyRtGSSm8AFfnRNXoZTQmJj.jpg",
 			"genre": "Crime, Drama",
 			"info": "Kathy, um membro obstinado dos Vândalos, casada com um motociclista selvagem e imprudente chamado Benny, conta a evolução dos Vândalos ao longo de uma década, começando como um clube local unido por bons momentos, motas a roncar e respeito pelo seu forte e firme líder, Johnny. À medida que a vida nos Vandals se torna mais perigosa e o clube ameaça tornar-se num gangue mais sinistro, Kathy, Benny e Johnny são forçados a fazer escolhas sobre a sua lealdade.",
+		    "type": "item"
 		},
 		{     "content": "movie",
 			"title": "Um Tira da Pesada 4: Axel Foley (2024)",
@@ -144,6 +161,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
 			"genre": "Ação, Comédia, Crime",
 			"info": "Quarenta anos depois de seu primeiro caso em Beverly Hills, o policial Axel Foley está de volta para fazer aquilo que ele mais ama: resolver crimes. E causar, óbvio.",
+		    "type": "item"
 		},
 		{     "content": "movie",
 			"title": "Descendentes: A Ascensão de Copas (2024)",
@@ -152,6 +170,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/dn3gbDpXPSwC6saMJOHkCiFA9jn.jpg",
 			"genre": "Fantasia, Aventura, Família, Comédia",
 			"info": "Depois da Rainha de Copas incitar um golpe em Auradon, sua filha rebelde, Red, e a filha perfeccionista da Cinderela, Chloe, unem forças e voltam no tempo para tentar desfazer o evento traumático que levou a mãe de Red para o caminho da vilania.",
+		    "type": "item"
 		},
 		{     "content": "movie",
 			"title": "Godzilla e Kong: O Novo Império (2024)",
@@ -160,6 +179,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/veIyxxi5Gs8gvztLEW1Ysb8rrzs.jpg",
 			"genre": "Ficção científica, Ação, Aventura",
 			"info": "O poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que ameaça a existência de sua espécie e da nossa. Mergulhando profundamente nos mistérios da Ilha da Caveira e nas origens da Terra Oca, o filme irá explorar a antiga batalha de Titãs que ajudou a forjar esses seres extraordinários e os ligou à humanidade para sempre.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Três (2024)",
@@ -168,6 +188,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/dsGwCEO8tda4FlgHKvL95f0oQbH.jpg",
 			"genre": "Animação, Ficção científica, Ação",
 			"info": "Após se revelar como a derradeira ameaça à existência, o ANTIMONITOR lança um ataque implacável às Terras que ainda lutam pela sobrevivência em um universo de bolso. Um por um, esses mundos e todos os seus habitantes são vaporizados! Até o próprio tempo é destruído nos planetas restantes, e heróis do passado juntam-se à Liga da Justiça e a aliados inusitados na resistência contra o ser nefasto. Mas será que o sacrifício dos super-heróis nessa batalha final será o suficiente para salvar a humanidade?",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Armadilha em Alto Mar (2024)",
@@ -176,6 +197,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/y0XEqAqynGW4uVG8gkOnAf5vcYU.jpg",
 			"genre": "Thriller, Terror",
 			"info": "Após um acidente em alto mar, três jovens são resgatadas por um barco de pesca. Mas a ajuda se torna um pesadelo quando elas descobrem que o capitão esconde segredos macabros.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Rebel Moon - Parte 1: A Menina do Fogo (2024)",
@@ -184,6 +206,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/sRLC052ieEzkQs9dEtPMfFxYkej.jpg",
 			"genre": "Ficção científica, Drama, Ação",
 			"info": "Quando as forças implacáveis do Mundo-Mãe ameaçam um pacato vilarejo agrícola numa lua distante, uma misteriosa forasteira torna-se sua maior esperança de sobrevivência.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes (2024)",
@@ -192,6 +215,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg",
 			"genre": "Ficção científica, Ação",
 			"info": "Conforme os rebeldes se preparam para a batalha contra as forças implacáveis do Mundo-Mãe, laços são forjados, heróis emergem e lendas nascem.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "A Missão de Sandy Bochechas (2024)",
@@ -200,6 +224,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/2PptKdJ89pemI3IzXYOZN36R8ZS.jpg",
 			"genre": "Animação, Comédia, Aventura, Família",
 			"info": "A Fenda do Biquíni é retirada do oceano, levando a cientista-esquilo Sandy Bochechas e seu amigo Bob Esponja ao Texas para salvar a cidade.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Logan (2017)",
@@ -208,6 +233,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
 			"genre": "Ação, Drama, Ficção científica",
 			"info": "Em 2029, Logan ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela, uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23. Ao mesmo tempo em que se recusa a voltar à ativa, Logan é perseguido pelo mercenário Donald Pierce, interessado na menina.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Zona de Risco (2024)",
@@ -216,6 +242,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
 			"genre": "Ação",
 			"info": "Uma equipe da Força Delta é emboscada em território inimigo. Sem querer abandoná-los, a única esperança de um oficial é um piloto de drone da Força Aérea que pode ser seus olhos durante uma batalha brutal de 48 horas.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Oppenheimer (2023)",
@@ -224,6 +251,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
 			"genre": "Drama, História",
 			"info": "A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e o quanto isso mudaria a história do mundo para sempre.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Acima de Qualquer Suspeita (1990)",
@@ -232,6 +260,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
 			"genre": "Mistério, Crime, Thriller",
 			"info": "Rusty Sabich é um promotor que descobre que Carolyn Polhemus, sua colega, foi brutalmente assassinada. Obrigado a lidar com as investigações, Rusty tenta apagar os indícios de seu caso com Carolyn. Ele é preso, mas, decidido a provar sua inocência, contrata Steine; ele conta apenas com a ajuda do detetive Lipranzer e com Barbara, sua esposa, que sempre soube de seu caso com Carolyn, mas decidiu ficar ao seu lado",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "O Iluminado (1980)",
@@ -240,6 +269,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/x1vmewr9K7sXOvwhntlUoorf12k.jpg",
 			"genre": "Terror, Thriller",
 			"info": "Durante o inverno, um homem é contratado para ficar como vigia em um hotel no Colorado e vai para lá com a esposa e seu filho. Porém, o contínuo isolamento começa a lhe causar problemas mentais sérios e ele vai se tornado cada vez mais agressivo e perigoso, ao mesmo tempo que seu filho passa a ter visões de acontecimentos ocorridos no passado, que também foram causados pelo isolamento excessivo.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Nem Tudo é Negociável (2024)",
@@ -248,6 +278,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/qNCB0RqLU4b9S7yqv1aKWzONT2U.jpg",
 			"genre": "Ação, Thriller, Comédia, Drama",
 			"info": "O negociador de reféns Alan Bender é chamado para resgatar o presidente, que foi sequestrado. Mas acaba tendo que salvar a esposa e o próprio casamento.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Kung Fu Panda 4 (2024)",
@@ -256,6 +287,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
 			"genre": "Animação, Família, Fantasia, Ação",
 			"info": "Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro. Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Os Estranhos: Capítulo 1 (2024)",
@@ -264,6 +296,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
 			"genre": "Terror, Thriller",
 			"info": "A jovem Maya viaja para o campo com seu namorado para começar uma nova vida. Quando seu carro quebra, o casal é forçado a passar a noite em um Airbnb isolado na floresta, onde o casal é aterrorizado até o amanhecer por três estranhos mascarados.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Divertida Mente (2015)",
@@ -272,6 +305,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
 			"genre": "Animação, Família, Aventura, Drama, Comédia",
 			"info": "Baseadas na Sala de Comando, o centro de controle dentro da mente de Riley de 11 anos, cinco emoções trabalham sem parar, lideradas pela otimista Alegria. Ela se esforça muito para garantir que Riley esteja sempre feliz, e trabalha ao lado do Medo, Raiva, Nojinho e Tristeza.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "15 Cameras Torrent (2023)",
@@ -280,6 +314,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/yRqfdiRAEPcInhbXpogpYPDY1bp.jpg",
 			"genre": "Terror, Thriller",
 			"info": "A couple buys a house from The Slumlord Tapes, infamous for hidden cameras and a psycho landlord. It's not as safe as they tell themselves.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Sob as Águas do Sena (2024)",
@@ -288,6 +323,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/iwkWvcXcP8M4r9HLglhVEhgGyVu.jpg",
 			"genre": "Ação, Drama, Terror, Thriller",
 			"info": "Um tubarão gigante apareceu no rio Sena, em Paris. Para evitar a catástrofe, uma cientista vai ter que encarar as tragédias do próprio passado.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Wish: O Poder dos Desejos (2023)",
@@ -296,6 +332,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
 			"genre": "Animação, Família, Fantasia, Aventura",
 			"info": "No reino mágico de Rosas, Asha é uma moça perspicaz que faz um desejo tão poderoso que é atendido por uma força cósmica: uma pequena esfera de energia ilimitada chamada Star. Juntas, Asha e Star enfrentam o Rei Magnifico pra salvar a comunidade e provar que, quando um ser humano se une à energia das estrelas, coisas maravilhosas podem acontecer.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Patos! (2023)",
@@ -304,6 +341,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/ptz5ETMxDoRRiE69BVuIxJzyTEO.jpg",
 			"genre": "Animação, Ação, Aventura, Comédia, Família",
 			"info": "A família Mallard está um pouco refém da rotina. Enquanto Mack, o pai, se contenta em manter sua família segura nos arredores de um lago da Nova Inglaterra para sempre, Pam, a mãe, está ansiosa para agitar as coisas e mostrar a seus filhos – o adolescente Dax e a patinha Gwen – o mundo inteiro. Quando uma família de patos migratórios aterrissa em seu lago com histórias emocionantes de lugares distantes, Pam convence Mack a embarcar em uma viagem em família, via Nova York, para a Jamaica tropical.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Triplo X (2002)",
@@ -312,6 +350,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
 			"genre": "Ação, Aventura, Thriller, Crime",
 			"info": "O ex-atleta de esportes extremos Xander XXX Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que pode ter sucesso em ações que espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Agora, em uma perigosa missão, ele precisa usar todas as suas habilidades para combater um inimigo mortal.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Fúria Primitiva (2024)",
@@ -320,6 +359,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/qwhnq8pkFEAFXRwmscISOKK90Mu.jpg",
 			"genre": "Ação, Thriller",
 			"info": "Kid é um jovem que ganha a vida em um clube de luta clandestino, onde, usando uma máscara de gorila, é brutalmente espancado todas as noites por lutadores mais populares. Após anos de raiva contida e uma vida muito dura, Kid encontra uma maneira de se infiltrar na elite da cidade. À medida que seu trauma de infância ressurge, ele não mede esforços para acertar as contas com os homens da alta sociedade que tiraram o pouco que ele tinha.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Minha Culpa (2023)",
@@ -328,6 +368,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/lntyt4OVDbcxA1l7LtwITbrD3FI.jpg",
 			"genre": "Drama, Romance",
 			"info": "Noah é obrigada a mudar de cidade, deixando seus amigos e namorado para trás, após sua mãe se casar com um novo marido rico. Lá ela conhece Nick, seu novo meio-irmão, e os dois se apaixonam loucamente, vivendo um grande romance proibido.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Vingadores: Guerra Infinita (2018)",
@@ -336,6 +377,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
 			"genre": "Aventura, Ação, Ficção científica",
 			"info": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Coraline e o Mundo Secreto (2009)",
@@ -344,6 +386,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg",
 			"genre": "Animação, Família, Fantasia",
 			"info": "Entediada em sua nova casa, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Coraline se encanta com a descoberta, mas logo descobre que há algo de errado quando seus pais alternativos tentam mantê-la eternamente nesse mundo paralelo.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Amigos Imaginários (2024)",
@@ -352,6 +395,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
 			"genre": "Comédia, Fantasia, Família",
 			"info": "Depois de descobrir que pode ver os amigos imaginários de todos, uma garota embarca em uma aventura mágica para reconectar amigos imaginários esquecidos.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "O Tarô da Morte (2024)",
@@ -360,6 +404,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/lyWpD2g4dZBPlhGktKoVFT02gWz.jpg",
 			"genre": "Terror",
 			"info": "Quando um grupo de amigos irresponsavelmente viola a regra sagrada da leitura de tarô, a de nunca usar o deque de outra pessoa, eles libertam um mal inominável que estava preso nas cartas. Um por um, eles encaram seu destino e acabam em uma corrida contra a morte para escapar do futuro previsto para eles nas cartas.",
+		"type": "item"
 		},
 		{     "content": "movie",
 		"title": "As Marvels (2023)",
@@ -368,6 +413,7 @@
 		"genre": "Ficção científica, Aventura, Ação",
 		"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JX4ZOWL4K7MWOGLYRIDQC7AEJOL2S6BJ&dn=As%20Marvels%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
 		"info": "Quando suas obrigações a levam a uma fenda espacial anômala ligada a um revolucionário Kree, os poderes de Carol Danvers, a Capitã Marvel, se entrelaçam aos de Kamala Khan, a Ms. Marvel, e aos da sobrinha de Carol, astronauta da S.A.B.E.R., Capitã Monica Rambeau. Juntas, esse trio improvável deve ser unir para salvar o universo como "As Marvels".",
+	"type": "item"
 	},
 		{     "content": "movie",
 			"title": "The Round Up: No Way Out (2023) [Leg]",
@@ -376,6 +422,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/vblTCXOWUQGSc837vgbhDRi4HSc.jpg",
 			"genre": "Ação, Crime, Comédia, Thriller",
 			"info": "O detetive Ma Seok-do muda sua afiliação da Delegacia de Polícia de Geumcheon para a Equipe de Investigação Metropolitana, a fim de erradicar os gângsteres japoneses que entram na Coréia para cometer crimes hediondos.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Homem-Aranha: Através do Aranhaverso (2023)",
@@ -384,6 +431,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
 			"genre": "Animação, Ação, Aventura, Ficção científica",
 			"info": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Os Observadores (2024)",
@@ -392,6 +440,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/wXx72bbhhnfORmlSNMWR28fPd8b.jpg",
 			"genre": "Fantasia, Mistério, Thriller, Terror",
 			"info": "Mina, uma artista de 28 anos, se perde em uma imensa e assustadora floresta natural no oeste da Irlanda. Quando Mina finalmente encontra abrigo, ela acaba presa ao lado de três estranhos que são vigiados e perseguidos por criaturas misteriosas todas as noites.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Colateral (2024)",
@@ -400,6 +449,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/zPbtbmViCS1AW1m9jdCLM2U404u.jpg",
 			"genre": "",
 			"info": "Russell Hatch é um ex-agente da Interpol que prometeu proteger o filho de um informante morto anos antes em uma operação que deu errado. Quando gangues de rua impiedosas iniciam uma guerra territorial e o garoto é pego no fogo cruzado, Hatch não vai parar até mantê-lo seguro e lutar contra qualquer um que estiver em seu caminho.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Alien: O Oitavo Passageiro (1979)",
@@ -408,6 +458,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
 			"genre": "Terror, Ficção científica",
 			"info": "Quando a tripulação da sonda espacial Nostromo responde a um pedido de socorro vindo de um planeta inóspito, eles descobrem uma forma de vida mortal que se reproduz dentro de humanos. Agora, a tripulação deve lutar para permanecer viva e impedir que a criatura chegue até a Terra.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "O Poderoso Chefão (1972)",
@@ -416,6 +467,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
 			"genre": "Drama, Crime",
 			"info": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "A Menina do Mar (2024)",
@@ -424,6 +476,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/7QBtfV7e24sNFQ47g8xh9iU5D4J.jpg",
 			"genre": "Thriller, Mistério, Fantasia",
 			"info": "Depois que o prefeito de um idílico vilarejo insular descobre uma criança com poderes misteriosos em sua costa, a comunidade, antes pacífica, entra em guerra civil, dividida pela crença de que a criança é o próximo salvador.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Imaculada (2024)",
@@ -432,6 +485,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/5Eip60UDiPLASyKjmHPMruggTc4.jpg",
 			"genre": "Terror, Mistério, Thriller",
 			"info": "Cecilia, uma jovem religiosa, se torna freira em um convento isolado na região rural italiana. Após uma gravidez misteriosa, Cecilia é atormentada por forças perversas, enquanto confronta segredos sombrios e horrores do convento.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "John Wick 4: Baba Yaga (2023)",
@@ -440,6 +494,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
 			"genre": "Ação, Thriller, Crime",
 			"info": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Isca (2024)",
@@ -448,6 +503,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/1KJtjg3MQFnrfd7NXfs11z4HLwD.jpg",
 			"genre": "Thriller, Terror",
 			"info": "Acompanha um grupo de cinco amigas que precisam lutar por suas vidas em águas abertas depois que um casamento dos sonhos se transforma em um pesadelo.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Missão Cruzada (2024)",
@@ -456,6 +512,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/w4Os3vltEwV4P3cePsmwUqQs65k.jpg",
 			"genre": "Ação, Comédia, Aventura",
 			"info": "Um ex-agente que agora é dono de casa se envolve em uma missão perigosa com a esposa, que é detetive e não sabe nada sobre o passado dele.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Como Vender a Lua (2024)",
@@ -464,6 +521,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/zB0g0VaRKHfRrvBT4ouHK5W967W.jpg",
 			"genre": "Romance, Comédia",
 			"info": "Contratada para trabalhar a imagem da NASA com o público, a marketeira Kelly Jones precisa chegar a um acordo em como trabalhar com o diretor de lançamento, Cole Davis, que já tem muito em jogo com a missão. Quando a Casa Branca considera que a missão é importante demais para falhar, Jones precisa encenar um pouso falso na lua como back-up.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Alien: Covenant (2017)",
@@ -472,6 +530,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/2qluV8y79LnBBHaMpwewCjQ1Htk.jpg",
 			"genre": "Ficção científica, Terror, Thriller",
 			"info": "Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David como habitante solitário.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Homem-Aranha: Sem Volta Para Casa (2021)",
@@ -480,6 +539,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
 			"genre": "Ação, Aventura, Ficção científica",
 			"info": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Não Posso Viver Sem Você (2024)",
@@ -488,6 +548,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/7TIlqWG3vuHU2nQt0ubhCEmaVpp.jpg",
 			"genre": "Comédia, Romance",
 			"info": "Um homem viciado em trabalho acaba estragando um evento de família e a esposa dá um ultimato: ou ele fica com o celular, ou fica com o casamento de vinte anos.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Super Mario Bros. O Filme (2023)",
@@ -496,6 +557,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
 			"genre": "Animação, Família, Aventura, Fantasia, Comédia",
 			"info": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Uma Ideia de Você (2024)",
@@ -504,6 +566,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
 			"genre": "Romance, Drama, Comédia",
 			"info": "Solène, leva a filha, para assistir ao show de seu grupo favorito, August Moon. Lá, Solène se relaciona com um dos membros do grupo. Hayes Campbell é inteligente, atraente e confiante. A atração é imediata. O problema? É porque ele é vinte anos mais novo que Solène.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Velozes & Furiosos 10 (2023)",
@@ -512,6 +575,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
 			"genre": "Ação, Crime, Thriller",
 			"info": "O fim da estrada está chegando. Velozes & Furiosos 10, é o décimo filme da franquia Velozes & Furiosos, lança os capítulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira década e ainda mais forte. Com o mesmo elenco e personagens principais de quando começou. Ao longo de muitas missões e lutando contra todos os obstáculos impossíveis, Dom Toretto (Vin Diesel) e sua família foram mais espertos, mais furiosos e mais rápidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma ameaça terrível das sombras do passado, alimentada por sede de vingança e determinada a destruir esta família.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Desespero Profundo (2024)",
@@ -520,6 +584,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
 			"genre": "Thriller, Terror, Ação",
 			"info": "Um grupo de desconhecidos acabam no meio do Oceano Pacífico depois de um acidente aéreo. Presos em uma bolsa de ar, eles devem trabalhar juntos para enfrentar os perigos que os cercam antes que o oxigênio acabe.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Godzilla Minus One (2023)",
@@ -528,6 +593,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
 			"genre": "Ficção científica, Terror, Ação",
 			"info": "O Japão do pós-guerra está no seu ponto mais baixo quando surge uma nova crise sob a forma de um monstro gigante, batizado com o terrível poder da bomba atómica.",
+		"type": "item"
 		},
 		
 		{     "content": "movie",
@@ -537,6 +603,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
 			"genre": "Comédia, Família, Fantasia",
 			"info": "Antes de se tornar a mente brilhante por trás da maior fábrica de chocolate do mundo, Willy precisou enfrentar vários obstáculos. Cheio de ideias e determinado a mudar o mundo, o jovem Wonka embarca em uma aventura para espalhar alegria através de seu delecioso chocolate.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "A Liga (2024)",
@@ -545,6 +612,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg",
 			"genre": "Ação, Comédia",
 			"info": "Recrutado para uma missão inesperada, um cara comum que trabalha como empreiteiro vira espião.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Pisque Duas Vezes (2024)",
@@ -553,6 +621,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
 			"genre": "Mistério, Thriller",
 			"info": "Quando o bilionário de tecnologia Slater King conhece a garçonete Frida em sua gala de arrecadação de fundos, faíscas voam. Ele a convida para se juntar a ele e seus amigos nas férias dos sonhos em sua ilha particular. É o paraíso. Noites selvagens se misturam com dias ensolarados e todos estão se divertindo. Ninguém quer que esta viagem acabe, mas à medida que coisas estranhas começam a acontecer, Frida começa a questionar a sua realidade. Há algo errado com este lugar. Ela terá que descobrir a verdade se quiser sair viva desta festa.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Interestelar (2014)",
@@ -561,6 +630,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
 			"genre": "Aventura, Drama, Ficção científica",
 			"info": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Avatar: O Caminho da Água (2022)",
@@ -569,6 +639,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
 			"genre": "Ficção científica, Aventura, Ação",
 			"info": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Transformers: O Despertar das Feras Torrent (2023)",
@@ -577,6 +648,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
 			"genre": "Ficção científica, Aventura, Ação",
 			"info": "Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) farão o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "O Corvo (1994)",
@@ -585,6 +657,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/f1JmD60vV383EDKr86lqmPB4sOu.jpg",
 			"genre": "Fantasia, Ação, Thriller",
 			"info": "O roqueiro Eric Draven está morto... Mas, estranhamente, ele ainda vive. Ele ainda não pode descansar em paz. Não enquanto os vermes responsáveis por sua morte e também pelo assassinato de sua noiva permanecerem vivos. Assim, Draven retorna de seu túmulo para submeter seus matadores à uma implacável vingança. E ele não está sozinho. Um amedrontador corvo do outro mundo guia Draven em sua jornada.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Matador de Aluguel (2024)",
@@ -593,6 +666,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg",
 			"genre": "Ação, Thriller",
 			"info": "Um ex-lutador do UFC consegue um emprego como segurança em um estabelecimento na Flórida Keys, apenas para descobrir que este paraíso não é tudo o que parece.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Gato de Botas 2: O Último Pedido (2022)",
@@ -601,6 +675,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
 			"genre": "Animação, Aventura, Fantasia, Comédia, Família",
 			"info": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Viva: A Vida é uma Festa (2017)",
@@ -609,6 +684,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
 			"genre": "Família, Animação, Música, Aventura",
 			"info": "O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.",
+		"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Todos Menos Você (2023)",
@@ -617,6 +693,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
 			"genre": "Romance, Comédia",
 			"info": "Bea e Ben parecem o casal perfeito, mas depois de um primeiro encontro incrível, algo acontece que transforma sua atração ardente em gelo - até que eles se encontram inesperadamente juntos em um casamento na Austrália. Então eles fazem o que dois adultos maduros fariam: fingem ser um casal.",
+		"type": "item"
 		}
 	]	
-}		
+}
