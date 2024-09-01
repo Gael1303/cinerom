@@ -1,5 +1,14 @@
 {  
     "items": [
+            {     "content": "movie",
+			"title": "Furiosa: Uma Saga Mad Max (2024)",
+			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4799848d6c71253bb4d7f0e759cc055a99def81",
+			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/q8IEFmEGGSGmAWfwRs23XDwdFN4.jpg",
+			"genre": "Ação, Aventura, Ficção científica",
+			"info": "Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.",
+			"type": "item"
+		},
 	    {     "content": "movie",
 			"title": "Meu Malvado Favorito 4 (2024)",
 			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088",
@@ -38,15 +47,6 @@
 			"runtime": "7200",
 			"info": "Várias gerações no futuro, após o reinado de César, os macacos são agora a espécie dominante e vivem harmoniosamente, enquanto os humanos foram reduzidos a viver nas sombras. À medida que um novo líder símio tirânico constrói o seu império, um jovem macaco empreende uma jornada angustiante que o levará a questionar tudo o que sabia sobre o passado e a fazer escolhas que definirão um futuro tanto para os macacos como para os humanos.",
 		    "type": "item"
-		},
-		{     "content": "movie",
-			"title": "Furiosa: Uma Saga Mad Max (2024)",
-			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4799848d6c71253bb4d7f0e759cc055a99def81",
-			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
-			"fanart": "https://image.tmdb.org/t/p/original/q8IEFmEGGSGmAWfwRs23XDwdFN4.jpg",
-			"genre": "Ação, Aventura, Ficção científica",
-			"info": "Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa."
-			"type": "item"
 		},
 		{     "content": "movie",
 			"title": "Divertida Mente 2 (2024)",
