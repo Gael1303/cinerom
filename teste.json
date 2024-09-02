@@ -2,18 +2,9 @@
     "items": [
          {
             "type": "dir",
-            "name": "Tmdb Filmes",
+            "name": "Sessão de Filmes (TMDb)",
             "link": "file://scraper_list.json",
             "animated_thumbnail": "",
-            "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
-            "animated_fanart": "",
-            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
-        },
-        {
-           "type": "dir",
-            "name": "Generos",
-            "link": "file://scraper_list3.json",
-            "summary": "Movies Section",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "animated_fanart": "",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
@@ -26,6 +17,30 @@
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "animated_fanart": "",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
-        }  
+        },
+         {
+           "type": "dir",
+            "name": "Recomendaçoes",
+            "link": "file://scraper_list3.json",
+            "summary": "Movies Section",
+            "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
+            "animated_fanart": "",
+            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
+        },
+         {
+            "type": "dir",
+            "name": "Melhor Qualidade",
+            "link": "https://ignore",
+            "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
+            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
+			"summary": "Filmes em 4K HDR, Imax"
+        },
+         {
+            "type": "dir",
+            "name": "Informaçoes",
+            "link": "file://Search_info.xml",
+            "thumbnail": "https://archive.org/download/1700740365675/1700740365681.png",
+            "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
+        }
     ]
 }
