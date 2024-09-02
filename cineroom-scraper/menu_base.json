@@ -2,32 +2,32 @@
     "items": [
 	    {
             "type": "dir",
-            "title": "≡ [B]Sessão de Filmes[/B]",
-			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "title": "[COLOR yellow]•[/COLOR] Filmes",
+			"thumbnail": "https://archive.org/download/1700740365675/1700740365741.png",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/menu_filmes.xml"
         },
         {
             "type": "dir",
-            "title": "≡ [B]Sessão de Séries[/B]",
-			"thumbnail": "https://archive.org/download/1700740365517/1700740365543.png",
+            "title": "[COLOR yellow]•[/COLOR] Séries",
+			"thumbnail": "https://archive.org/download/1700740365675/1700740365651.png",
             "link": "tmdb/movie/popular"
         },
 		{
             "type": "dir",
-            "title": "≡ [B]Sessão de Animes[/B]",
-			"thumbnail": "https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png",
+            "title": "[COLOR yellow]•[/COLOR] Animes",
+			"thumbnail": "https://archive.org/download/1700740365761/1700740365522.png",
             "link": "tmdb/movie/now_playing"
         },
 	    {
             "type": "dir",
             "title": "≡ [COLOR yellow]Informações[/COLOR]",
-			"thumbnail": "https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png",
+			"thumbnail": "https://compras.wiki.ufsc.br/images/d/d0/Info_information-1481584_1280.png",
             "link": "http://www.ezzer-mac.com/mjtest/whatsnew/whatsnew.json"
         },
 	     {
             "type": "dir",
             "title": "≡ [COLOR yellow]Limpar Cache[/COLOR]",
-			"thumbnail": "https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png",
+			"animated_thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGAbNyTfknlh2w6VfkihttErhHwb6w903uiGUowN-qyV4CbILDq3872IWK1roz1uRz8o&usqp=CAU",
             "link": "clear_cache"
         }
     ]   
