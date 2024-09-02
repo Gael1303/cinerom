@@ -30,7 +30,7 @@
          {
             "type": "dir",
             "name": "Melhor Qualidade",
-            "link": "https://ignore",
+            "link": "file://scraper_list3.json",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
 			"summary": "Filmes em 4K HDR, Imax"
@@ -38,7 +38,7 @@
          {
             "type": "dir",
             "name": "Informaçoes",
-            "link": "file://Search_info.xml",
+            "link": "file://search_info.xml",
             "thumbnail": "https://archive.org/download/1700740365675/1700740365681.png",
             "fanart": "https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg"
         }
