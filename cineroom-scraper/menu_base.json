@@ -4,7 +4,7 @@
             "type": "dir",
             "title": "≡ [B]Sessão de Filmes[/B]",
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
-            "link": "tmdb/movie/top_rated"
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/menu_filmes.xml"
         },
         {
             "type": "dir",
@@ -20,15 +20,15 @@
         },
 	    {
             "type": "dir",
-            "title": "≡ [B]Informações[/B]",
+            "title": "≡ [COLOR yellow]Informações[/COLOR]",
 			"thumbnail": "https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png",
-            "link": "tmdb/movie/now_playing"
+            "link": "http://www.ezzer-mac.com/mjtest/whatsnew/whatsnew.json"
         },
 	     {
             "type": "dir",
-            "title": "≡ [B]Limpar Cache[/B]",
+            "title": "≡ [COLOR yellow]Limpar Cache[/COLOR]",
 			"thumbnail": "https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png",
-            "link": "tmdb/movie/now_playing"
-        },
+            "link": "clear_cache"
+        }
     ]   
 }	
