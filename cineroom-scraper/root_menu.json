@@ -2,7 +2,7 @@
     "items": [
          {
             "type": "dir",
-            "name": "Sessão de Filmes (TMDb)",
+            "name": "Filmes (TMDb)",
             "link": "file://scraper_list.json",
             "animated_thumbnail": "",
             "thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png",
