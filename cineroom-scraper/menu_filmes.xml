@@ -1,0 +1,71 @@
+{
+    "items": [
+	    {
+            "type": "dir",
+            "title": "[B]Recomendaçoes[/B]",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": "tmdb/movie/top_rated"
+        },
+        {
+            "type": "dir",
+            "title": "[B]Mais Populares[/B]",
+			"thumbnail": "https://archive.org/download/1700740365517/1700740365543.png",
+            "link": "tmdb/movie/popular"
+        },
+		{
+            "type": "dir",
+            "title": "[B]Em Exibição[/B]",
+			"thumbnail": "https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png",
+            "link": "tmdb/movie/now_playing"
+        },
+        {
+            "type": "dir",
+            "title": "[B]Melhor Avaliação[/B]",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": "tmdb/movie/top_rated"
+        },
+		{
+            "type": "dir",
+            "title": "[B]Coletaneas[/B]",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": "tmdb/movie/top_rated"
+        },
+		{
+            "type": "dir",
+            "title": "[B]Filmes em 4K[/B]",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": "tmdb/movie/top_rated"
+        },
+		{
+            "type": "dir",
+            "title": "[B]Generos[/B]",
+			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
+            "link": "file://scraper_list3.json"
+        },
+		{
+            "type": "dir",
+            "title": "[B]Top 250[/B]",
+			"thumbnail": "https://archive.org/download/1700740365517/1700740365517.png",
+            "link": "tmdb/list/634"
+        },
+		
+		{
+            "type": "dir",
+            "title": "[B]Meu Top 100 [/B]",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": "tmdb/movie/top_rated"
+        },
+		{
+            "type": "dir",
+            "title": "[B]Por Ano[/B]",
+			"thumbnail": "https://archive.org/download/1700740365675/1700740365741.png",
+            "link": "file://scraper_list4.json"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR yellow]Pesquisar Filmes[/COLOR]",
+			"thumbnail": "https://archive.org/download/1700740365535/1700740365535.png",
+            "link": "tmdb/search/movie"        
+        }
+    ]
+}
