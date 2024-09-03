@@ -32,9 +32,9 @@
         },
 		{
             "type": "dir",
-            "title": "Filmes em 4K",
+            "title": "4K",
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
-            "link": "tmdb/movie/top_rated"
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml"
         },
 		{
             "type": "dir",
