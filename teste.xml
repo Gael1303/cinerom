@@ -1,15 +1,15 @@
 {  
     "items": [
 	    {
-            "content": "movie", "imdb_id": "tt4919268",  "title": "Bad Boys: Até o Fim (4K)",
+            "content": "movie", "imdb_id":"tt4919268",  "title": "Bad Boys: Até o Fim (4K)",
             "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9a7fdd06c57762f18b2a6d55c6a2756fbfef3d2",
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg",  "fanart": "https://image.tmdb.org/t/p/original/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
             "year": "2024",
-            "summary":"Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami"
+            "summary":"Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami",
 			
        "type": "item" }, 
 		{
-            "content": "movie",  "imdb_id":  "tt13433802",  "title": "Um Lugar Silencioso: Dia Um (4K)",
+            "content": "movie",  "imdb_id":"tt13433802",  "title": "Um Lugar Silencioso: Dia Um (4K)",
             "year": "2024",  "genre":"Terror, Ficção científica, Thriller",
             "thumbnail": "https://image.tmdb.org/t/p/original/6ur9Bzx6YF9TVVWH8caKAWnVvYh.jpg", "fanart": "https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
 			"summary":"Uma mulher luta pela sobrevivência durante uma invasão alienígena na cidade de Nova York.",
