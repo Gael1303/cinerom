@@ -1,15 +1,23 @@
-{  
-    "items": [
-          {
-            "type": "movie",
-			"title": "Zona de Risco",
-            "imdb_id": "tt19864802",
-            "link": "https://animezey.xyz/1:/Filmes/2024/Zona%20de%20Risco%20%5BLand%20of%20Bad%5D%20(2024)/Zona.de.Risco.2024.1080p.WEB-DL.DDP5.1.H.264-RABiDS.DUAL-BAIANINHO.mkv",
-            "thumbnail": "https://image.tmdb.org/t/p/original/qLqI0lA5WFIpItLCQNqPJYM3W6p.jpg",
-			"fanart": "https://image.tmdb.org/t/p/original/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
-			"summary": "Uma equipe da Força Delta é emboscada em território inimigo. Sem querer abandoná-los, a única esperança de um oficial é um piloto de drone da Força Aérea que pode ser seus olhos durante uma batalha brutal de 48 horas.",
-			"genre": "Ação, Guerra, Thriller",
-            "year": "2023"
-        }
-	]
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>Go Away Nosey</layoutype>
+
+<xml>
+
+<item>
+    <title>Bad Boys: Até o Fim ([COLOR gray]2024[/COLOR])</title>
+    <meta>
+        <content>movie</content>
+        <tmdb_id>573435</tmdb_id>
+        <title>573435</title>
+        <year>2024</year> <genre>Ação, Crime, Thriller, Comédia</genre>
+    </meta>
+    <link>
+        <sublink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9a7fdd06c57762f18b2a6d55c6a2756fbfef3d2</sublink>
+        <sublink>http://ignore</sublink>
+    </link>
+    <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg</thumbnail>  <fanart>https://image.tmdb.org/t/p/original/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg</fanart>
+	<summary>Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami.</summary>
+    </item>
+	
+</xml>
