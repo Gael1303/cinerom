@@ -1,7 +1,7 @@
 {  
     "items": [
 	    {
-            "content": "movie", "imdb_id": "tt4919268", "title": "Bad Boys: Até o Fim (4K)",
+            "content": "movie", "imdb_id":"tt4919268", "title": "Bad Boys: Até o Fim (4K)",
             "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9a7fdd06c57762f18b2a6d55c6a2756fbfef3d2",
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg",  "fanart": "https://image.tmdb.org/t/p/original/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
             "type": "item",
@@ -10,7 +10,7 @@
 			},
 			
 		{
-            "content": "movie",  "imdb_id": "tt13433802",  "title": "Um Lugar Silencioso: Dia Um (4K)",
+            "content": "movie",  "imdb_id":"tt13433802",  "title": "Um Lugar Silencioso: Dia Um (4K)",
             "year": "2024",  "genre":"Terror, Ficção científica, Thriller",
             "thumbnail": "https://image.tmdb.org/t/p/original/6ur9Bzx6YF9TVVWH8caKAWnVvYh.jpg", "fanart": "https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
 			"summary":"Uma mulher luta pela sobrevivência durante uma invasão alienígena na cidade de Nova York.",
@@ -132,7 +132,7 @@
 		"title":"Duna [4K]",   "content":"movie",  "imdb_id":"",
 		"thumbnail":"https://www.themoviedb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
 		"genre":"Ação, Aventura, Drama",
-		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c"
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c",
 	    "type":"item" },
 	{
 		"title":"As Marvels [4K]",   "content":"movie",  "imdb_id":"",
@@ -156,7 +156,7 @@
 		"fanart":"https://image.tmdb.org/t/p/original/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg",
 		"genre":"Ação, Aventura, Fantasia",
 		"released":"20.12.2023",
-		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44FXD7YFBJ2GJK3KUXZUAJ7JYYLFGLXG&dn=Aquaman%202%20-%20O%20Reino%20Perdido%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce"
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44FXD7YFBJ2GJK3KUXZUAJ7JYYLFGLXG&dn=Aquaman%202%20-%20O%20Reino%20Perdido%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
 	    "type":"item" },
 	{
 		"title":"Wonka [4K]",   "content":"movie",  "imdb_id":"",
@@ -189,6 +189,7 @@
 		"genre":"Ação, Aventura, Ficção científica",
 		"released":"15.11.2023",
 		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FET5JPNBYSVR67LNAMHILO7GNPIJEWID&dn=Jogos%20Vorazes%20-%20A%20Cantiga%20dos%20P%C3%A1ssaros%20e%20das%20Serpentes%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
-	    "type":"item" }
+	    "type":"item"
+		}
 	]
 }
