@@ -16,48 +16,54 @@
 			"summary":"Uma mulher luta pela sobrevivência durante uma invasão alienígena na cidade de Nova York.",
 			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d17ac13b165b9d24fb8ee8b691f9d09e60b23585",
 			},
-	{
-		"title":"Guerra Civil [4K]",   "content":"movie",  "imdb_id":"tt17279496",
+	
+	{       "content":"movie",
+		"title":"Guerra Civil [4K]",     "imdb_id":"tt17279496",
 		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
 		"fanart":"https://image.tmdb.org/t/p/original/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
 		"genre":"Guerra, Ação, Drama",
 		"released":"18.04.2024",
 		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6",
         "type":"item" }
-	{
-		"title":"Planeta dos Macacos: O Reinado [4K]",   "content":"movie",  "imdb_id":"tt11389872",
+	
+	{       "content":"movie",
+		"title":"Planeta dos Macacos: O Reinado [4K]",     "imdb_id":"tt11389872",
 		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg",
 		"fanart":"https://image.tmdb.org/t/p/original/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
 		"genre":"Ficção científica, Aventura, Ação",
 		"released":"09.05.2024",
 		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:",
 	    "type":"item" },
-	{
-		"title":"Furiosa: Uma Saga Mad Max [4K]",   "content":"movie",  "imdb_id":"tt12037194",
+	
+	{       "content":"movie",
+		"title":"Furiosa: Uma Saga Mad Max [4K]",     "imdb_id":"tt12037194",
 		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
 		"fanart":"https://image.tmdb.org/t/p/original/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
 		"genre":"Ação, Aventura, Ficção científica",
 		"released":"23.05.2024",
 		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b68bdc7e40f6f5dfb5a47edefe0fe7d037138bd",
 	    "type":"item" },
-	{
-		"title":"Godzilla e Kong: O Novo Império [4K]",   "content":"movie",  "imdb_id":"tt14539740",
+	
+	{       "content":"movie",
+		"title":"Godzilla e Kong: O Novo Império [4K]",     "imdb_id":"tt14539740",
 		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fWSGD2yrzz6hscocnMD8AEXIThk.jpg",
 		"fanart":"https://image.tmdb.org/t/p/original/j3Z3XktmWB1VhsS8iXNcrR86PXi.jpg",
 		"genre":"Ficção científica, Ação, Aventura",
 		"released":"28.03.2024",
 		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c241986773a9cca12054fee5e1d220c7609b318",
 	    "type":"item" },
-	{
-		"title":"Pobres Criaturas [4K]",   "content":"movie",  "imdb_id":"tt14230458",
+	
+	{       "content":"movie",
+		"title":"Pobres Criaturas [4K]",     "imdb_id":"tt14230458",
 		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
 		"fanart":"https://image.tmdb.org/t/p/original/fS89P93Lq6pyT7d8ox8AMAEtXUs.jpg",
 		"genre":"Ficção científica, Romance, Comédia",
 		"released":"08.12.2023",
 		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6299becdb7018cdc4bda81790b52684388461118",
 	    "type":"item" },
-	{
-		"title":"Ghostbusters: Apocalipse de Gelo [4K]",   "content":"movie",  "imdb_id":"tt21235248",
+	
+	{       "content":"movie",
+		"title":"Ghostbusters: Apocalipse de Gelo [4K]",     "imdb_id":"tt21235248",
 		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boObGdocQS07Nu7IrettgA5oRTp.jpg",
 		"fanart":"https://image.tmdb.org/t/p/original/3IoSYT0gnuImnZ73rqYySJnmefA.jpg",
 		"genre":"Fantasia, Aventura, Comédia",
