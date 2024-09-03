@@ -25,7 +25,7 @@
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/noticia_dodia.json"
         },
 	     {
-            "type": "dir",
+            "type": "item",
             "title": "≡ [COLOR yellow]Limpar Cache[/COLOR]",
 			"animated_thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGAbNyTfknlh2w6VfkihttErhHwb6w903uiGUowN-qyV4CbILDq3872IWK1roz1uRz8o&usqp=CAU",
             "link": "clear_cache"
