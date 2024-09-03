@@ -22,7 +22,7 @@
 		"fanart":"https://image.tmdb.org/t/p/original/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
 		"genre":"Guerra, Ação, Drama",
 		"released":"18.04.2024",
-		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6"
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6",
         "type":"item" }
 	{
 		"title":"Planeta dos Macacos: O Reinado [4K]",   "content":"movie",  "imdb_id":"",
