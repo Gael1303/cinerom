@@ -21,11 +21,8 @@
            "title": "Um Lugar Silencioso: Dia Um",  "year": "2024",  "genre":"Terror, Ficção científica, Thriller",
             "thumbnail": "https://image.tmdb.org/t/p/original/6ur9Bzx6YF9TVVWH8caKAWnVvYh.jpg", "fanart": "https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
 			"summary":"",
-			"link": [
-                        "plugin://plugin.video.jacktorr/play_magnet?magnet=d17ac13b165b9d24fb8ee8b691f9d09e60b23585(FHD)",
-                         "http://ignore"
-                      ],
+			"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d17ac13b165b9d24fb8ee8b691f9d09e60b23585(FHD)",
 			"type": "item"
         }
-	]
+    ]
 }
