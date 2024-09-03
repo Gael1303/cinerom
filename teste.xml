@@ -11,6 +11,15 @@
 	   "title":"Um Lugar Silencioso: Dia Um [4K]", "original_title":"A Quiet Place: Day One", "imdb_id":"tt13433802", 
 	   "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d17ac13b165b9d24fb8ee8b691f9d09e60b23585",
 	   "type":"item"
+   },
+   {
+	   "content":"movie",
+	   "title":"Guerra Civil [4K]", "original_title":"Civil War", "imdb_id":"tt17279496", 
+	   "thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg", 
+	   "icon":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
+	   "banner":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
+	   "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6",
+	   "type":"item"
    }
 ]
 }
