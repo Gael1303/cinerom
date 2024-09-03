@@ -1,7 +1,7 @@
 {  
     "items": [
 	    {     "content": "movie",
-			"title": "Meu Malvado Favorito 4 (2024)",
+			"title": "Meu Malvado Favorito 4",
 			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088",
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wISieKsABnOKgNlbNLuuMmIrhem.jpg",
                         "tmdb_id":"519182",
