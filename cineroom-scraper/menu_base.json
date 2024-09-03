@@ -22,7 +22,7 @@
             "type": "dir",
             "title": "≡ [COLOR yellow]Informações[/COLOR]",
 			"thumbnail": "https://compras.wiki.ufsc.br/images/d/d0/Info_information-1481584_1280.png",
-            "link": "http://www.ezzer-mac.com/mjtest/whatsnew/whatsnew.json"
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/noticia_dodia.json"
         },
 	     {
             "type": "dir",
