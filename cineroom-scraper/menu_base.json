@@ -12,7 +12,7 @@
             "type": "dir",
             "title": "[COLOR red]•[/COLOR]Séries",
 			"thumbnail": "https://archive.org/download/1700740365675/1700740365651.png",
-            "link": "",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/menu_series.xml",
 			"summary":"Scraper TMDB e Listas Manuais"
         },
 		{
