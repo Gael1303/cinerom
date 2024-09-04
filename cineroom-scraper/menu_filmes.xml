@@ -23,6 +23,18 @@
             "title": "TMDb Categorias",
 			"thumbnail": "https://archive.org/download/1700740365517/1700740365517.png",
             "link": "file://scraper_list.json"    
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR green]•[/COLOR][I]Informações[/I]",
+			"thumbnail": "https://archive.org/download/1700740365525/1700740365532.png",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/noticia_dodia.json"
+        },  
+	{
+            "type": "item",
+            "title": "[COLOR green]•[/COLOR][I]Limpar Cache[/I]",
+	    "thumbnail":"https://archive.org/download/1700740365525/1700740365525.png",
+            "link": "clear_cache"
         }
     ]
 }
