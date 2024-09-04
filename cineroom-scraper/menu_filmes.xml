@@ -2,13 +2,13 @@
     "items": [
         {
             "type": "dir",
-            "title": "[COLOR green]•[/COLOR][B]Recomendações[/B]",
+            "title": "[COLOR red]•[/COLOR][B]Recomendações[/B]",
 			"thumbnail": "https://archive.org/download/1700740365517/1700740365543.png",
             "link": "tmdb/movie/popular"
         },
         {
             "type": "dir",
-            "title": "[COLOR green]•[/COLOR][B]Top 100[/B]",
+            "title": "[COLOR red]•[/COLOR][B]Top 100[/B]",
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
             "link": "tmdb/movie/top_rated"
         },
