@@ -2,7 +2,7 @@
     "items": [
 	    {
             "type": "dir",
-            "title": "[COLOR yellow]•[/COLOR] TMDb - Filmes",
+            "title": "[COLOR yellow]•[/COLOR]Filmes",
 			"thumbnail": "https://archive.org/download/1700740365675/1700740365741.png",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/menu_filmes.xml",
 			"summary":"Scraper TMDB e Listas Manuais"
@@ -10,7 +10,7 @@
         
 		{
             "type": "dir",
-            "title": "[COLOR red]•[/COLOR] TMDb - Séries",
+            "title": "[COLOR red]•[/COLOR]Séries",
 			"thumbnail": "https://archive.org/download/1700740365675/1700740365651.png",
             "link": "",
 			"summary":"Scraper TMDB e Listas Manuais"
@@ -18,14 +18,14 @@
 		{
             "type": "dir",
             "title": "[COLOR green]•[/COLOR][COLOR yellow]Informações[/COLOR]",
-			"thumbnail": "https://compras.wiki.ufsc.br/images/d/d0/Info_information-1481584_1280.png",
+			"thumbnail": "https://archive.org/download/1700740365525/1700740365532.png",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/noticia_dodia.json"
         },
 	    
 		{
             "type": "item",
             "title": "[COLOR green]•[/COLOR][COLOR yellow]Limpar Cache[/COLOR]",
-			"animated_thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGAbNyTfknlh2w6VfkihttErhHwb6w903uiGUowN-qyV4CbILDq3872IWK1roz1uRz8o&usqp=CAU",
+	    "thumbnail":"https://archive.org/download/1700740365525/1700740365525.png",
             "link": "clear_cache"
         }
     ]   
