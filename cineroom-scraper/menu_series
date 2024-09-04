@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "type": "dir",
+            "title": "Recomendações",
+			"thumbnail": "https://archive.org/download/1700740365517/1700740365543.png",
+            "link": ""
+        },
+        {
+            "type": "dir",
+            "title": "Top 100",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": ""
+        },
+		{
+            "type": "dir",
+            "title": "Streamings",
+			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
+            "link": ""
+        },
+		{
+            "type": "dir",
+            "title": "IMDb Categorias",
+			"thumbnail": "https://archive.org/download/1700740365517/1700740365517.png",
+            "link": "file://scraper_list2.json"    
+        }
+    ]
+}
