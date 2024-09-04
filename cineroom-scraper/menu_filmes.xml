@@ -1,71 +1,28 @@
 {
     "items": [
-	    {
-            "type": "dir",
-            "title": "Recomendaçoes",
-			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
-            "link": "tmdb/movie/top_rated"
-        },
         {
             "type": "dir",
-            "title": "Mais Populares",
+            "title": "Recomendações",
 			"thumbnail": "https://archive.org/download/1700740365517/1700740365543.png",
             "link": "tmdb/movie/popular"
         },
-		{
-            "type": "dir",
-            "title": "Em Exibição",
-			"thumbnail": "https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png",
-            "link": "tmdb/movie/now_playing"
-        },
         {
             "type": "dir",
-            "title": "Melhor Avaliação",
+            "title": "Top 100",
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
             "link": "tmdb/movie/top_rated"
         },
 		{
             "type": "dir",
-            "title": "Coletaneas",
-			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
-            "link": "tmdb/movie/top_rated"
-        },
-		{
-            "type": "dir",
-            "title": "4K",
-			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "title": "Melhor Qualidade",
+			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml"
         },
 		{
             "type": "dir",
-            "title": "Generos",
-			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
-            "link": "file://scraper_list3.json"
-        },
-		{
-            "type": "dir",
-            "title": "Top 250",
+            "title": "TMDb Categorias",
 			"thumbnail": "https://archive.org/download/1700740365517/1700740365517.png",
-            "link": "tmdb/list/634"
-        },
-		
-		{
-            "type": "dir",
-            "title": "Meu Top 100",
-			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
-            "link": "tmdb/movie/top_rated"
-        },
-		{
-            "type": "dir",
-            "title": "Por Ano",
-			"thumbnail": "https://archive.org/download/1700740365675/1700740365741.png",
-            "link": "file://scraper_list4.json"
-        },
-        {
-            "type": "dir",
-            "title": "[COLOR yellow]Pesquisar Filmes[/COLOR]",
-			"thumbnail": "https://archive.org/download/1700740365535/1700740365535.png",
-            "link": "tmdb/search/movie"        
+            "link": "file://scraper_list.json"    
         }
     ]
 }
