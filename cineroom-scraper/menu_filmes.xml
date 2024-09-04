@@ -28,7 +28,7 @@
             "type": "item",
             "title": "[COLOR grayI]Info[/COLOR]",
 			"thumbnail": "https://archive.org/download/1700740365525/1700740365532.png",
-            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/info.xml"
+            "link": "message/https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/info.xml"
         },  
 	{
             "type": "item",
