@@ -1,25 +1,234 @@
 {
-   "items": [
-   {
-	   "content":"movie",
-	   "title":"Bad Boys: Até o Fim [4K]",  "imdb_id":"tt4919268", 
-	   "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9a7fdd06c57762f18b2a6d55c6a2756fbfef3d2",
-	   "type":"item"
-   },
-   {
-	   "content":"movie",
-	   "title":"Um Lugar Silencioso: Dia Um [4K]", "original_title":"A Quiet Place: Day One", "imdb_id":"tt13433802", 
-	   "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d17ac13b165b9d24fb8ee8b691f9d09e60b23585",
-	   "type":"item"
-   },
-   {
-	   "content":"movie",
-	   "title":"Guerra Civil [4K]", "original_title":"Civil War", "imdb_id":"tt17279496", 
-	   "thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg", 
-	   "icon":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
-	   "banner":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
-	   "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6",
-	   "type":"item"
-   }
+	"items":[
+	{
+		"content":"movie",
+		"title":"Duna: Parte Dois [4K]",  "imdb_id":"tt15239678",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
+		"genre":"Ficção científica, Aventura",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5727adf32ce141fa0be300a90d1a96eb79b2630f",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Duna [4K]",  "imdb_id":"tt1160419",
+		"thumbnail":"https://www.themoviedb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+		"genre":"Ação, Aventura, Drama",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		 "title":"Bad Boys: Até o Fim [4K]",  "imdb_id":"tt4919268", "genre":"Ação",
+		"thumbnail":"https://en.yts-official.mx/movies/poster/bad-boys-ride-or-die-2024.jpg",
+		"link":[
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9a7fdd06c57762f18b2a6d55c6a2756fbfef3d2(4K Dublado)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2ad212c1f69b8c0c38498b7578480da8dc0f932(4K Legendado)"
+		],
+		"type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Um Lugar Silencioso: Dia Um [4K]", "genre":"Suspense",
+		"thumbnail":"https://en.yts-official.mx/movies/poster/a-quiet-place-day-one-2024.jpg",
+		"link":[
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d17ac13b165b9d24fb8ee8b691f9d09e60b23585(4K Dublado)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f5aa34aa53dac5e50335bf0866879de22c49a29(4K Legendado)"
+		],
+		"type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Guerra Civil [4K]",  "imdb_id":"tt17279496", "genre":"Action / Adventure / Thriller",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
+		"link":[
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6(4K Dublado)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4e73b621cfdca23fd6bd0b2981da962b3a97a1(4K Legendado)"
+		],
+		"type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Planeta dos Macacos: O Reinado [4K]",  "imdb_id":"tt11389872", "genre":"Guerra, Ação, Drama",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg",
+		"link":[
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6(4K Dublado)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:263dd9ac1b80630ad1a9ef4da58706ab05c556b8(4K Legendado)"
+		],
+		"type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Furiosa: Uma Saga Mad Max [4K]",  "imdb_id":"tt12037194", "genre":"Ação, Aventura, Ficção científica",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
+		"link":[
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b68bdc7e40f6f5dfb5a47edefe0fe7d037138bd(4K Dublado)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1eb28a9a0bb45fbb90e8934bab3dd38229aa20fd(4K Legendado)"
+		],
+		"type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Godzilla e Kong: O Novo Império [4K]",  "imdb_id":"tt14539740", "genre":"Ficção científica, Ação, Aventura",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fWSGD2yrzz6hscocnMD8AEXIThk.jpg",
+		"link":[
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c241986773a9cca12054fee5e1d220c7609b318(4K Dublado)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f80a9a98d476d8fdbb1ab58d207a86b81231509(4K Legendado)"
+		],
+		"type":"item"
+	},
+	{   
+	    "content":"movie",
+		"title":"Pobres Criaturas [4K]",  "imdb_id":"tt14230458",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/fS89P93Lq6pyT7d8ox8AMAEtXUs.jpg",
+		"genre":"Ficção científica, Romance, Comédia",
+		"released":"08.12.2023",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6299becdb7018cdc4bda81790b52684388461118",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Ghostbusters: Apocalipse de Gelo [4K]",  "imdb_id":"tt21235248",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boObGdocQS07Nu7IrettgA5oRTp.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/3IoSYT0gnuImnZ73rqYySJnmefA.jpg",
+		"genre":"Fantasia, Aventura, Comédia",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9a14efba897a5f0fab5baf2d6ecb51e39d802d1",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Matador de Aluguel [4K]",  "imdb_id":"tt3359350",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg",
+		"genre":"Ação, Thriller",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0686464282b55645a69c58955d0e7009ebbcf09f",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Rebel Moon - Parte 1: A Menina do Fogo [4K]",  "imdb_id":"tt14998742",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/sRLC052ieEzkQs9dEtPMfFxYkej.jpg",
+		"genre":"Ficção científica, Drama, Ação",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbbd707325b7856de918c645ac6fa6589d92c91f",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Rebel Moon - Parte 2: A Marcadora de Cicatrizes [4K]",  "imdb_id":"tt23137904",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg",
+		"genre":"Ficção científica, Ação, Drama",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4def973f78830cd57bc09966ab771a5fa9abbf1e",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"A Guerra do Amanhã [4K]",  "imdb_id":"tt9777666",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+		"genre":"Ação, Ficção científica, Aventura",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c97962345c2f14f82113e05386683c90d81cc5f",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Argylle: O Superespião [4K]",  "imdb_id":"tt15009428",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ojCiMpYmCciIFuEcgLOOGLbUND.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/8te0oIAuUOxi03RbM1SfL3xUYHB.jpg",
+		"genre":"Ação, Aventura, Comédia",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc1b845bdb460b99ffbe0b63523ad4e40a258ff4",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Passageiros [4K]",  "imdb_id":"tt1355644",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ttmnglFa2WxDK3yBkMX1VlpkTo.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+		"genre":"Drama, Romance, Ficção científica",
+		"released":"05.01.2017",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d944b7a81dd2087ad76f3f417719505df53490e",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Saltburn [4K]",  "imdb_id":"tt17351924",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qjhahNLSZ705B5JP92YMEYPocPz.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/nM0wz41xkEoVbRiEZLBAMaR9WfI.jpg",
+		"genre":"Drama, Comédia, Thriller",
+		"released":"22.12.2023",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31af5213f91014dca8381b3d433d22ee39e4f626",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"As Marvels [4K]",  "imdb_id":"tt10676048",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPmmgdmApfjX9x2mg02bo0aUOU9.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+		"genre":"Ficção científica, Aventura, Ação",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z5T7FUI5FWN5LK7V5L43UDQG6NCABEQE&dn=As%20Marvels%202023%20WEB-DL%202160p%20IMAX%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Beekeeper: Rede de Vingança [4K]",  "imdb_id":"tt15314262",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCGFvoxzaBbYM3I68s6F939fybN.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+		"genre":"Ação, Thriller, Drama",
+		"link":[
+		     "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LS6PRTRBR6KGZQT32VAXG3UKYMROOXBB&dn=The.Beekeeper.2024.2160p.WEB.H265-LilKim%5BTGx%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce(4K Legendado)",
+	         "http://ignore"
+	         ],
+		"type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Aquaman 2: O Reino Perdido [4K]",  "imdb_id":"tt9663764",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg",
+		"fanart":"https://image.tmdb.org/t/p/original/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg",
+		"genre":"Ação, Aventura, Fantasia",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44FXD7YFBJ2GJK3KUXZUAJ7JYYLFGLXG&dn=Aquaman%202%20-%20O%20Reino%20Perdido%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Wonka [4K]",  "imdb_id":"tt6166392",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AbkZUxkVZU8XhoRGkknu6cZUark.jpg",
+		"fanart":"https://www.themoviedb.org/t/p/original/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+		"genre":"Comédia, Família, Fantasia",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5A2QORKHNJYP4QTESJJHET47K2ZSTRB&dn=Wonka%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Napoleão [4K]",  "imdb_id":"tt13287846",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg",
+		"fanart":"https://www.themoviedb.org/t/p/original/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+		"genre":"Drama, História, Guerra",
+		"released":"22.11.2023",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PXG7YUTJVDOMA2J2SLB733KNVBTWRCYN&dn=Napole%C3%A3o%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Resistência [4K]",  "imdb_id":"tt6914122",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg",
+		"fanart":"https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+		"genre":"Ficção científica, Ação, Thriller",
+		"released":"28.09.2023",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VRBLCNJWOSSEYBXNSZ25MUDJECSRVL4Z&dn=Resist%C3%AAncia%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+	    "type":"item"
+	},
+	{
+		"content":"movie",
+		"title":"Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes [4K]",  "imdb_id":"tt10545296",
+		"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nM9U99IKbG9saAAq3fWdL7ifgWk.jpg",
+		"fanart":"https://www.themoviedb.org/t/p/original/rkGs0cMxWkMMBSrx3jugXzSCAAa.jpg",
+		"genre":"Ação, Aventura, Ficção científica",
+		"released":"15.11.2023",
+		"link":"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FET5JPNBYSVR67LNAMHILO7GNPIJEWID&dn=Jogos%20Vorazes%20-%20A%20Cantiga%20dos%20P%C3%A1ssaros%20e%20das%20Serpentes%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+	    "type":"item"
+	}
 ]
 }
