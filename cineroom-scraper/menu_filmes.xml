@@ -2,37 +2,37 @@
     "items": [
         {
             "type": "dir",
-            "title": "Recomendações",
+            "title": "[COLOR green]•[/COLOR][B]Recomendações[/B]",
 			"thumbnail": "https://archive.org/download/1700740365517/1700740365543.png",
             "link": "tmdb/movie/popular"
         },
         {
             "type": "dir",
-            "title": "Top 100",
+            "title": "[COLOR green]•[/COLOR][B]Top 100[/B]",
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
             "link": "tmdb/movie/top_rated"
         },
 		{
             "type": "dir",
-            "title": "Melhor Qualidade",
+            "title": "[COLOR green]•[/COLOR][B]Melhor Qualidade[/B]",
 			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml"
         },
 		{
             "type": "dir",
-            "title": "TMDb Categorias",
+            "title": "[COLOR green]•[/COLOR][B]TMDb Categorias[/B]",
 			"thumbnail": "https://archive.org/download/1700740365517/1700740365517.png",
             "link": "file://scraper_list.json"    
         },
         {
             "type": "dir",
-            "title": "[COLOR green]•[/COLOR][I]Informações[/I]",
+            "title": "[COLOR grayI]Info![/COLOR]",
 			"thumbnail": "https://archive.org/download/1700740365525/1700740365532.png",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/noticia_dodia.json"
         },  
 	{
             "type": "item",
-            "title": "[COLOR green]•[/COLOR][I]Limpar Cache[/I]",
+            "title": "[COLOR grayI]Limpar Cache[/COLOR]",
 	    "thumbnail":"https://archive.org/download/1700740365525/1700740365525.png",
             "link": "clear_cache"
         }
