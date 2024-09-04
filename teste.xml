@@ -233,6 +233,7 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
             "genre": "Drama, História, Guerra",
+            "released": "22.11.2023",
             "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PXG7YUTJVDOMA2J2SLB733KNVBTWRCYN&dn=Napole%C3%A3o%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
             "type": "item"
         },
@@ -243,6 +244,7 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
             "genre": "Ficção científica, Ação, Thriller",
+            "released": "28.09.2023",
             "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VRBLCNJWOSSEYBXNSZ25MUDJECSRVL4Z&dn=Resist%C3%AAncia%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
             "type": "item"
         },
@@ -253,7 +255,327 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nM9U99IKbG9saAAq3fWdL7ifgWk.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/rkGs0cMxWkMMBSrx3jugXzSCAAa.jpg",
             "genre": "Ação, Aventura, Ficção científica",
+            "released": "15.11.2023",
             "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FET5JPNBYSVR67LNAMHILO7GNPIJEWID&dn=Jogos%20Vorazes%20-%20A%20Cantiga%20dos%20P%C3%A1ssaros%20e%20das%20Serpentes%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Jogador Nº 1 [4K]",
+            "imdb_id": "tt1677720",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LVitl8xzLi11ibfzgsmjGF6GGc.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+            "genre": "Aventura, Ação, Ficção científica",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a686598aea1739c047cbe66fb60d9af166a509e",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Assassinos da Lua das Flores [4K]",
+            "imdb_id": "tt5537002",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/wCte7A4O2L7CAiw70fbFuvkngA7.jpg",
+            "genre": "Crime, Drama, História",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb23e237e6e9b1aaccb594e11f8b4c1ae981e0b7",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Indiana Jones e a Relíquia do Destino [4K]",
+            "imdb_id": "tt1462764",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/9m161GawbY3cWxe6txd1NOHTjd0.jpg",
+            "genre": "Aventura, Ação",
+            "released": "28.06.2023",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08746c260b3d10cf3c90c1a236a2e6f23f9ce586",
+            "type": "item"
+        },
+        {
+            "title": "Oppenheimer [4K]",
+            "imdb_id": "tt15398776",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvaI1gezzvhkKid00goKxz9fAso.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+            "genre": "Drama, História",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RRVESYMH3KWRMEHJ2CAHDSUL5JZQAWQ2&dn=VAMOSTORRENT.COM..MKV.Oppenheimer%202023%20BluRay%202160p%20x265%20IMAX%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Interestelar [4K]",
+            "imdb_id": "tt0816692",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5669c94c766f76a380ef9e113462585cd5468c56",
+            "thumbnail": "https://image.tmdb.org/t/p/w342/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
+            "genre": "4K",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Perdido em Marte [4K]",
+            "imdb_id": "tt3659388",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caef0861f0944fbf707467ab74fd6807568f44ed",
+            "thumbnail": "https://image.tmdb.org/t/p/w342/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg",
+            "genre": "4K",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "O Protetor: Capitulo Final [4K]",
+            "imdb_id": "tt17024450",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e947df0a8f96d6b23f05cb5c6d493965bc1dfff&dn=O%20Protetor%20-%20Capitulo%20Final%202023%202160p%204K%20WEBRip%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVHBEX96zMjMw0YExFWsKW9Er1i.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+            "genre": "Ação, Thriller, Crime",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Missão: Impossível – Acerto de Contas Parte 1 [4K]",
+            "imdb_id": "tt9603212",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5318fdde1bb1d187fb13297e52626fe330bdff",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/w500_and_h282_face/bYJv39whWTAOWO0mv7oUija8GgM.jpg",
+            "genre": "Ação, Thriller, Aventura",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Mansão Mal-Assombrada [4K]",
+            "imdb_id": "tt1695843",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8703c22660a32cb3714d523fd22bfe3a4018beae",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3puybXuYPlZPRplIVSrExZnWibb.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg",
+            "genre": "Fantasia, Comédia",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "A Freira 2 [4K]",
+            "imdb_id": "tt10160976",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9e9ace5837b3851eea7cdd6f162701ab36c83d6",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/2yjrmdQwYIVWlhCSWD5ZeI7F6zK.jpg",
+            "genre": "Terror, Mistério, Thriller",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Gran Turismo [4K]",
+            "imdb_id": "tt4495098",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5204989498d8001b2822d3423f493fc64d5a0b33",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ma2TOWO9BkK7zyc0R2dZOIWuaA.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/3wtifTCVwqSyXF924FLkRpVRjYw.jpg",
+            "genre": "Ação, Drama, Aventura",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Besouro Azul [4K]",
+            "imdb_id": "tt9362930",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e22defe6c98f2451a536ada1a87b419aaa936bff",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg",
+            "genre": "Ação, Ficção científica",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "As Tartarugas Ninja: Caos Mutante [4K]",
+            "imdb_id": "tt8589698",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bbced5391019df6a154b5ce5fe7ecae3b97f921",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg",
+            "genre": "Animação, Comédia, Ação",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Elementos [4K]",
+            "imdb_id": "tt15789038",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9ef5d817b262186557cd62ed1e799be8695d896",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cveXFCRCrxdARM3Gel0pRCKsssJ.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/w500_and_h282_face/it7yPSgca2VEJyXAqgjfaccgvJm.jpg",
+            "genre": "Animação, Comédia, Família, Fantasia, Romance",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Barbie [4K]",
+            "imdb_id": "tt1517268",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7b973f237c1902d345e4239f4cbad709f77b76c",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/w500_and_h282_face/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+            "genre": "Comédia, Aventura, Fantasia",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "A Pequena Sereia [4K]",
+            "imdb_id": "tt5171474",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3fc138735bf5ac46112a77cd099d491e1cc5312",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/znUYFf0Sez5lUmxPr3Cby7TVJ6c.jpg",
+            "genre": "Aventura, Família, Fantasia, Romance",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Homem-Aranha: Através do Aranhaverso [4K]",
+            "imdb_id": "tt9362722",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5874a93880ec22d4422230364f61ac9360a6442b",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6a7NItazspSV8Fl7u46ccxwPKk4.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/dlebyCnmdwXtJfHNicBYhudz5EJ.jpg",
+            "genre": "Ação, Aventura, Animação, Ficção científica",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Sobrenatural: A Porta Vermelha [4K]",
+            "imdb_id": "tt13405778",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9b40ad59118e43000b1beee06d762058623d6a",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2XloB9BYZtMzWOR78uguOoCfH5.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
+            "genre": "Terror, Mistério, Thriller",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Guardiões da Galáxia: Vol. 3 [4K]",
+            "imdb_id": "tt6791350",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5d6b816afc9aef93b7e0d6e340a9de87e4382d&dn=Guardioes.da.Galaxia.Vol.3.2023.2160p.BluRay.IMAX.HDR.x265.DUAL-LAPUMiA.mkv&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.birkenwald.de%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2970%2fannounce&tr=https%3a%2f%2ftracker.foreverpirates.co%3a443%2fannounce&tr=http%3a%2f%2fvps02.net.orel.ru%3a80%2fannounce",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttkTwdSx21AB1EDastR6xwMC2PT.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg",
+            "genre": "Ficção científica, Aventura, Ação",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Transformers: O Despertar das Feras [4K]",
+            "imdb_id": "tt5090568",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34363705cc85d6c12c4d180f9b5cf50821f5dd52",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/woJbg7ZqidhpvqFGGMRhWQNoxwa.jpg",
+            "genre": "Ação, Aventura, Ficção científica",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "The Flash [4K]",
+            "imdb_id": "tt0439572",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WO3WSINNF3NSS4NGJXXUNY7VPUSDN6MQ&dn=The%20Flash%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/w500_and_h282_face/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+            "genre": "Ficção científica, Ação, Aventura",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Velozes e Furiosos 10 [4K]",
+            "imdb_id": "tt5433140",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c01859ac1335d63771bc4b1157af1be248cda59a",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/cEyhk8tZWubni71M6plwLMQFOIX.jpg",
+            "genre": "Ação, Crime, Thriller",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "John Wick: Baba Yaga [4K]",
+            "imdb_id": "tt10366206",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9384ad0be79850ca635841c8d5ac2a8b11449a72",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ns9CNHY25J18rEsTjGTPd0Ui9tf.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/shaz5Y1GA1hy9BtgHij6gd0AcY0.jpg",
+            "genre": "Ação, Thriller, Crime",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Super Mario Bros.: O Filme [4K]",
+            "imdb_id": "tt6718170",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d9cee0f0a19256d9855e49967900fdaefb6933",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "genre": "Animação, Aventura, Família, Fantasia, Comédia",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Dungeons & Dragons: Honra Entre Rebeldes [4K]",
+            "imdb_id": "tt2906216",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b7564cf285b6d7f699567f181fd73c4935c6fe",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/fh7aM10THQzivGU7kAkgKrgzot4.jpg",
+            "genre": "Ação, Aventura, Fantasia, Comédia",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Avatar: O Caminho da Água [4K]",
+            "imdb_id": "tt1630029",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f18771276b7efad91da5352e92c71fb261131ffc",
+            "thumbnail": "https://www.themoviedb.org/t/p/original/94xxm5701CzOdJdUEdIuwqZaowx.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+            "genre": "Ficção científica, Ação, Aventura",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Gato de Botas 2: O Último Pedido [4K]",
+            "imdb_id": "tt3915174",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b6145a5d55c17ff6436ca233d1b94457ff1a419",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NBNqJiaHeCmqDqkCmrRplJXw.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
+            "genre": "Animação/Aventura",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Pantera Negra: Wakanda Para Sempre [4K] [Remux]",
+            "imdb_id": "tt9114286",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59501332d345aaa93bbffa95c701f1091ad8a2cf",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tb0qiqLN9szHPA4i0kY38oaWew.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+            "genre": "Ação, Aventura, Ficção científica",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Adão Negro [4K]",
+            "imdb_id": "tt6443346",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e5af3191a58388ed33d1060caaf6c93638734a",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg",
+            "genre": "Ação, Ficção",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Não! Não Olhe! [4K]",
+            "imdb_id": "tt10954984",
+            "link": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c35b94eaf3fd82ea375b11639d31ef66291e4377(4K Dublado)",
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d3d809bcd419fe968517e6624c3df815633614d(4K Legendado)"
+            ],
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg",
+            "genre": "Terror, Mistério, Ficção científica, Thriller",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Tron: O Legado [4K]",
+            "imdb_id": "tt1104001",
+            "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fc375528fd26350f61ec2616ae920c6be474a7f",
+            "thumbnail": "https://image.tmdb.org/t/p/original/wlHzvzXE9AvMgrVsKHg2PweC3aC.jpg",
+            "genre": "Ficção Científica, Ação",
+            "type": "item"
+        },
+        {
+            "content": "movie",
+            "title": "Trem-Bala [4K]",
+            "imdb_id": "tt12593682",
+            "thumbnail": "https://www.themoviedb.org/t/p/original/6moyjAEMV9OZ3EurotIX0mPiK6y.jpg",
+            "link": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf0f278b601bdaf826c000a2b008036b5ce7cd56(4K Dublado)",
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2576a969c8d7645d242ca71573b5bf1fc90454c4(4K Legendado)"
+            ],
             "type": "item"
         }
     ]
