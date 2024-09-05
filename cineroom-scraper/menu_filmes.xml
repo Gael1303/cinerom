@@ -8,15 +8,21 @@
         },
         {
             "type": "dir",
-            "title": "[COLOR red]•[/COLOR]Top 100",
+            "title": "[COLOR red]•[/COLOR]Coletaneas",
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
-            "link": "tmdb/movie/top_rated"
+            "link": "password//"
         },
 		{
             "type": "dir",
             "title": "[COLOR green]•[/COLOR]Melhor Qualidade",
 			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR red]•[/COLOR]Top 250 (Séries)",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": "password//tmdb/movie/top_rated"
         },
 		{
             "type": "dir",
