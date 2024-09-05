@@ -8,7 +8,11 @@
 		<info>Filmes populares TMDB</info>
 		<items>
 			<item>
-				<title>Meu Malvado Favorito 4 (2024)</title>
+				<title>Meu Malvado Favorito 4</title>
+                              <meta>
+				<imdb>tt1323594</imdb>
+				<year>2023</year>
+				</meta>
 				<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d3ea5871d6cbac6cbcd0d45d72448273e4284088</link>
 				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wISieKsABnOKgNlbNLuuMmIrhem.jpg</thumbnail>
 				<fanart>https://image.tmdb.org/t/p/original/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg</fanart>
