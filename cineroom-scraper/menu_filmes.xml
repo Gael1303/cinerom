@@ -2,37 +2,37 @@
     "items": [
         {
             "type": "dir",
-            "title": "[COLOR red]•[/COLOR][B]Recomendações[/B]",
+            "title": "[COLOR green]•[/COLOR]Recomendações da Semana",
 			"thumbnail": "https://archive.org/download/1700740365517/1700740365543.png",
-            "link": "tmdb/movie/popular"
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/movies/fds.xml"
         },
         {
             "type": "dir",
-            "title": "[COLOR red]•[/COLOR][B]Top 100[/B]",
+            "title": "[COLOR red]•[/COLOR]Top 100",
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
             "link": "tmdb/movie/top_rated"
         },
 		{
             "type": "dir",
-            "title": "[COLOR green]•[/COLOR][B]Melhor Qualidade[/B]",
+            "title": "[COLOR green]•[/COLOR]Melhor Qualidade",
 			"thumbnail": "https://archive.org/download/1700740365675/1700740365675.png",
             "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/teste.xml"
         },
 		{
             "type": "dir",
-            "title": "[COLOR green]•[/COLOR][B]TMDb Categorias[/B]",
+            "title": "[COLOR green]•[/COLOR]TMDb Categorias",
 			"thumbnail": "https://archive.org/download/1700740365517/1700740365517.png",
             "link": "file://scraper_list.json"    
         },
         {
             "type": "item",
-            "title": "[COLOR grayI]Info[/COLOR]",
+            "title": "[COLOR slategrey]Info[/COLOR]",
 			"thumbnail": "https://archive.org/download/1700740365525/1700740365532.png",
             "link": "message/https://raw.githubusercontent.com/Gael1303/cinerom/main/cineroom-scraper/info.xml"
         },  
 	{
             "type": "item",
-            "title": "[COLOR grayI]Cache[/COLOR]",
+            "title": "[COLOR slategrey]Cache[/COLOR]",
 	    "thumbnail":"https://archive.org/download/1700740365525/1700740365525.png",
             "link": "clear_cache"
         }
