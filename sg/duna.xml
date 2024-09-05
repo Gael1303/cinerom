@@ -5,7 +5,7 @@
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg</thumbnail>
 		<meta>
 			<content>movie</content>
-			<imdb_id>tt1160419</imdb_id>
+			<imdb>tt1160419</imdb>
 			<year>2021</year>
 			<genre>Adventure, Science Fiction</genre>
 		</meta>
@@ -17,7 +17,7 @@
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg</thumbnail>
 		<meta>
 			<content>movie</content>
-			<imdb_id>tt15239678</imdb_id>
+			<imdb>tt15239678</imdb>
 			<year>2024</year>
 			<genre>Adventure, Science Fiction</genre>
 		</meta>
