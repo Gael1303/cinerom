@@ -1,7 +1,7 @@
 <items>
     <item>
         <title>Piratas do Caribe: A Maldição do Pérola Negra (2003)</title>
-        <link>search</link>
+        <link>search_tmdb</link>
         <thumbnail>https://image.tmdb.org/t/p/w342/l8k1HTLnaOIgvqvK6HVfPOARW6o.jpg</thumbnail>
         <genre>Adventure, Fantasy, Action</genre>
         <meta>
@@ -13,7 +13,7 @@
     </item>
     <item>
         <title>Piratas do Caribe: O Baú da Morte (2006)</title>
-        <link>search</link>
+        <link>search_tmdbhelper</link>
         <thumbnail>https://image.tmdb.org/t/p/w342/wdpn19X0hU8C6AAhOjZZTAEZPrK.jpg</thumbnail>
         <genre>Adventure, Fantasy, Action</genre>
         <meta>
@@ -25,7 +25,7 @@
     </item>
     <item>
         <title>Piratas do Caribe: No Fim do Mundo (2007)</title>
-        <link>search</link>
+        <link>search_tmdb_helper</link>
         <thumbnail>https://image.tmdb.org/t/p/w342/joJDVoXWtbFrs8Gv41NfYhSc9wK.jpg</thumbnail>
         <genre>Adventure, Fantasy, Action</genre>
         <meta>
