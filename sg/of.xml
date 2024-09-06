@@ -1,0 +1,38 @@
+<items>
+	<item>
+		<title>Olhos Famintos</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f6c467424b33f05586218812cf678845865c4b27</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/jPiaAL3hOAexYnw5JMCwJT0xjgm.jpg</thumbnail>
+		<genre>Drama, Horror, Thriller, Mystery</genre>
+		<meta>
+			<content>movie</content>
+			<tmdb>tt0263488</tmdb>
+			<year>2001</year>
+			<genre>Drama, Horror, Thriller, Mystery</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Olhos Famintos 2</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6f2edb5b634442698c6fd1b916709d47c17ab643</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/pRCiGoJfC5z4OaRDpdwd6nyyRVu.jpg</thumbnail>
+		<genre>Drama, Horror, Thriller, Mystery</genre>
+		<meta>
+			<content>movie</content>
+			<tmdb>1577</tmdb>
+			<year>2003</year>
+			<genre>Drama, Horror, Thriller, Mystery</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Olhos Famintos 3</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f98685133f9559d05c615b972d6d2626cd202c46</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/kBt4WTZu681CT00r6lbyv5BXbmM.jpg</thumbnail>
+		<genre>Drama, Horror, Thriller, Mystery</genre>
+		<meta>
+			<content>movie</content>
+			<tmdb>347031</tmdb>
+			<year>2017</year>
+			<genre>Drama, Horror, Thriller, Mystery</genre>
+		</meta>
+	</item>
+</items>
