@@ -1,0 +1,50 @@
+<items>
+	<item>
+		<title>Os Mercenários (2010)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a9b3a456a42801de0178b31b6297f345921243</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/tTfRV9lOBi3YDJpYXqbj4Ai04g2.jpg</thumbnail>
+		<genre>Adventure, Action, Thriller</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1320253</imdb>
+			<year>2010</year>
+			<genre>Adventure, Action, Thriller</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Os Mercenários 2 (2012)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71a74d101c5282e0cd3557ef1336a220dded6c7d</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg</thumbnail>
+		<genre>Adventure, Action, Thriller</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1764651</imdb>
+			<year>2012</year>
+			<genre>Adventure, Action, Thriller</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Os Mercenários 3 (2014)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eaabd441c212fbe532fdcad8b940b491e2a58626</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg</thumbnail>
+		<genre>Adventure, Action, Thriller</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt2333784</imdb>
+			<year>2014</year>
+			<genre>Adventure, Action, Thriller</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Os Mercenários 4 (2023)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98e7cfe00a8ebbc028fbf71e093f97eb459b69b8</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mVgPlKHUxXJhD9H0cCMzwJO4Ssv.jpg</thumbnail>
+		<genre>Adventure, Action, Thriller</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt3291150</imdb>
+			<year>2023</year>
+			<genre>Adventure, Action, Thriller</genre>
+		</meta>
+	</item>
+</items>
