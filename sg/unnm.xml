@@ -1,0 +1,40 @@
+<items>
+	<item>
+		<title>Uma Noite no Museu</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=efd33060ff7200e715d093bb1b9384671be28c5a</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/kOQglSvPTifAVo41HUKmbt915u4.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt0477347</imdb>
+			<year>2006</year>
+			<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		</meta>
+	</item>
+	
+	<item>
+		<title>Uma Noite no Museu 2</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6fa517fc233dccfd4b274ca8e3bce8222a0bb44a</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/9nybhG2tnYNl2a8MpKFWml9SHl5.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1078912</imdb>
+			<year>2009</year>
+			<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		</meta>
+	</item>
+	
+	<item>
+		<title>Uma Noite no Museu 3</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7fdc3de80671b72260c4d202e0fc5698eae390e0</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/pXUy4komfGJGAjc1JTAS7zaTK1.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt2692250</imdb>
+			<year>2014</year>
+			<genre>Adventure, Fantasy, Action, Comedy, Family</genre>
+		</meta>
+	</item>
+</items>
