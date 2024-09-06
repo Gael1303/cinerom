@@ -6,7 +6,7 @@
 		<genre>Drama, Horror, Thriller, Mystery</genre>
 		<meta>
 			<content>movie</content>
-			<tmdb>tt0263488</tmdb>
+			<tmdb_id>tt0263488</tmdb_id>
 			<year>2001</year>
 			<genre>Drama, Horror, Thriller, Mystery</genre>
 		</meta>
@@ -18,7 +18,7 @@
 		<genre>Drama, Horror, Thriller, Mystery</genre>
 		<meta>
 			<content>movie</content>
-			<tmdb>1577</tmdb>
+			<tmdb_id>1577</tmdb_id>
 			<year>2003</year>
 			<genre>Drama, Horror, Thriller, Mystery</genre>
 		</meta>
