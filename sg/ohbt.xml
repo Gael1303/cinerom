@@ -1,0 +1,40 @@
+<items>
+	<item>
+		<title>O Hobbit: Uma Jornada Inesperada (2012)</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=060282019762771c2882c27eefb5339ff904add0</link>
+		<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/91/86/25/20180397.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt0903624</imdb>
+			<year>2012</year>
+			<genre>Adventure, Fantasy, Action</genre>
+		</meta>
+	</item>
+	
+	<item>
+		<title>O Hobbit: A Desolação de Smaug (2013)</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=781c81e935217c7601fcb67dd4191dc67e81fd01</link>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/210/571/21057125_20131112201221324.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1170358</imdb>
+			<year>2013</year>
+			<genre>Adventure, Fantasy, Action</genre>
+		</meta>
+	</item>
+	
+	<item>
+		<title>O Hobbit: A Batalha dos Cinco Exércitos (2014)</title>
+		<link>plugin://plugin.video.jacktorr/play_magnet?magnet=dc962646954fb66aa1648f4adc573eef868b3014</link>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/0e/The_Hobbit_-_The_Battle_of_the_Five_Armies.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt2310332</imdb>
+			<year>2014</year>
+			<genre>Adventure, Fantasy, Action</genre>
+		</meta>
+	</item>
+</items>
