@@ -1,0 +1,26 @@
+<items>
+    <item>
+        <title>Rebel Moon – Parte 1: A Menina do Fogo (2023)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95d54a30f26814ee98388e0351482f4005ed9785</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/jBrE2Eq3XWqyth4VfDhTZHqR2OX.jpg</thumbnail>
+        <genre>Drama, Action, Science Fiction</genre>
+        <meta>
+            <content>movie</content>
+            <imdb>tt14998742</imdb>
+            <year>2023</year>
+            <genre>Drama, Action, Science Fiction</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Rebel Moon – Parte 2: A Marcadora de Cicatrizes (2024)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:164666f0d67fb626f4a53d25097e94e3b3fc7561</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/keBIsy6HV1Vx8DVaKpCyIkyUMrO.jpg</thumbnail>
+        <genre>Drama, Action, Science Fiction</genre>
+        <meta>
+            <content>movie</content>
+            <imdb>tt23137904</imdb>
+            <year>2024</year>
+            <genre>Drama, Action, Science Fiction</genre>
+        </meta>
+    </item>
+</items>
