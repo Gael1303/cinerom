@@ -1,0 +1,36 @@
+<items>
+    <item>
+        <title>Creed: Nascido para Lutar (2015)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2787f7de5bf7dfb4cef21e42ae1a0794c44dd3d1</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt3076658</imdb>
+            <year>2015</year>
+            <genre>Drama, Ação</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Creed II (2018)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5af381794772ef0f9dadc280ced3354a436df219</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/qPQFWrLoQYyGxmeBgmpX901Q0mF.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt6343314</imdb>
+            <year>2018</year>
+            <genre>Drama, Ação</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Creed III (2023)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UP62MPRSQX65EACHVVSTDJWGVMRUIBBL&dn=Creed%20III%202023%201080p%20FULL%20WEB-DL%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1qvuETSpeB02PvwUhwt2HwKAbbp.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/original/26YLjaC1udGEmSvlM1P5eBGWO5h.jpg</fanart>
+        <meta>
+            <content>movie</content>
+            <imdb>tt11145118</imdb>
+            <year>2023</year>
+            <genre>Drama, Ação</genre>
+        </meta>
+    </item>
+</items>
