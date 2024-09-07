@@ -1,0 +1,38 @@
+<items>
+	<item>
+		<title>Deadpool (2016)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aa5f34b8e73a7bdf34aefde9a4f24559fab8a29</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3E53WEZJqP6aM84D8CckXx4pIHw.jpg</thumbnail>
+		<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1431045</imdb>
+			<year>2016</year>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Deadpool 2 (2018)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb3138c1ca8eddee036dde5917e5b4a90efee967</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg</thumbnail>
+		<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt5463162</imdb>
+			<year>2018</year>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</meta>
+	</item>
+	<item>
+		<title>[COLOR red]Deadpool & Wolverine (2024)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+		<thumbnail>https://image.tmdb.org/t/p/original/wRSLdSupaU9McDbCFVdZw0gzhrU.jpg</thumbnail>
+		<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt6263850</imdb>
+			<year>2024</year>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</meta>
+	</item>
+</items>
