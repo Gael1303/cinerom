@@ -1,0 +1,38 @@
+<items>
+	<item>
+		<title>Quarteto Fantástico</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c80881e2a3ff0456b2297e32cdf5f451f7c98bd</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/l7NpBV9CrHGTmUuLZbWTjsOFVal.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt0120667</imdb>
+			<year>2005</year>
+			<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Quarteto Fantástico e o Surfista Prateado</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50005e771b2797939494e97701d66269d011918e</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/5sF9Bv5J73nAz7Co3KW6BvVPisV.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt0486576</imdb>
+			<year>2007</year>
+			<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Quarteto Fantástico 3</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d5c1627ece81bc2e562c2ca77159446fc470f4c</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/XJ8jZ4hGyusnN41NnxR0vv5ghS.jpg</thumbnail>
+		<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1502712</imdb>
+			<year>2015</year>
+			<genre>Adventure, Fantasy, Action, Science Fiction</genre>
+		</meta>
+	</item>
+</items>
