@@ -1,0 +1,35 @@
+<items>
+    <item>
+        <title>Annabelle (2014)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98a992d97bf90f4c0f7efc96933a7bb74542d6a1</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/jNFqmsulwUrhYQW3MvqzfMc7SdS.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt3322940</imdb>
+            <year>2014</year>
+            <genre>Horror</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Annabelle 2: A Criação do Mal (2017)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccb5741e7f3c6cfc1fa5f29a448134105735676f</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/AtlcH0f8mEQGKVIBSgV4GgkTZMr.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt5140878</imdb>
+            <year>2017</year>
+            <genre>Horror</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Annabelle 3: De Volta Para Casa (2019)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:914c194eddbf764c949d136c9f79e7e4b60bb442</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt8350360</imdb>
+            <year>2019</year>
+            <genre>Horror</genre>
+        </meta>
+    </item>
+</items>
