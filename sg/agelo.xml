@@ -1,0 +1,68 @@
+<items>
+	<item>
+		<title>A Era do Gelo</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51620cef897920b1a2455518f492fc1db50e5a15</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/mjRmQ3oGyJdc16sg4ZupyGhSXii.jpg</thumbnail>
+		<genre>Animação/Família/Comédia/Aventura</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt0268380</imdb>
+			<year>2002</year>
+			<genre>Animation, Family, Comedy, Adventure</genre>
+		</meta>
+	</item>
+	<item>
+		<title>A Era do Gelo 2</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95d1cd38cf285d5660945c27f199798fd7422911</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/ikhU4KSoE6lihqWVGgSNkYemfvT.jpg</thumbnail>
+		<genre>Animação/Família/Comédia/Aventura</genre>
+		<meta>
+			<content>movie</content>
+			<imdb>tt0438097</imdb>
+			<year>2006</year>
+			<genre>Animation, Family, Comedy, Adventure</genre>
+		</meta>
+	</item>
+	<item>
+		<title>A Era do Gelo 3</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f132bfeacfb4490e134a16b1355a86a321025aa1</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/tpvU1rXCNoXiAVkzv12NJToIV5P.jpg</thumbnail>
+		<genre>Animação/Comédia/Família/Aventura</genre>
+		<aired>2009/07/01</aired>
+		<duration>5640</duration>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1080016</imdb>
+			<year>2009</year>
+			<genre>Animation, Comedy, Family, Adventure</genre>
+		</meta>
+	</item>
+	<item>
+		<title>A Era do Gelo 4</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5b7b809f3896623fc1e04eab96224a109eb198</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/jhkLlbACjti51Pkh0tt0UaS7ij2.jpg</thumbnail>
+		<genre>Animação/Comédia/Aventura/Família</genre>
+		<aired>2012/06/29</aired>
+		<duration>5280</duration>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1667889</imdb>
+			<year>2012</year>
+			<genre>Animation, Comedy, Adventure, Family</genre>
+		</meta>
+	</item>
+	<item>
+		<title>A Era do Gelo: O Big Bang</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9c0e3c6780f40fab6e754b8f48e6de47c7eaaa5</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg</thumbnail>
+		<genre>Aventura/Animação/Família/Comédia/Ficção Científica</genre>
+		<aired>2016/07/07</aired>
+		<duration>5700</duration>
+		<meta>
+			<content>movie</content>
+			<imdb>tt3416828</imdb>
+			<year>2016</year>
+			<genre>Adventure, Animation, Family, Comedy, Science Fiction</genre>
+		</meta>
+	</item>
+</items>
