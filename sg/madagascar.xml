@@ -1,3 +1,4 @@
+<items>
 <item>
     <title>Madagascar</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b370a17c661e7c9d4f1542e05374002efcc5b067</link>
@@ -37,3 +38,4 @@
         <genre>Adventure, Animation, Comedy, Family</genre>
     </meta>
 </item>
+</items>
