@@ -1,0 +1,24 @@
+<items>
+	<item>
+		<title>Anjos da Lei (2012)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98d6d16f52c5d7d36f1e5df26591cd2af8c90f10</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rVQmXioizm9bJJlYT03wEHU24h6.jpg</thumbnail>
+		<meta>
+			<content>movie</content>
+			<imdb>tt1232829</imdb>
+			<year>2012</year>
+			<genre>Action, Comedy, Crime</genre>
+		</meta>
+	</item>
+	<item>
+		<title>Anjos da Lei 2 (2014)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37a9e6503ba65c02c5554148ffec860a37598f5a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6WSL1FmxCswB08Vkz19yoXs56l.jpg</thumbnail>
+		<meta>
+			<content>movie</content>
+			<imdb>tt2294449</imdb>
+			<year>2014</year>
+			<genre>Action, Comedy, Crime</genre>
+		</meta>
+	</item>
+</items>
