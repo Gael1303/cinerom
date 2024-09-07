@@ -1,0 +1,41 @@
+<items>
+    <item>
+        <title>A Escolha Perfeita (2012)</title>
+        <genre>Comédia, Musical</genre>
+        <duration>5400</duration>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84a66c1492cb770649dfa1ebd4fb64d1a2034335</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/pRpCQyiylNYcCzyyYHUCyf4yLm6.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt1981677</imdb>
+            <year>2012</year>
+            <genre>Comedy, Musical</genre>
+        </meta>
+    </item>
+    <item>
+        <title>A Escolha Perfeita 2 (2015)</title>
+        <genre>Comédia, Musical</genre>
+        <duration>5400</duration>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3c0b165c14b407139154d8c76db773281bccf86</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/2EOgcQMgfx2iwnvwyiOuSgthVa8.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt2112851</imdb>
+            <year>2015</year>
+            <genre>Comedy, Musical</genre>
+        </meta>
+    </item>
+    <item>
+        <title>A Escolha Perfeita 3 (2017)</title>
+        <genre>Comédia, Musical</genre>
+        <duration>5400</duration>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f894670c78b42e4d6dd7b0eda875fcf74c6f8615</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt4620700</imdb>
+            <year>2017</year>
+            <genre>Comedy, Musical</genre>
+        </meta>
+    </item>
+</items>
