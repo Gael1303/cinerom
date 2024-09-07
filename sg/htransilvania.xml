@@ -1,0 +1,58 @@
+<items>
+    <item>
+        <title>Hotel Transilvania (2012)</title>
+        <genre>Animação, Comédia, Família, Fantasia</genre>
+        <aired>2012/10/05</aired>
+        <duration>5460</duration>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:405771e3bc07cc365555258c4417fb09a0f40fe7</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/c8xgxYJHmIHHREFxlNqUD23kvvc.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0837562</imdb>
+            <year>2012</year>
+            <genre>Animação, Comédia, Família, Fantasia</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Hotel Transilvania 2 (2015)</title>
+        <genre>Animação, Comédia, Família, Fantasia</genre>
+        <aired>2015/09/24</aired>
+        <duration>5460</duration>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d5dafb2bca4584dde29dbb28e48b6f4b4531533</link>
+        <thumbnail>https://i.imgur.com/84VNvDu.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt2510894</imdb>
+            <year>2015</year>
+            <genre>Animação, Comédia, Família, Fantasia</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Hotel Transilvania 3 (2018)</title>
+        <genre>Animação, Comédia, Família, Fantasia</genre>
+        <aired>2018/07/12</aired>
+        <duration>5460</duration>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87fe6d58e8e7e7dcefcb677856d9a3026e5dfc11</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/3ji1aJB052iPLnnzL082It683Nr.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt5220122</imdb>
+            <year>2018</year>
+            <genre>Animação, Comédia, Família, Fantasia</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Hotel Transilvania: Transformonstrao (2022)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f45ebc0b828623a3b679a2840cd3e33e635d8a36</link>
+        <thumbnail>https://cdn.fstatic.com/media/movies/covers/2021/06/E38F2XYX0AE6mGW.jpg</thumbnail>
+        <genre>Animação, Comédia, Família, Fantasia</genre>
+        <aired>2022/01/14</aired>
+        <duration>5460</duration>
+        <meta>
+            <content>movie</content>
+            <imdb>tt9848626</imdb>
+            <year>2022</year>
+            <genre>Animação, Comédia, Família, Fantasia</genre>
+        </meta>
+    </item>
+</items>
