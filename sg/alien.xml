@@ -1,0 +1,68 @@
+<items>
+    <item>
+        <title>Alien, o Oitavo Passageiro (1979)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a84ca78c2e5dbf9faf547db2ee84c70933abd1c</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/t0VpOjqwobTpQK2SEZpXlqt5cqY.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0078748</imdb>
+            <year>1979</year>
+            <genre>Horror, Sci-Fi</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Aliens, o Resgate (1986)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a897bd47b83f9994bc6a4209a28cb242b4780bd</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/s0f51j1dbrDwCgJsL4jrz7difVq.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0090605</imdb>
+            <year>1986</year>
+            <genre>Action, Adventure, Sci-Fi</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Alien 3 (1992)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4537dd7c38250d61bdcfd785a80249c470bb49dc</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/iexhTEw0JEqUbivqXhuwBfFBrB3.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0103644</imdb>
+            <year>1992</year>
+            <genre>Action, Horror, Sci-Fi</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Alien, a Ressurreição (1997)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05fc89738ae78fac9c2fdf1ab7691edb23eb87f1</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/hOHaqkOBzLBBQVCec9e9AQC54c0.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0118583</imdb>
+            <year>1997</year>
+            <genre>Action, Horror, Sci-Fi</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Prometheus (2012)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce9161945ed4f0048dc15dd2a336c368c4380b5b</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/omy5CiDMQnGqQUEJ9gNLOGPZQFW.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt1446714</imdb>
+            <year>2012</year>
+            <genre>Adventure, Sci-Fi</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Alien Covenant (2017)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f316c501600e8b0cd8da97eccc8801cc89b65ae</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt2316204</imdb>
+            <year>2017</year>
+            <genre>Horror, Sci-Fi, Thriller</genre>
+        </meta>
+    </item>
+</items>
