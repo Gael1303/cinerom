@@ -1,0 +1,38 @@
+<items>
+    <item>
+        <title>Como Treinar o Seu Dragão (2010)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f37d43d0ea8130f5434bdd588a504280b1bbc3ed</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/sLpQSFj8A5jyUZStwzWfKpoJoAx.jpg</thumbnail>
+        <genre>Animação, Comédia</genre>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0892769</imdb>
+            <year>2010</year>
+            <genre>Animação, Comédia</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Como Treinar o Seu Dragão 2 (2014)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eb7709a26f9f98abb9112291c883c5ade64f2d1</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/brmRmSagvnQVgIw1lBF4CaKpaoU.jpg</thumbnail>
+        <genre>Animação, Comédia</genre>
+        <meta>
+            <content>movie</content>
+            <imdb>tt1646971</imdb>
+            <year>2014</year>
+            <genre>Animação, Comédia</genre>
+        </meta>
+    </item>
+    <item>
+        <title>Como Treinar o Seu Dragão 3 (2019)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96cc1b82a2e271ef37971469ef2a4e1fe22946f2</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg</thumbnail>
+        <genre>Animação, Comédia</genre>
+        <meta>
+            <content>movie</content>
+            <imdb>tt2386490</imdb>
+            <year>2019</year>
+            <genre>Animação, Comédia</genre>
+        </meta>
+    </item>
+</items>
