@@ -1,0 +1,35 @@
+<items>
+    <item>
+        <title>De Volta para o Futuro I (1985)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:115a5c60e748baa9e2404ad4f799f39ab9811742</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/i996T0lI1fGtFEowiH3V6eZthL0.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0088763</imdb>
+            <year>1985</year>
+            <genre>Adventure, Comedy, Science Fiction</genre>
+        </meta>
+    </item>
+    <item>
+        <title>De Volta para o Futuro II (1989)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d04f17bd83f2e54786b6028bffc1457222c792df</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/dAAnK6EUBDUpM9H5EBfYV3GmtC1.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0096874</imdb>
+            <year>1989</year>
+            <genre>Adventure, Comedy, Science Fiction</genre>
+        </meta>
+    </item>
+    <item>
+        <title>De Volta para o Futuro III (1990)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e3bf68b50571fc39fcdcdf59c1f5a3c44670a7b</link>
+        <thumbnail>https://image.tmdb.org/t/p/w342/4FSf6KTBa765KxmocOFjg8cnQpx.jpg</thumbnail>
+        <meta>
+            <content>movie</content>
+            <imdb>tt0099088</imdb>
+            <year>1990</year>
+            <genre>Adventure, Comedy, Science Fiction</genre>
+        </meta>
+    </item>
+</items>
